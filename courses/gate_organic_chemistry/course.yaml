@@ -1,0 +1,48 @@
+title: GATE Organic Chemistry Study Workbench
+learner_level: GATE Chemistry candidate
+active_scope: Official GATE CY Organic Chemistry section only
+site_dir: site
+artifacts_dir: artifacts
+
+readiness:
+  requires_syllabus_index: true
+  requires_textbook_index: true
+  requires_video_index: true
+  requires_scene_index: false
+  allow_missing_questions: true
+
+videodb_pilot:
+  default_budget_usd: 10
+  required_lesson_count: 3
+  allowed_lesson_counts:
+    - 3
+    - 7
+  require_confident_mapping: true
+  recommended_lessons:
+    - stereochemistry
+    - reaction_mechanisms
+    - organic_synthesis
+
+generation:
+  uses_prebuilt_lesson_plan: true
+  allow_bundled_source_gap: true
+  output_app_path: site
+  fail_on_missing_textbook_evidence: false
+  fail_on_missing_video_evidence: true
+
+mastery:
+  states:
+    - not_started
+    - seen
+    - practiced
+    - review_needed
+    - mastered
+
+personalization:
+  enabled: true
+  defaults:
+    goal: exam_readiness
+    supportLevel: balanced
+    sessionLength: standard
+    practiceOrder: learn_then_practice
+    sourceDetail: essential

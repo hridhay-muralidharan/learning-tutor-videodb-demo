@@ -1,0 +1,125 @@
+{
+  "manifest_version": 1,
+  "mode": "dry_run",
+  "course_slug": "gate_organic_chemistry",
+  "course_path": "/Users/apple/Documents/Documents/ai-systems-engineer/portfolio_projects/jee-chemistry-video-tutor/courses/gate_organic_chemistry",
+  "created_at": "2026-07-26T17:05:15.296388+00:00",
+  "budget_usd": 10.0,
+  "lesson_ids": [
+    "stereochemistry",
+    "reaction_mechanisms",
+    "organic_synthesis",
+    "pericyclic_photochemistry",
+    "heterocycles",
+    "biomolecules",
+    "experimental_techniques"
+  ],
+  "required_lesson_count": 3,
+  "allowed_lesson_counts": [
+    3,
+    7
+  ],
+  "requires_scene_index": false,
+  "scene_index_policy": "not_required",
+  "rate_card_version": "2026-04-04",
+  "estimated_total_usd": 0,
+  "status": "dry_run_ready",
+  "would_spend_credits": false,
+  "credit_consuming_sources": [],
+  "operations": [],
+  "planned": [],
+  "skipped": [
+    {
+      "source_id": "gate_organic_graph_stereochemistry_specific_rotation",
+      "title": "Optical Activity - Specific Rotation & Enantiomeric Excess - Stereochemistry",
+      "url": "https://www.youtube.com/watch?v=duGxp_XZzvw",
+      "lesson_ids": [
+        "stereochemistry"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_pilot_reaction_mechanism_ifas",
+      "title": "Reaction Mechanism | Organic Chemistry | CSIR NET Chemistry | IFAS",
+      "url": "https://www.youtube.com/watch?v=hkh70pllOlo",
+      "lesson_ids": [
+        "reaction_mechanisms"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_pilot_organic_synthesis_retrosynthesis",
+      "title": "Retrosynthesis Organic Chemistry MSc Chemistry | Disconnection Approach | Reductive Amination | Umpolung",
+      "url": "https://www.youtube.com/watch?v=2I5vmNkYTOk",
+      "lesson_ids": [
+        "organic_synthesis"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_expansion_pericyclic_photochemistry_jchem",
+      "title": "Pericyclic Reactions | Photochemistry | GATE Chemistry Crash Course | IIT JAM Crash Course Chemistry",
+      "url": "https://www.youtube.com/watch?v=vCUhjaAPc20",
+      "lesson_ids": [
+        "pericyclic_photochemistry"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+      "title": "Heterocyclic Compound | Structure And Chemical Reaction of Pyridine | Indole | Quinoline | CSIR NET",
+      "url": "https://www.youtube.com/watch?v=7vJS_Yikogo",
+      "lesson_ids": [
+        "heterocycles"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_expansion_biomolecules_short_apna_sapna",
+      "title": "Composition, Structure and Function of Biomolecules",
+      "url": "https://www.youtube.com/watch?v=UEkBle3kuww",
+      "lesson_ids": [
+        "biomolecules"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+      "title": "Organic Spectroscopy - Revision Series (CSIR-NET 2020)",
+      "url": "https://www.youtube.com/watch?v=EHGIX125lWA",
+      "lesson_ids": [
+        "experimental_techniques"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_expansion_chromatography_chemistorian",
+      "title": "Chromatography for Visual Learners",
+      "url": "https://www.youtube.com/watch?v=nVy5jC0-xYk",
+      "lesson_ids": [
+        "experimental_techniques"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    },
+    {
+      "source_id": "gate_organic_expansion_nmr_pw",
+      "title": "NMR spectroscopy | Organic spectroscopy | IIT JAM Chemistry IIT JAM 2025 | PW",
+      "url": "https://www.youtube.com/watch?v=3_s2P2ZPg8U",
+      "lesson_ids": [
+        "experimental_techniques"
+      ],
+      "ingest_status": "skipped",
+      "reason": "already ingested"
+    }
+  ],
+  "blocked_reasons": [],
+  "request_signature": "f45ecebaea44580f17017efbb18b8d3c038dc5e2542a59528e0830023a5b427b"
+}

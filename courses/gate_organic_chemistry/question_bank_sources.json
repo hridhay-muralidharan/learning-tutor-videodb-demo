@@ -1,0 +1,30 @@
+[
+  {
+    "id": "official_gate_cy_2025",
+    "source_type": "official_pdf",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+    "local_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+    "answer_key_url": "https://gate2026.iitg.ac.in/doc/download/2025_Key/CY_Keys.pdf",
+    "answer_key_local_path": "resources/question_banks/official_gate/gate_cy_2025_answer_key.pdf",
+    "citation_label": "Official GATE 2025 Chemistry question paper",
+    "exam": "GATE Chemistry",
+    "year": 2025,
+    "required": true,
+    "artifact_only_allowed": false,
+    "mapping_status": "page_aware_pdf_index"
+  },
+  {
+    "id": "official_gate_cy_2024",
+    "source_type": "official_pdf",
+    "url": "https://gate2026.iitg.ac.in/doc/download/2024/CY24S1.pdf",
+    "local_path": "resources/question_banks/official_gate/gate_cy_2024_question_paper.pdf",
+    "answer_key_url": "https://gate2026.iitg.ac.in/doc/download/2024/CYFinalAnswerKey.pdf",
+    "answer_key_local_path": "resources/question_banks/official_gate/gate_cy_2024_answer_key.pdf",
+    "citation_label": "Official GATE 2024 Chemistry question paper",
+    "exam": "GATE Chemistry",
+    "year": 2024,
+    "required": true,
+    "artifact_only_allowed": false,
+    "mapping_status": "page_aware_pdf_index"
+  }
+]

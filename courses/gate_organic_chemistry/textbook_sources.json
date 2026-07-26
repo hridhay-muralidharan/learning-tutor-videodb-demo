@@ -1,0 +1,22 @@
+[
+  {
+    "id": "openstax_organic_chemistry",
+    "source_type": "curated_sections",
+    "local_path": "resources/textbooks/openstax_organic_sections.json",
+    "url": "https://openstax.org/details/books/organic-chemistry",
+    "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition",
+    "license": "CC BY-NC-SA 4.0",
+    "coverage_hints": [
+      "stereochemistry",
+      "reaction mechanisms",
+      "organic synthesis",
+      "pericyclic reactions",
+      "photochemistry",
+      "heterocyclic compounds",
+      "biomolecules",
+      "spectroscopy and experimental techniques"
+    ],
+    "required": true,
+    "artifact_only_allowed": false
+  }
+]

@@ -1,0 +1,52 @@
+# VideoDB Rate Card -- local source of truth for cost estimation
+# Source: https://videodb.io/pricing
+# Last updated: 2026-04-04
+
+version: "2026-04-04"
+
+ingest:
+  file_upload_per_gb: 0.09
+  realtime_per_hour: 0.084
+  transcoding_sd_per_min: 0.004
+  transcoding_hd_per_min: 0.009
+
+indexing:
+  scene_processing_per_scene: 0.003
+  transcription_per_min: 0.01
+  search_query_per_1k: 1.50
+
+storage:
+  media_per_gb_month: 0.03
+  index_per_min_month: 0.0005
+
+editing:
+  inline_edit_per_min: 0.004
+  overlay_edit_per_min: 0.01
+  resize_per_min: 0.01
+
+generation:
+  dubbing_per_min: 0.15
+  translation_per_min: 0.02
+  image_gen_ultra_per_img: 0.19
+  audio_gen_per_min: 0.12
+  video_gen_per_sec: 0.5
+
+streaming:
+  video_per_gb: 0.07
+  audio_image_per_gb: 0.06
+  download_720p_per_min: 0.03
+
+tokens:
+  basic_per_1k_tokens: 0.0016
+  advanced_per_1k_tokens: 0.0065
+  ultra_per_1k_tokens: 0.00875
+  tokens_per_frame_approx: 1000
+
+limits:
+  max_video_duration_seconds: 10800
+  indexing_cap_minutes: 1000
+  free_uploads: 50
+
+learning_tutor_estimation:
+  remote_video_gb_per_hour: 1.5
+  default_search_queries_per_video: 3

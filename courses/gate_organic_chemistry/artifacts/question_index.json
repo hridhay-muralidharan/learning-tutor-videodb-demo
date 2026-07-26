@@ -1,0 +1,771 @@
+{
+  "source_count": 2,
+  "question_count": 116,
+  "artifact_question_ref_count": 25,
+  "artifact_only_sources": [],
+  "missing_required_sources": [],
+  "lessons": [
+    {
+      "lesson_id": "stereochemistry",
+      "title": "Stereochemistry and Reactivity",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2025_0039",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 24,
+          "prompt_preview": "Q.33 The specific rotation of enantiomerically pure ( S)-2-butanol is +14 . The specific rotation of enantiomeric mixture of 2 -butanol obtained from an asymmetric reduction of 2-butanone is found to be +7. The percentage of (R)-2-butanol present in the reaction mixture is _____ (in integer).",
+          "keywords": [
+            "specific",
+            "rotation",
+            "enantiomerically",
+            "butanol",
+            "enantiomeric",
+            "mixture",
+            "obtained",
+            "asymmetric",
+            "reduction",
+            "butanone",
+            "found",
+            "percentage",
+            "present",
+            "reaction",
+            "integer"
+          ],
+          "matched_terms": [
+            "specific rotation",
+            "asymmetric"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2024_0061",
+          "citation_label": "Official GATE 2024 Chemistry question paper",
+          "year": 2024,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2024/CY24S1.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2024_question_paper.pdf",
+          "page": 39,
+          "prompt_preview": "Q.55 The correct statement(s) about the relationship for the H-atoms in the following compounds is (are): (A) H1 and H3 are enantiotopic; H2 and H3 are diastereotopic. (B) H1 and H3 are diastereotopic; H2 and H3 are enantiotopic. (C) H5 and H7 are enantiotopic; H6 and H7 are homotopic. (D) H5 and H7 are homotopic; H6 and H7 are enantiotopic.",
+          "keywords": [
+            "correct",
+            "statements",
+            "about",
+            "relationship",
+            "atoms",
+            "following",
+            "compounds",
+            "enantiotopic",
+            "diastereotopic",
+            "homotopic"
+          ],
+          "matched_terms": [
+            "enantiotopic",
+            "diastereotopic"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0052",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 33,
+          "prompt_preview": "Q.44 In the following asymmetric transformation, the key aldol reaction involves the attack of (A) Si face of enolate on to the Re face of aldehyde (B) Si face of enolate on to the Si face of aldehyde (C) Re face of enolate on to the Re face of aldehyde (D) Re face of enolate on to the Si face of aldehyde",
+          "keywords": [
+            "following",
+            "asymmetric",
+            "transformation",
+            "aldol",
+            "reaction",
+            "involves",
+            "attack",
+            "enolate",
+            "aldehyde"
+          ],
+          "matched_terms": [
+            "asymmetric"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0058",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 38,
+          "prompt_preview": "Q.50 Cytochrome P450 (CYP) enzymes catalyze stereoselective C‒H hydroxylation of hydrocarbons in the presence of O2. The correct statement(s) about the structure and activity of CYP is/are (A) A thiolate group is coordinated to the Fe center at one of the axial positions around Fe. (B) While one of the oxygen atoms of O2 is inserted into a C‒H bond of a hydrocarbon, the other oxygen atom gets reduced to water. (C) An imidazole group is coordinated to the Fe center at one of the axial positions a",
+          "keywords": [
+            "cytochrome",
+            "enzymes",
+            "catalyze",
+            "stereoselective",
+            "hydroxylation",
+            "hydrocarbons",
+            "presence",
+            "correct",
+            "statements",
+            "about",
+            "structure",
+            "activity",
+            "isare",
+            "thiolate",
+            "group",
+            "coordinated",
+            "center",
+            "axial",
+            "positions",
+            "around",
+            "while",
+            "oxygen",
+            "atoms",
+            "inserted"
+          ],
+          "matched_terms": [
+            "stereoselective"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2024_0021",
+          "citation_label": "Official GATE 2024 Chemistry question paper",
+          "year": 2024,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2024/CY24S1.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2024_question_paper.pdf",
+          "page": 12,
+          "prompt_preview": "Q.15 Among the following, the chiral compound is (A) P (B) Q (C) R (D) S",
+          "keywords": [
+            "among",
+            "following",
+            "chiral",
+            "compound"
+          ],
+          "matched_terms": [
+            "chiral"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "reaction_mechanisms",
+      "title": "Mechanistic Control and Reactive Intermediates",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2025_0033",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 22,
+          "prompt_preview": "Q.27 Choose the correct option(s) with regard to mechanism of the following transformation. (A) It proceeds through divinyl cyclopropane rearrangement (B) It involves a diradical intermediate (C) It proceeds through di--methane rearrangement (D) It proceeds through [2+2+2] cycloaddition reaction",
+          "keywords": [
+            "choose",
+            "correct",
+            "options",
+            "regard",
+            "mechanism",
+            "following",
+            "transformation",
+            "proceeds",
+            "through",
+            "divinyl",
+            "cyclopropane",
+            "rearrangement",
+            "involves",
+            "diradical",
+            "intermediate",
+            "methane",
+            "cycloaddition",
+            "reaction"
+          ],
+          "matched_terms": [
+            "mechanism",
+            "transformation",
+            "rearrangement",
+            "intermediate"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0031",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 20,
+          "prompt_preview": "Q.25 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (i) NBS, (PhCOO)2; (ii) aq. NaOH; (iii) active MnO2; (iv) Li/liq.NH3, t-BuOH (B) (i) m-CPBA; (ii) BF3.Et2O (C) (i) SeO2; (ii) Dess-Martin periodinane; (iii) K[BH(s-Bu)3] (K-selectride) (D) (i) dil. KMnO4; (ii) NaIO4",
+          "keywords": [
+            "correct",
+            "options",
+            "reagents",
+            "reaction",
+            "sequences",
+            "suitable",
+            "carrying",
+            "following",
+            "transformation",
+            "isare",
+            "phcoo2",
+            "active",
+            "liliqnh3",
+            "bf3et2o",
+            "martin",
+            "periodinane",
+            "selectride",
+            "kmno4",
+            "naio4"
+          ],
+          "matched_terms": [
+            "transformation",
+            "reaction sequence"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0060",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 39,
+          "prompt_preview": "Q.52 Consider the following two reactions and their corresponding Hammett plots Choose the option(s) that correctly match(es) the points on the graph given in Column-I with substituents X given in Column-II in accordance with their substituents constant  Column-I (points on the graph) Column-II (substituent X) p NH2 q NO2 r OMe s Cl t Me u CN (A) s → σ(X = Cl); t → σ(X = OMe); u → σ(X = NH2); r → σ(X = NO2) (B) s → σ(X = Me); u → σ(X = NH2); t → σ(X = OMe); r → σ(X = Br) (C) p → σ(X = Me); q → ",
+          "keywords": [
+            "consider",
+            "following",
+            "reactions",
+            "their",
+            "corresponding",
+            "hammett",
+            "plots",
+            "choose",
+            "options",
+            "correctly",
+            "matches",
+            "points",
+            "graph",
+            "given",
+            "column",
+            "substituents",
+            "accordance",
+            "constant",
+            "substituent"
+          ],
+          "matched_terms": [
+            "hammett",
+            "substituent"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0061",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 40,
+          "prompt_preview": "Q.53 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (B) (C) (D)",
+          "keywords": [
+            "correct",
+            "options",
+            "reagents",
+            "reaction",
+            "sequences",
+            "suitable",
+            "carrying",
+            "following",
+            "transformation",
+            "isare"
+          ],
+          "matched_terms": [
+            "transformation",
+            "reaction sequence"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0062",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 41,
+          "prompt_preview": "Q.54 The process(es) and/or intermediate(s) through which the following transformation proceeds is/are (A) 1,2-methide shift (B) 1,3-methide shift (C) non-classical carbocation (D) tertiary carbocation",
+          "keywords": [
+            "processes",
+            "andor",
+            "intermediates",
+            "through",
+            "which",
+            "following",
+            "transformation",
+            "proceeds",
+            "isare",
+            "methide",
+            "shift",
+            "classical",
+            "carbocation",
+            "tertiary"
+          ],
+          "matched_terms": [
+            "transformation",
+            "intermediate"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "organic_synthesis",
+      "title": "Functional-Group Synthesis and Selectivity",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2025_0031",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 20,
+          "prompt_preview": "Q.25 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (i) NBS, (PhCOO)2; (ii) aq. NaOH; (iii) active MnO2; (iv) Li/liq.NH3, t-BuOH (B) (i) m-CPBA; (ii) BF3.Et2O (C) (i) SeO2; (ii) Dess-Martin periodinane; (iii) K[BH(s-Bu)3] (K-selectride) (D) (i) dil. KMnO4; (ii) NaIO4",
+          "keywords": [
+            "correct",
+            "options",
+            "reagents",
+            "reaction",
+            "sequences",
+            "suitable",
+            "carrying",
+            "following",
+            "transformation",
+            "isare",
+            "phcoo2",
+            "active",
+            "liliqnh3",
+            "bf3et2o",
+            "martin",
+            "periodinane",
+            "selectride",
+            "kmno4",
+            "naio4"
+          ],
+          "matched_terms": [
+            "reaction sequence",
+            "reagents",
+            "transformation"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0061",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 40,
+          "prompt_preview": "Q.53 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (B) (C) (D)",
+          "keywords": [
+            "correct",
+            "options",
+            "reagents",
+            "reaction",
+            "sequences",
+            "suitable",
+            "carrying",
+            "following",
+            "transformation",
+            "isare"
+          ],
+          "matched_terms": [
+            "reaction sequence",
+            "reagents",
+            "transformation"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0049",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 30,
+          "prompt_preview": "Q.41 The major products X and Y formed in the following reaction sequences are (A) (B) (C) (D)",
+          "keywords": [
+            "major",
+            "products",
+            "formed",
+            "following",
+            "reaction",
+            "sequences"
+          ],
+          "matched_terms": [
+            "major product",
+            "reaction sequence"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0051",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 32,
+          "prompt_preview": "Q.43 The major product formed in the following reaction sequences is (A) (B) (C) (D)",
+          "keywords": [
+            "major",
+            "product",
+            "formed",
+            "following",
+            "reaction",
+            "sequences"
+          ],
+          "matched_terms": [
+            "major product",
+            "reaction sequence"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0052",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 33,
+          "prompt_preview": "Q.44 In the following asymmetric transformation, the key aldol reaction involves the attack of (A) Si face of enolate on to the Re face of aldehyde (B) Si face of enolate on to the Si face of aldehyde (C) Re face of enolate on to the Re face of aldehyde (D) Re face of enolate on to the Si face of aldehyde",
+          "keywords": [
+            "following",
+            "asymmetric",
+            "transformation",
+            "aldol",
+            "reaction",
+            "involves",
+            "attack",
+            "enolate",
+            "aldehyde"
+          ],
+          "matched_terms": [
+            "transformation",
+            "aldol"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "pericyclic_photochemistry",
+      "title": "Pericyclic and Photochemical Logic",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2025_0033",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 22,
+          "prompt_preview": "Q.27 Choose the correct option(s) with regard to mechanism of the following transformation. (A) It proceeds through divinyl cyclopropane rearrangement (B) It involves a diradical intermediate (C) It proceeds through di--methane rearrangement (D) It proceeds through [2+2+2] cycloaddition reaction",
+          "keywords": [
+            "choose",
+            "correct",
+            "options",
+            "regard",
+            "mechanism",
+            "following",
+            "transformation",
+            "proceeds",
+            "through",
+            "divinyl",
+            "cyclopropane",
+            "rearrangement",
+            "involves",
+            "diradical",
+            "intermediate",
+            "methane",
+            "cycloaddition",
+            "reaction"
+          ],
+          "matched_terms": [
+            "cycloaddition",
+            "divinyl cyclopropane",
+            "rearrangement"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "heterocycles",
+      "title": "Heterocycle Structure and Reactions",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2024_0029",
+          "citation_label": "Official GATE 2024 Chemistry question paper",
+          "year": 2024,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2024/CY24S1.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2024_question_paper.pdf",
+          "page": 19,
+          "prompt_preview": "Q.25 The reaction(s) that yield(s) 2-methylquinoline as the major product is (are) (A) (B) (C) (D)",
+          "keywords": [
+            "reactions",
+            "yields",
+            "methylquinoline",
+            "major",
+            "product"
+          ],
+          "matched_terms": [
+            "quinoline",
+            "2-methylquinoline"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "biomolecules",
+      "title": "Biomolecules in Organic Chemistry",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2025_0038",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 24,
+          "prompt_preview": "Q.32 Partial hydrolysis of a pentapeptide yields all possible tripeptides and dipeptides. The dipeptides that are obtained upon hydrolysis are given below. Val-Ala, Gln-His, Phe-Val and Ala-Gln The total number of tripeptides obtained that contain ‘Ala’ as one of the amino acids is____ (in integer).",
+          "keywords": [
+            "partial",
+            "hydrolysis",
+            "pentapeptide",
+            "yields",
+            "possible",
+            "tripeptides",
+            "dipeptides",
+            "obtained",
+            "given",
+            "below",
+            "total",
+            "number",
+            "contain",
+            "amino",
+            "acids",
+            "integer"
+          ],
+          "matched_terms": [
+            "peptide",
+            "amino acids",
+            "pentapeptide",
+            "tripeptides",
+            "dipeptides"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2024_0027",
+          "citation_label": "Official GATE 2024 Chemistry question paper",
+          "year": 2024,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2024/CY24S1.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2024_question_paper.pdf",
+          "page": 17,
+          "prompt_preview": "Q.23 Among the following metalloproteins, the pair(s) of non-heme proteins is (are) (A) Hemoglobin and Myoglobin (B) Hemocyanin and Carboxypeptidase (C) Hemerythrin and Carbonic anhydrase (D) Cytochrome P-450 and Hemocyanin",
+          "keywords": [
+            "among",
+            "following",
+            "metalloproteins",
+            "pairs",
+            "proteins",
+            "hemoglobin",
+            "myoglobin",
+            "hemocyanin",
+            "carboxypeptidase",
+            "hemerythrin",
+            "carbonic",
+            "anhydrase",
+            "cytochrome"
+          ],
+          "matched_terms": [
+            "cytochrome",
+            "metalloproteins"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0058",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 38,
+          "prompt_preview": "Q.50 Cytochrome P450 (CYP) enzymes catalyze stereoselective C‒H hydroxylation of hydrocarbons in the presence of O2. The correct statement(s) about the structure and activity of CYP is/are (A) A thiolate group is coordinated to the Fe center at one of the axial positions around Fe. (B) While one of the oxygen atoms of O2 is inserted into a C‒H bond of a hydrocarbon, the other oxygen atom gets reduced to water. (C) An imidazole group is coordinated to the Fe center at one of the axial positions a",
+          "keywords": [
+            "cytochrome",
+            "enzymes",
+            "catalyze",
+            "stereoselective",
+            "hydroxylation",
+            "hydrocarbons",
+            "presence",
+            "correct",
+            "statements",
+            "about",
+            "structure",
+            "activity",
+            "isare",
+            "thiolate",
+            "group",
+            "coordinated",
+            "center",
+            "axial",
+            "positions",
+            "around",
+            "while",
+            "oxygen",
+            "atoms",
+            "inserted"
+          ],
+          "matched_terms": [
+            "cytochrome"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "experimental_techniques",
+      "title": "Organic Analysis and Structural Determination",
+      "questions": [
+        {
+          "question_id": "official_gate_cy_2025_0050",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 31,
+          "prompt_preview": "Q.42 Compound K displayed a strong band at 1680 cm-1 in its IR spectrum. Its 1H-NMR spectral data are as follows:  (ppm) 7.30 (d, J = 7.2 Hz, 2H), 6.8 (d, J = 7.2 Hz, 2H), 3.8 (septet, J = 7.0 Hz, 1H), 2.2 (s, 3H), 1.9 (d, J = 7.0 Hz, 6H). The correct structure of compound K is (A) (B) (C) (D)",
+          "keywords": [
+            "compound",
+            "displayed",
+            "strong",
+            "spectrum",
+            "spectral",
+            "follows",
+            "septet",
+            "correct",
+            "structure"
+          ],
+          "matched_terms": [
+            "nmr",
+            "ir spectrum",
+            "spectral"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0030",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 19,
+          "prompt_preview": "Q.24 Compound(s) that show(s) an intense peak at m/z 120 in the EI mass spectrum is/are (A) (B) (C) (D)",
+          "keywords": [
+            "compounds",
+            "shows",
+            "intense",
+            "spectrum",
+            "isare"
+          ],
+          "matched_terms": [
+            "mass spectrum",
+            "m/z"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0022",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 14,
+          "prompt_preview": "Q.16 In the 1H-NMR spectrum of the following molecule, the signal of proton Ha appears as (A) singlet (B) triplet (C) quintet (D) quartet",
+          "keywords": [
+            "spectrum",
+            "following",
+            "molecule",
+            "signal",
+            "proton",
+            "appears",
+            "singlet",
+            "triplet",
+            "quintet",
+            "quartet"
+          ],
+          "matched_terms": [
+            "nmr"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2025_0047",
+          "citation_label": "Official GATE 2025 Chemistry question paper",
+          "year": 2025,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2025/CY2025.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2025_question_paper.pdf",
+          "page": 28,
+          "prompt_preview": "Q.39 The 1H NMR spectrum of the given iridium complex at room temperature gave a single signal at 2. 6 ppm, and its 31P NMR spectrum gave a single signal at 23.0 ppm. When the spectra were recorded at lower temperatures, both these signals split into a complex pattern. The intra-molecular dynamic processes shown by this molecule are (A) Berry pseudo-rotation and rotation of the ethylene units along the C=C axis (B) Berry pseudo-rotation and propeller type rotation of the ethylene units along the",
+          "keywords": [
+            "spectrum",
+            "given",
+            "iridium",
+            "complex",
+            "temperature",
+            "single",
+            "signal",
+            "spectra",
+            "recorded",
+            "lower",
+            "temperatures",
+            "these",
+            "signals",
+            "split",
+            "pattern",
+            "intra",
+            "molecular",
+            "dynamic",
+            "processes",
+            "shown",
+            "molecule",
+            "berry",
+            "pseudo",
+            "rotation"
+          ],
+          "matched_terms": [
+            "nmr"
+          ]
+        },
+        {
+          "question_id": "official_gate_cy_2024_0022",
+          "citation_label": "Official GATE 2024 Chemistry question paper",
+          "year": 2024,
+          "source_url": "https://gate2026.iitg.ac.in/doc/download/2024/CY24S1.pdf",
+          "source_path": "resources/question_banks/official_gate/gate_cy_2024_question_paper.pdf",
+          "page": 13,
+          "prompt_preview": "Q.16 The major product in the given reaction sequence is Q. The mass spectrum of Q shows ([M] = molecular ion peak) (A) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:1:1:1 (B) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:3:3:1 (C) [M], [M+2], and [M+4] peaks with relative intensity of 1:2:1 (D) [M] and [M+2] peaks with relative intensity of 1:1",
+          "keywords": [
+            "major",
+            "product",
+            "given",
+            "reaction",
+            "sequence",
+            "spectrum",
+            "shows",
+            "molecular",
+            "peaks",
+            "relative",
+            "intensity"
+          ],
+          "matched_terms": [
+            "mass spectrum"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    }
+  ],
+  "unmatched_questions": [],
+  "status": "ready"
+}

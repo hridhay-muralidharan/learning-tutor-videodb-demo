@@ -1,0 +1,1064 @@
+{
+  "source_count": 1,
+  "passage_count": 14,
+  "artifact_only_sources": [],
+  "missing_required_sources": [],
+  "lessons": [
+    {
+      "lesson_id": "stereochemistry",
+      "title": "Stereochemistry and Reactivity",
+      "module": "Stereochemistry",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 5.1 Enantiomers and the Tetrahedral Carbon",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/5-1-enantiomers-and-the-tetrahedral-carbon",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "5.1 Enantiomers and the Tetrahedral Carbon",
+          "page": null,
+          "chunk_id": "openstax_orgchem_stereo_5_1",
+          "text_preview": "A molecule that is not identical to its mirror image is chiral. OpenStax introduces enantiomers through tetrahedral carbon centers, mirror-image relationships, and the structural test for handedness.",
+          "full_text": "What causes molecular handedness? Look at generalized molecules of the type CH 3 X, CH 2 XY, and CHXYZ shown in Figure 5.2 . On the left are three molecules, and on the right are their images reflected in a mirror. The CH 3 X and CH 2 XY molecules are identical to their mirror images and thus are not handed. If you make a molecular model of each molecule and its mirror image, you find that you can superimpose one on the other so that all atoms coincide. The CHXYZ molecule, by contrast, is not identical to its mirror image. You can’t superimpose a model of this molecule on a model of its mirror image for the same reason that you can’t superimpose a left hand on a right hand: they simply aren’t the same.\n\nFigure 5.2 Tetrahedral carbon atoms and their mirror images. Molecules of the type CH 3 X and CH 2 XY are identical to their mirror images, but a molecule of the type CHXYZ is not. A CHXYZ molecule is related to its mirror image in the same way a right hand is related to a left hand.\n\nA molecule that is not identical to its mirror image is a kind of stereoisomer ( Section 4.2 ) called an enantiomer (e- nan -tee-oh-mer, from the Greek enantio, meaning “opposite”). Enantiomers are related to each other as a right hand is related to a left hand and result whenever a tetrahedral carbon is bonded to four different substituents (one need not be H). For example, lactic acid (2-hydroxypropanoic acid) exists as a pair of enantiomers because there are four different groups (-H, -OH, -CH 3 , -CO 2 H) bonded to the central carbon atom. The enantiomers are called (+)-lactic acid and (-)-lactic acid. Both are found in sour milk, but only the (+) enantiomer occurs in muscle tissue.\n\nNo matter how hard you try, you can’t superimpose a molecule of (+)-lactic acid on a molecule of (-)-lactic acid. If any two groups match up, say -H and -CO 2 H, the remaining two groups don’t match ( Figure 5.3 ).\n\nFigure 5.3 Attempts at superimposing the mirror-image forms of lactic acid. (a) When the -H and -OH substituents match up, the -CO 2 H and -CH 3 substituents don’t; (b) when -CO 2 H and -CH 3 match up, -H and -OH don’t. Regardless of how the molecules are oriented, they aren’t identical.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "What causes molecular handedness? Look at generalized molecules of the type CH 3 X, CH 2 XY, and CHXYZ shown in Figure 5.2 . On the left are three molecules, and on the right are their images reflected in a mirror. The CH 3 X and CH 2 XY molecules are identical to their mirror images and thus are not handed. If you make a molecular model of each molecule and its mirror image, you find that you can superimpose one on the other so that all atoms coincide. The CHXYZ molecule, by contrast, is not identical to its mirror image. You can’t superimpose a model of this molecule on a model of its mirror image for the same reason that you can’t superimpose a left hand on a right hand: they simply aren’t the same."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 5.2 Tetrahedral carbon atoms and their mirror images. Molecules of the type CH 3 X and CH 2 XY are identical to their mirror images, but a molecule of the type CHXYZ is not. A CHXYZ molecule is related to its mirror image in the same way a right hand is related to a left hand.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/ea0210f47007c9dca0b66089bace537efb8982d5",
+              "alt": "The figure shows condensed formulas, structures, and ball-and-stick models of C H 3 X, C H 2 X Y, and C H X Y Z along with their mirror images."
+            },
+            {
+              "type": "paragraph",
+              "text": "A molecule that is not identical to its mirror image is a kind of stereoisomer ( Section 4.2 ) called an enantiomer (e- nan -tee-oh-mer, from the Greek enantio, meaning “opposite”). Enantiomers are related to each other as a right hand is related to a left hand and result whenever a tetrahedral carbon is bonded to four different substituents (one need not be H). For example, lactic acid (2-hydroxypropanoic acid) exists as a pair of enantiomers because there are four different groups (-H, -OH, -CH 3 , -CO 2 H) bonded to the central carbon atom. The enantiomers are called (+)-lactic acid and (-)-lactic acid. Both are found in sour milk, but only the (+) enantiomer occurs in muscle tissue."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/691eef8f331622edfe544d197c1810c1d3fc5714",
+              "alt": "Structure of lactic acid with a molecule of the general formula C H X Y Z. Ball-and-stick model and structure of (plus)-lactic acid with its mirror image, displaying (minus)-lactic acid."
+            },
+            {
+              "type": "paragraph",
+              "text": "No matter how hard you try, you can’t superimpose a molecule of (+)-lactic acid on a molecule of (-)-lactic acid. If any two groups match up, say -H and -CO 2 H, the remaining two groups don’t match ( Figure 5.3 )."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 5.3 Attempts at superimposing the mirror-image forms of lactic acid. (a) When the -H and -OH substituents match up, the -CO 2 H and -CH 3 substituents don’t; (b) when -CO 2 H and -CH 3 match up, -H and -OH don’t. Regardless of how the molecules are oriented, they aren’t identical.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/31713a43f02c4a3216433092dfb8e830aea04a9a",
+              "alt": "Two pairs of lactic acid molecules. Pair a shows the positions of substituents mismatching except hydrogen and hydroxyl groups. Pair b shows substituents mismatching except methyl and carboxylic acid groups."
+            }
+          ],
+          "keywords": [
+            "chiral",
+            "enantiomers",
+            "tetrahedral",
+            "mirror",
+            "stereochemistry",
+            "configuration"
+          ],
+          "lesson_ids": [
+            "stereochemistry"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 5.5 Sequence Rules for Specifying Configuration",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/5-5-sequence-rules-for-specifying-configuration",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "5.5 Sequence Rules for Specifying Configuration",
+          "page": null,
+          "chunk_id": "openstax_orgchem_stereo_5_5",
+          "text_preview": "The R/S system assigns absolute configuration by ranking substituents around a stereocenter. The section gives the priority-rule logic needed before comparing stereochemical outcomes.",
+          "full_text": "Structural drawings provide a visual representation of stereochemistry, but a written method for indicating the three-dimensional arrangement, or configuration , of substituents at a chirality center is also needed. The method used a set of sequence rules to rank the four groups attached to the chirality center and then looks at the handedness with which those groups are attached. Called the Cahn-Ingold-Prelog rules after the chemists who proposed them, the sequence rules are as follows:\n\nRULE 1 Look at the four atoms directly attached to the chirality center, and rank them according to atomic number. The atom with the highest atomic number has the highest ranking (first), and the atom with the lowest atomic number (usually hydrogen) has the lowest ranking (fourth). When different isotopes of the same element are compared, such as deuterium ( 2 H) and protium ( 1 H), the heavier isotope ranks higher than the lighter isotope. Thus, atoms commonly found in organic compounds have the following order.\n\nRULE 2 If a decision can’t be reached by ranking the first atoms in the substituent, look at the second, third, or fourth atoms away from the chirality center until the first difference is found. A -CH 2 CH 3 substituent and a -CH 3 substituent are equivalent by rule 1 because both have carbon as the first atom. By rule 2, however, ethyl ranks higher than methyl because ethyl has a carbon as its highest second atom, while methyl has only hydrogen as its second atom. Look at the following pairs of examples to see how the rule works:\n\nRULE 3 Multiple-bonded atoms are equivalent to the same number of single-bonded atoms. For example, an aldehyde substituent ( -CH═O -CH═O ), which has a carbon atom doubly bonded to one oxygen, is equivalent to a substituent having a carbon atom singly bonded to two oxygens:\n\nAs further examples, the following pairs are equivalent:\n\nHaving ranked the four groups attached to a chiral carbon, we describe the stereochemical configuration around the carbon by orienting the molecule so that the group with the lowest ranking (4) points directly away from us. We then look at the three remaining substituents, which now appear to radiate toward us like the spokes on a steering wheel ( Figure 5.8 ). If a curved arrow drawn from the highest to second-highest to third-highest ranked substituent (1 → 2 → 3) is clockwise, we say that the chirality center has the R configuration (Latin rectus, meaning “right”). If an arrow from 1 → 2 → 3 is counterclockwise, the chirality center has the S configuration (Latin sinister , meaning “left”). To remember these assignments, think of a car’s steering wheel when making a R ight (clockwise) turn.\n\nFigure 5.8 Assigning R and S configurations to chirality centers. When the molecule is oriented so that the lowest-ranked group ( 4 ) is toward the rear, the remaining three groups radiate toward the viewer like the spokes of a steering wheel. If the direction of travel 1 → 2 → 3 is clockwise (right turn), the center has the R configuration. If the direction of travel 1 → 2 → 3 is counterclockwise (left turn), the center is S .\n\nLook at (-)-lactic acid in Figure 5.9 for an example of how to assign configuration. Sequence rule 1 says that -OH is ranked 1 and -H is ranked 4, but it doesn’t allow us to distinguish between -CH 3 and -CO 2 H because both groups have carbon as their first atom. Sequence rule 2, however, says that -CO 2 H ranks higher than -CH 3 because O (the highest second atom in -CO 2 H) outranks H (the highest second atom in -CH 3 ). Now, turn the molecule so that the fourth-ranked group (-H) is oriented toward the rear, away from the observer. Since a curved arrow from 1 (-OH) to 2 (-CO 2 H) to 3 (-CH 3 ) is clockwise (right turn of the steering wheel), (-)-lactic acid has the R configuration. Applying the same procedure to (+)-lactic acid leads to the opposite assignment.\n\nFigure 5.9 Assigning configuration to (a) ( R )-(-)-lactic acid and (b) ( S )-(+)-lactic acid.\n\nFurther examples are provided by naturally occurring (-)-glyceraldehyde and (+)-alanine, which both have the S configuration as shown in Figure 5.10 . Note that the sign of optical rotation, (+) or (-), is not related to the R,S designation. ( S )-Glyceraldehyde happens to be levorotatory (-), and ( S )-alanine happens to be dextrorotatory (+). There is no simple correlation between R,S configuration and direction or magnitude of optical rotation.\n\nFigure 5.10 Assigning configuration to (a) (-)-glyceraldehyde. (b) (+)-alanine. Both happen to have the S configuration, although one is levorotatory and the other is dextrorotatory.\n\nOne additional point needs to be mentioned-the matter of absolute configuration . How do we know that the assignments of R and S configuration are correct in an absolute sense , rather than a relative, sense? Since there is no correlation between the R,S configuration and the direction or magnitude of optical rotation, how do we know that the R configuration belongs to the levorotatory enantiomer of lactic acid? This difficult question was finally solved in 1951, when an X-ray diffraction method was found for determining the absolute spatial arrangement of atoms in a molecule. Based on those results, we can say with certainty that the R , S conventions are correct.\n\nWorked Example 5.3 Assigning Configuration to Chirality Centers Orient each of the following drawings so that the lowest-ranked group is toward the rear, and then assign R or S configuration to each: Strategy It takes practice to be able to visualize and orient a chirality center in three dimensions. You might start by indicating where the observer must be located-180° opposite the lowest-ranked group. Then imagine yourself in the position of the observer, and redraw what you would see. Solution In (a) , you would be located in front of the page toward the top right of the molecule, and you would see group 2 to your left, group 3 to your right, and group 1 below you. This corresponds to an R configuration. In (b) , you would be located behind the page toward the top left of the molecule from your point of view, and you would see group 3 to your left, group 1 to your right, and group 2 below you. This also corresponds to an R configuration.\n\nWorked Example 5.4 Drawing the Three-Dimensional Structure of a Specific Enantiomer Draw a tetrahedral representation of ( R )-2-chlorobutane. Strategy Begin by ranking the four substituents bonded to the chirality center: (1) -Cl, (2) -CH 2 CH 3 , (3) -CH 3 , (4) -H. To draw a tetrahedral representation of the molecule, orient the lowest-ranked group (-H) away from you and imagine that the other three groups are coming out of the page toward you. Then, place the remaining three substituents such that the direction of travel 1 → 2 → 3 is clockwise (right turn), and tilt the molecule toward you to bring the rear hydrogen into view. Using molecular models is a real help in working problems of this sort. Solution\n\nProblem 5-7 Which member in each of the following sets ranks higher? (a) -H or -Br (b) -Cl or -Br (c) -CH 3 or -CH 2 CH 3 (d) -NH 2 or -OH (e) -CH 2 OH or -CH 3 (f) -CH 2 OH or -CH = O Problem 5-8 Rank each of the following sets of substituents: (a) -H, -OH, -CH 2 CH 3 , -CH 2 CH 2 OH (b) -CO 2 H, -CO 2 CH 3 , -CH 2 OH, -OH (c) -CN, -CH 2 NH 2 , -CH 2 NHCH 3 , -NH 2 (d) -SH, -CH 2 SCH 3 , -CH 3 , -SSCH 3 Problem 5-9 Orient each of the following drawings so that the lowest-ranked group is toward the rear, and then assign R or S configuration: (a) (b) (c) Problem 5-10 Assign R or S configuration to the chirality center in each of the following molecules: (a) (b) (c) Problem 5-11 Draw a tetrahedral representation of ( S )-2-pentanol (2-hydroxypentane). Problem 5-12 Assign R or S configuration to the chirality center in the following molecular model of the amino acid methionine (blue = N, yellow = S):",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Structural drawings provide a visual representation of stereochemistry, but a written method for indicating the three-dimensional arrangement, or configuration , of substituents at a chirality center is also needed. The method used a set of sequence rules to rank the four groups attached to the chirality center and then looks at the handedness with which those groups are attached. Called the Cahn-Ingold-Prelog rules after the chemists who proposed them, the sequence rules are as follows:"
+            },
+            {
+              "type": "paragraph",
+              "text": "RULE 1 Look at the four atoms directly attached to the chirality center, and rank them according to atomic number. The atom with the highest atomic number has the highest ranking (first), and the atom with the lowest atomic number (usually hydrogen) has the lowest ranking (fourth). When different isotopes of the same element are compared, such as deuterium ( 2 H) and protium ( 1 H), the heavier isotope ranks higher than the lighter isotope. Thus, atoms commonly found in organic compounds have the following order."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/d4494b9d9e93d9a06f0db4aca584418416851f59",
+              "alt": "The atoms are arranged in descending order of their ranking and atomic number as follows: B r, C l, S, P, O, N, C, 2 H, and 1 H."
+            },
+            {
+              "type": "paragraph",
+              "text": "RULE 2 If a decision can’t be reached by ranking the first atoms in the substituent, look at the second, third, or fourth atoms away from the chirality center until the first difference is found. A -CH 2 CH 3 substituent and a -CH 3 substituent are equivalent by rule 1 because both have carbon as the first atom. By rule 2, however, ethyl ranks higher than methyl because ethyl has a carbon as its highest second atom, while methyl has only hydrogen as its second atom. Look at the following pairs of examples to see how the rule works:"
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/51cf31dd72ca5bab6103fe7f69308164c00c2e8e",
+              "alt": "Four pairs of structures are ranked. Within each pair, one structure is labeled as lower while the other as higher."
+            },
+            {
+              "type": "paragraph",
+              "text": "RULE 3 Multiple-bonded atoms are equivalent to the same number of single-bonded atoms. For example, an aldehyde substituent ( -CH═O -CH═O ), which has a carbon atom doubly bonded to one oxygen, is equivalent to a substituent having a carbon atom singly bonded to two oxygens:"
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/f4103fdb17b6bd0efe5a9551cb1377828c50ddc3",
+              "alt": "Two equivalent structures. The first structure has a carbonyl group. The second structure has a carbon bonded to hydrogen and two oxygens. One of the oxygens is bonded to carbon."
+            },
+            {
+              "type": "paragraph",
+              "text": "As further examples, the following pairs are equivalent:"
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/504d497384085135e5d9ba1f4d7055b5ea8b410a",
+              "alt": "Two pairs of equivalent structures. First pair shows alkene and a 4-carbon chain. Second pair shows alkyne and a 2-carbon chain, in which each carbon is bonded to two carbons"
+            },
+            {
+              "type": "paragraph",
+              "text": "Having ranked the four groups attached to a chiral carbon, we describe the stereochemical configuration around the carbon by orienting the molecule so that the group with the lowest ranking (4) points directly away from us. We then look at the three remaining substituents, which now appear to radiate toward us like the spokes on a steering wheel ( Figure 5.8 ). If a curved arrow drawn from the highest to second-highest to third-highest ranked substituent (1 → 2 → 3) is clockwise, we say that the chirality center has the R configuration (Latin rectus, meaning “right”). If an arrow from 1 → 2 → 3 is counterclockwise, the chirality center has the S configuration (Latin sinister , meaning “left”). To remember these assignments, think of a car’s steering wheel when making a R ight (clockwise) turn."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 5.8 Assigning R and S configurations to chirality centers. When the molecule is oriented so that the lowest-ranked group ( 4 ) is toward the rear, the remaining three groups radiate toward the viewer like the spokes of a steering wheel. If the direction of travel 1 → 2 → 3 is clockwise (right turn), the center has the R configuration. If the direction of travel 1 → 2 → 3 is counterclockwise (left turn), the center is S .",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/0fb436033dd896bd19bc760c52806b4fd5b8063f",
+              "alt": "Substituents in the compound form R configuration, depicted as a right turn of the steering wheel. Its mirror image forms S configuration, depicted as left turn of the steering wheel."
+            },
+            {
+              "type": "paragraph",
+              "text": "Look at (-)-lactic acid in Figure 5.9 for an example of how to assign configuration. Sequence rule 1 says that -OH is ranked 1 and -H is ranked 4, but it doesn’t allow us to distinguish between -CH 3 and -CO 2 H because both groups have carbon as their first atom. Sequence rule 2, however, says that -CO 2 H ranks higher than -CH 3 because O (the highest second atom in -CO 2 H) outranks H (the highest second atom in -CH 3 ). Now, turn the molecule so that the fourth-ranked group (-H) is oriented toward the rear, away from the observer. Since a curved arrow from 1 (-OH) to 2 (-CO 2 H) to 3 (-CH 3 ) is clockwise (right turn of the steering wheel), (-)-lactic acid has the R configuration. Applying the same procedure to (+)-lactic acid leads to the opposite assignment."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 5.9 Assigning configuration to (a) ( R )-(-)-lactic acid and (b) ( S )-(+)-lactic acid.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/9d735eb45ff80921e4e4dbd2658124fc9581c053",
+              "alt": "Structure and ball-and-stick model of (minus)-lactic acid with R configuration. Its mirror image shows ball-and-stick model of (plus)-lactic acid with S configuration. The figure also shows structure of (plus)-lactic acid."
+            },
+            {
+              "type": "paragraph",
+              "text": "Further examples are provided by naturally occurring (-)-glyceraldehyde and (+)-alanine, which both have the S configuration as shown in Figure 5.10 . Note that the sign of optical rotation, (+) or (-), is not related to the R,S designation. ( S )-Glyceraldehyde happens to be levorotatory (-), and ( S )-alanine happens to be dextrorotatory (+). There is no simple correlation between R,S configuration and direction or magnitude of optical rotation."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 5.10 Assigning configuration to (a) (-)-glyceraldehyde. (b) (+)-alanine. Both happen to have the S configuration, although one is levorotatory and the other is dextrorotatory.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/2e34e20602f17714860b222edd832cbeb4d4a0c0",
+              "alt": "The structures and ball-and-stick models of (S)-Glyceraldehyde [(S)-(minus)-2,3-dihydroxypropanal] and (S)-alanine [(S)-(plus)-2-aminopropanoic acid with their [alpha] D values equals minus 8.7 and plus 8.5, respectively."
+            },
+            {
+              "type": "paragraph",
+              "text": "One additional point needs to be mentioned-the matter of absolute configuration . How do we know that the assignments of R and S configuration are correct in an absolute sense , rather than a relative, sense? Since there is no correlation between the R,S configuration and the direction or magnitude of optical rotation, how do we know that the R configuration belongs to the levorotatory enantiomer of lactic acid? This difficult question was finally solved in 1951, when an X-ray diffraction method was found for determining the absolute spatial arrangement of atoms in a molecule. Based on those results, we can say with certainty that the R , S conventions are correct."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 5.3 Assigning Configuration to Chirality Centers Orient each of the following drawings so that the lowest-ranked group is toward the rear, and then assign R or S configuration to each: Strategy It takes practice to be able to visualize and orient a chirality center in three dimensions. You might start by indicating where the observer must be located-180° opposite the lowest-ranked group. Then imagine yourself in the position of the observer, and redraw what you would see. Solution In (a) , you would be located in front of the page toward the top right of the molecule, and you would see group 2 to your left, group 3 to your right, and group 1 below you. This corresponds to an R configuration. In (b) , you would be located behind the page toward the top left of the molecule from your point of view, and you would see group 3 to your left, group 1 to your right, and group 2 below you. This also corresponds to an R configuration."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 5.4 Drawing the Three-Dimensional Structure of a Specific Enantiomer Draw a tetrahedral representation of ( R )-2-chlorobutane. Strategy Begin by ranking the four substituents bonded to the chirality center: (1) -Cl, (2) -CH 2 CH 3 , (3) -CH 3 , (4) -H. To draw a tetrahedral representation of the molecule, orient the lowest-ranked group (-H) away from you and imagine that the other three groups are coming out of the page toward you. Then, place the remaining three substituents such that the direction of travel 1 → 2 → 3 is clockwise (right turn), and tilt the molecule toward you to bring the rear hydrogen into view. Using molecular models is a real help in working problems of this sort. Solution"
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 5-7 Which member in each of the following sets ranks higher? (a) -H or -Br (b) -Cl or -Br (c) -CH 3 or -CH 2 CH 3 (d) -NH 2 or -OH (e) -CH 2 OH or -CH 3 (f) -CH 2 OH or -CH = O Problem 5-8 Rank each of the following sets of substituents: (a) -H, -OH, -CH 2 CH 3 , -CH 2 CH 2 OH (b) -CO 2 H, -CO 2 CH 3 , -CH 2 OH, -OH (c) -CN, -CH 2 NH 2 , -CH 2 NHCH 3 , -NH 2 (d) -SH, -CH 2 SCH 3 , -CH 3 , -SSCH 3 Problem 5-9 Orient each of the following drawings so that the lowest-ranked group is toward the rear, and then assign R or S configuration: (a) (b) (c) Problem 5-10 Assign R or S configuration to the chirality center in each of the following molecules: (a) (b) (c) Problem 5-11 Draw a tetrahedral representation of ( S )-2-pentanol (2-hydroxypentane). Problem 5-12 Assign R or S configuration to the chirality center in the following molecular model of the amino acid methionine (blue = N, yellow = S):"
+            }
+          ],
+          "keywords": [
+            "sequence",
+            "rules",
+            "configuration",
+            "absolute",
+            "stereocenter",
+            "priority"
+          ],
+          "lesson_ids": [
+            "stereochemistry"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "reaction_mechanisms",
+      "title": "Mechanistic Control and Reactive Intermediates",
+      "module": "Reaction Mechanisms",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 6.2 How Organic Reactions Occur: Mechanisms",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/6-2-how-organic-reactions-occur-mechanisms",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "6.2 How Organic Reactions Occur: Mechanisms",
+          "page": null,
+          "chunk_id": "openstax_orgchem_mechanisms_6_2",
+          "text_preview": "A reaction mechanism describes the individual steps by which reactants are converted into products. OpenStax frames mechanisms as bond-breaking and bond-forming events tracked with electron movement.",
+          "full_text": "Having looked at the kinds of reactions that take place, let’s now see how they occur. An overall description of how a reaction occurs is called a reaction mechanism . A mechanism describes in detail exactly what takes place at each stage of a chemical transformation-which bonds are broken and in what order, which bonds are formed and in what order, and what the relative rates are for each step. A complete mechanism must also account for all reactants used and all products formed.\n\nAll chemical reactions involve bond-breaking and bond-making. When two molecules come together, react, and yield products, specific bonds in the reactant molecules are broken and specific bonds in the product molecules are formed. Fundamentally, there are two ways in which a covalent two-electron bond can break. A bond can break in an electronically unsymmetrical way so that both bonding electrons remain with one product fragment, leaving the other with a vacant orbital, or a bond can break in an electronically symmetrical way so that one electron remains with each product fragment. The unsymmetrical cleavage is said to be heterolytic , and the symmetrical cleavage is said to be homolytic .\n\nWe’ll develop this point in more detail later, but note for now that the movement of two electrons in the unsymmetrical process is indicated using a full-headed curved arrow ( ), whereas the movement of one electron in the symmetrical process is indicated using a half-headed, or “fishhook,” arrow ( ).\n\nJust as there are two ways in which a bond can break, there are two ways in which a covalent two-electron bond can form. A bond can form in an electronically unsymmetrical way if both bonding electrons are donated to the new bond by one reactant, or in a symmetrical way if one electron is donated by each reactant.\n\nProcesses that involve unsymmetrical bond-breaking and bond-making are called polar reactions . Polar reactions involve species that have an even number of electrons and thus have only electron pairs in their orbitals. Polar processes are by far the more common reaction type in both organic and biological chemistry, and a large part of this book is devoted to their description.\n\nProcesses that involve symmetrical bond-breaking and bond-making are called radical reactions . A radical , often called a free radical , is a neutral chemical species that contains an odd number of electrons and thus has a single, unpaired electron in one of its orbitals.\n\nIn addition to polar and radical reactions, there is a third, less commonly encountered process called a pericyclic reaction . Rather than explain pericyclic reactions now, though, we’ll look at them more carefully in Chapter 30.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Having looked at the kinds of reactions that take place, let’s now see how they occur. An overall description of how a reaction occurs is called a reaction mechanism . A mechanism describes in detail exactly what takes place at each stage of a chemical transformation-which bonds are broken and in what order, which bonds are formed and in what order, and what the relative rates are for each step. A complete mechanism must also account for all reactants used and all products formed."
+            },
+            {
+              "type": "paragraph",
+              "text": "All chemical reactions involve bond-breaking and bond-making. When two molecules come together, react, and yield products, specific bonds in the reactant molecules are broken and specific bonds in the product molecules are formed. Fundamentally, there are two ways in which a covalent two-electron bond can break. A bond can break in an electronically unsymmetrical way so that both bonding electrons remain with one product fragment, leaving the other with a vacant orbital, or a bond can break in an electronically symmetrical way so that one electron remains with each product fragment. The unsymmetrical cleavage is said to be heterolytic , and the symmetrical cleavage is said to be homolytic ."
+            },
+            {
+              "type": "paragraph",
+              "text": "We’ll develop this point in more detail later, but note for now that the movement of two electrons in the unsymmetrical process is indicated using a full-headed curved arrow ( ), whereas the movement of one electron in the symmetrical process is indicated using a half-headed, or “fishhook,” arrow ( )."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/b23a7575ae41777f18d7770474ea204f58189e4e",
+              "alt": "Two reactions of A B with a shared pair of electrons show unsymmetrical bond-breaking (full arrow) and symmetrical bond-breaking (fish hook arrows), respectively."
+            },
+            {
+              "type": "paragraph",
+              "text": "Just as there are two ways in which a bond can break, there are two ways in which a covalent two-electron bond can form. A bond can form in an electronically unsymmetrical way if both bonding electrons are donated to the new bond by one reactant, or in a symmetrical way if one electron is donated by each reactant."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/043b2271f5b3754c94f984657871f9a8a968ffc4",
+              "alt": "Two reactions for the formation of A B with a shared pair of electrons show unsymmetrical bond-making (full arrow) and symmetrical bond-making (fish hook arrows), respectively."
+            },
+            {
+              "type": "paragraph",
+              "text": "Processes that involve unsymmetrical bond-breaking and bond-making are called polar reactions . Polar reactions involve species that have an even number of electrons and thus have only electron pairs in their orbitals. Polar processes are by far the more common reaction type in both organic and biological chemistry, and a large part of this book is devoted to their description."
+            },
+            {
+              "type": "paragraph",
+              "text": "Processes that involve symmetrical bond-breaking and bond-making are called radical reactions . A radical , often called a free radical , is a neutral chemical species that contains an odd number of electrons and thus has a single, unpaired electron in one of its orbitals."
+            },
+            {
+              "type": "paragraph",
+              "text": "In addition to polar and radical reactions, there is a third, less commonly encountered process called a pericyclic reaction . Rather than explain pericyclic reactions now, though, we’ll look at them more carefully in Chapter 30."
+            }
+          ],
+          "keywords": [
+            "mechanism",
+            "reactions",
+            "electron",
+            "bond",
+            "reactants",
+            "products"
+          ],
+          "lesson_ids": [
+            "reaction_mechanisms"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 6.10 Describing a Reaction: Intermediates",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/6-10-describing-a-reaction-intermediates",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "6.10 Describing a Reaction: Intermediates",
+          "page": null,
+          "chunk_id": "openstax_orgchem_mechanisms_6_10",
+          "text_preview": "Reaction-coordinate diagrams distinguish transition states from intermediates. This supports the lesson's focus on kinetic reasoning, intermediate stability, and evidence for a proposed pathway.",
+          "full_text": "How can we describe the carbocation formed in the first step of the reaction of ethylene with HBr? The carbocation is clearly different from the reactants, yet it isn’t a transition state and it isn’t a final product.\n\nWe call the carbocation, which exists only transiently during the course of the multistep reaction, a reaction intermediate . As soon as the intermediate is formed in the first step by reaction of ethylene with H + , it reacts further with Br - in a second step to give the final product, bromoethane. This second step has its own activation energy (Δ G ‡ ), its own transition state, and its own energy change (Δ G °). We can picture the second transition state as an activated complex between the electrophilic carbocation intermediate and the nucleophilic bromide anion, in which Br - donates a pair of electrons to the positively charged carbon atom as the new C-Br bond just starts to form.\n\nA complete energy diagram for the overall reaction of ethylene with HBr is shown in Figure 6.8 . In essence, we draw a diagram for each of the individual steps and then join them so that the carbocation product of step 1 is the reactant for step 2. As indicated in Figure 6.8 , the reaction intermediate lies at an energy minimum between steps. Because the energy level of the intermediate is higher than the level of either the reactant that formed it or the product it yields, the intermediate can’t normally be isolated. It is, however, more stable than its two neighboring transition states.\n\nFigure 6.8 An energy diagram for the reaction of ethylene with HBr. Two separate steps are involved, each with its own activation energy (Δ G ‡ ) and free-energy change (Δ G °). The overall Δ G ‡ for the complete reaction is the energy difference between reactants and the highest transition state (which corresponds to Δ G 1 ‡ in this case), and the overall Δ G ° for the reaction is the energy difference between reactants and final products.\n\nEach step in a multistep process can always be considered separately. Each step has its own Δ G ‡ and its own Δ G °. The overall activation energy that controls the rate of the reaction, however, is the energy difference between initial reactants and the highest transition state, regardless of which step it occurs in. The overall Δ G ° of the reaction is the energy difference between reactants and final products.\n\nThe biological reactions that take place in living organisms have the same energy requirements as reactions that take place in the laboratory and can be described in similar ways. They are, however, constrained by the fact that they must have low enough activation energies to occur at moderate temperatures, and they must release energy in relatively small amounts to avoid overheating the organism. These constraints can be met through the use of large, structurally complex, enzyme catalysts that alter the mechanism of a reaction to a pathway that can proceed through a series of small steps rather than one or two large steps. Thus, an energy diagram for a biological reaction might look like that in Figure 6.9 .\n\nFigure 6.9 Energy diagrams for a typical, enzyme-catalyzed biological reaction and an uncatalyzed laboratory reaction . The biological reaction involves many steps, each of which has a relatively small activation energy and small energy change. The end result is the same, however.\n\nWorked Example 6.3 Drawing a Reaction Energy Diagram Sketch an energy diagram for a one-step reaction that is fast and highly exergonic. Strategy A fast reaction has a small Δ G ‡ , and a highly exergonic reaction has a large negative Δ G °. Solution\n\nWorked Example 6.4 Drawing a Reaction Energy Diagram Sketch an energy diagram for a two-step exergonic reaction whose second step has a higher-energy transition state than its first step. Show Δ G ‡ and Δ G ° for the overall reaction. Strategy A two-step reaction has two transition states and an intermediate between them. The Δ G ‡ for the overall reaction is the energy change between reactants and the highest-energy transition state-the second one in this case. An exergonic reaction has a negative overall Δ G °. Solution\n\nProblem 6-13 Sketch an energy diagram for a two-step reaction in which both steps are exergonic and in which the second step has a higher-energy transition state than the first. Label the parts of the diagram corresponding to reactant, product, intermediate, overall Δ G ‡ , and overall Δ G °.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "How can we describe the carbocation formed in the first step of the reaction of ethylene with HBr? The carbocation is clearly different from the reactants, yet it isn’t a transition state and it isn’t a final product."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/ed10b6e09d79fa30d221fedd077f131e1c3c77cb",
+              "alt": "A reaction mechanism shows ethene attacking hydrogen bromide to form a carbocation (labeled intermediate), which is attacked by a bromide ion to form ethyl bromide."
+            },
+            {
+              "type": "paragraph",
+              "text": "We call the carbocation, which exists only transiently during the course of the multistep reaction, a reaction intermediate . As soon as the intermediate is formed in the first step by reaction of ethylene with H + , it reacts further with Br - in a second step to give the final product, bromoethane. This second step has its own activation energy (Δ G ‡ ), its own transition state, and its own energy change (Δ G °). We can picture the second transition state as an activated complex between the electrophilic carbocation intermediate and the nucleophilic bromide anion, in which Br - donates a pair of electrons to the positively charged carbon atom as the new C-Br bond just starts to form."
+            },
+            {
+              "type": "paragraph",
+              "text": "A complete energy diagram for the overall reaction of ethylene with HBr is shown in Figure 6.8 . In essence, we draw a diagram for each of the individual steps and then join them so that the carbocation product of step 1 is the reactant for step 2. As indicated in Figure 6.8 , the reaction intermediate lies at an energy minimum between steps. Because the energy level of the intermediate is higher than the level of either the reactant that formed it or the product it yields, the intermediate can’t normally be isolated. It is, however, more stable than its two neighboring transition states."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 6.8 An energy diagram for the reaction of ethylene with HBr. Two separate steps are involved, each with its own activation energy (Δ G ‡ ) and free-energy change (Δ G °). The overall Δ G ‡ for the complete reaction is the energy difference between reactants and the highest transition state (which corresponds to Δ G 1 ‡ in this case), and the overall Δ G ° for the reaction is the energy difference between reactants and final products.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/6da88a01383de5fd0291b93a6db6790e38c7cc9d",
+              "alt": "Energy diagram for ethyl bromide formation shows two transition state peaks (first is higher), with net negative delta G naught."
+            },
+            {
+              "type": "paragraph",
+              "text": "Each step in a multistep process can always be considered separately. Each step has its own Δ G ‡ and its own Δ G °. The overall activation energy that controls the rate of the reaction, however, is the energy difference between initial reactants and the highest transition state, regardless of which step it occurs in. The overall Δ G ° of the reaction is the energy difference between reactants and final products."
+            },
+            {
+              "type": "paragraph",
+              "text": "The biological reactions that take place in living organisms have the same energy requirements as reactions that take place in the laboratory and can be described in similar ways. They are, however, constrained by the fact that they must have low enough activation energies to occur at moderate temperatures, and they must release energy in relatively small amounts to avoid overheating the organism. These constraints can be met through the use of large, structurally complex, enzyme catalysts that alter the mechanism of a reaction to a pathway that can proceed through a series of small steps rather than one or two large steps. Thus, an energy diagram for a biological reaction might look like that in Figure 6.9 ."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 6.9 Energy diagrams for a typical, enzyme-catalyzed biological reaction and an uncatalyzed laboratory reaction . The biological reaction involves many steps, each of which has a relatively small activation energy and small energy change. The end result is the same, however.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/dc3e7cd31d405f66de01a1ef1ff4bcf4425513b3",
+              "alt": "Two energy diagrams for the same reaction; catalyzed shows multiple transition states each with low activation barrier, uncatalyzed shows single transition state with high activation barrier."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 6.3 Drawing a Reaction Energy Diagram Sketch an energy diagram for a one-step reaction that is fast and highly exergonic. Strategy A fast reaction has a small Δ G ‡ , and a highly exergonic reaction has a large negative Δ G °. Solution"
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 6.4 Drawing a Reaction Energy Diagram Sketch an energy diagram for a two-step exergonic reaction whose second step has a higher-energy transition state than its first step. Show Δ G ‡ and Δ G ° for the overall reaction. Strategy A two-step reaction has two transition states and an intermediate between them. The Δ G ‡ for the overall reaction is the energy change between reactants and the highest-energy transition state-the second one in this case. An exergonic reaction has a negative overall Δ G °. Solution"
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 6-13 Sketch an energy diagram for a two-step reaction in which both steps are exergonic and in which the second step has a higher-energy transition state than the first. Label the parts of the diagram corresponding to reactant, product, intermediate, overall Δ G ‡ , and overall Δ G °."
+            }
+          ],
+          "keywords": [
+            "intermediates",
+            "transition",
+            "state",
+            "kinetic",
+            "energy",
+            "reaction"
+          ],
+          "lesson_ids": [
+            "reaction_mechanisms"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "organic_synthesis",
+      "title": "Functional-Group Synthesis and Selectivity",
+      "module": "Organic Synthesis",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, Chemistry Matters: The Art of Organic Synthesis",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/9-chemistry-matters-the-art-of-organic-synthesis",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "Chemistry Matters: The Art of Organic Synthesis",
+          "page": null,
+          "chunk_id": "openstax_orgchem_synthesis_9_matters",
+          "text_preview": "OpenStax presents synthesis as planned construction of complex molecules, where route design often forces chemists to revise reactions and discover new chemical principles.",
+          "full_text": "Chemistry Matters - The Art of Organic Synthesis 9 • Chemistry Matters 9 • Chemistry Matters Figure 9.8 Vitamin B 12 has been synthesized from scratch in the laboratory, but the bacteria growing on sludge from municipal sewage plants do a much better job. (credit: “Aeration and sludge-wasting” by U.S. Department of Agriculture/Flickr, Public Domain) If you think some of the synthesis problems at the end of this chapter are difficult, try devising a synthesis of vitamin B 12 starting only from simple substances you can buy in a chemical catalog. This extraordinary achievement was reported in 1973 as the culmination of a collaborative effort headed by Robert B. Woodward of Harvard University and Albert Eschenmoser of the Swiss Federal Institute of Technology in Zürich. More than 100 graduate students and postdoctoral associates contributed to the work, which took more than a decade to complete. Why put such extraordinary effort into the laboratory synthesis of a molecule so easily obtained from natural sources? There are many reasons. On a basic human level, a chemist might be motivated primarily by the challenge, much as a climber might be challenged by the ascent of a difficult peak. Beyond the pure challenge, the completion of a difficult synthesis is also valuable in that it establishes new standards and raises the field to a new level. If vitamin B 12 can be made, then why can’t any molecule found in nature be made? Indeed, the decades that have passed since the work of Woodward and Eschenmoser have seen the laboratory synthesis of many enormously complex and valuable substances. Sometimes these substances-for instance, the anticancer compound paclitaxel, trade named Taxol-are not easily available in nature, so laboratory synthesis is the only method for obtaining larger quantities. But perhaps the most important reason for undertaking a complex synthesis is that, in so doing, new reactions and new chemistry are discovered. It invariably happens in a complex synthesis that a point is reached at which the planned route fails. At such a time, the only alternatives are either to quit or to devise a way around the difficulty. New reactions and new principles come from such situations, and it is in this way that the science of organic chemistry grows richer. In the synthesis of vitamin B 12 , for example, unexpected findings emerged that led to the understanding of an entire new class of reactions-the pericyclic reactions that are the subject of Chapter 30 in this book. From synthesizing vitamin B 12 to understanding pericyclic reactions-no one could have possibly predicted such a link at the beginning of the synthesis, but that is the way of science.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Chemistry Matters - The Art of Organic Synthesis 9 • Chemistry Matters 9 • Chemistry Matters Figure 9.8 Vitamin B 12 has been synthesized from scratch in the laboratory, but the bacteria growing on sludge from municipal sewage plants do a much better job. (credit: “Aeration and sludge-wasting” by U.S. Department of Agriculture/Flickr, Public Domain) If you think some of the synthesis problems at the end of this chapter are difficult, try devising a synthesis of vitamin B 12 starting only from simple substances you can buy in a chemical catalog. This extraordinary achievement was reported in 1973 as the culmination of a collaborative effort headed by Robert B. Woodward of Harvard University and Albert Eschenmoser of the Swiss Federal Institute of Technology in Zürich. More than 100 graduate students and postdoctoral associates contributed to the work, which took more than a decade to complete. Why put such extraordinary effort into the laboratory synthesis of a molecule so easily obtained from natural sources? There are many reasons. On a basic human level, a chemist might be motivated primarily by the challenge, much as a climber might be challenged by the ascent of a difficult peak. Beyond the pure challenge, the completion of a difficult synthesis is also valuable in that it establishes new standards and raises the field to a new level. If vitamin B 12 can be made, then why can’t any molecule found in nature be made? Indeed, the decades that have passed since the work of Woodward and Eschenmoser have seen the laboratory synthesis of many enormously complex and valuable substances. Sometimes these substances-for instance, the anticancer compound paclitaxel, trade named Taxol-are not easily available in nature, so laboratory synthesis is the only method for obtaining larger quantities. But perhaps the most important reason for undertaking a complex synthesis is that, in so doing, new reactions and new chemistry are discovered. It invariably happens in a complex synthesis that a point is reached at which the planned route fails. At such a time, the only alternatives are either to quit or to devise a way around the difficulty. New reactions and new principles come from such situations, and it is in this way that the science of organic chemistry grows richer. In the synthesis of vitamin B 12 , for example, unexpected findings emerged that led to the understanding of an entire new class of reactions-the pericyclic reactions that are the subject of Chapter 30 in this book. From synthesizing vitamin B 12 to understanding pericyclic reactions-no one could have possibly predicted such a link at the beginning of the synthesis, but that is the way of science."
+            }
+          ],
+          "keywords": [
+            "synthesis",
+            "route",
+            "reactions",
+            "complex",
+            "molecules",
+            "planning"
+          ],
+          "lesson_ids": [
+            "organic_synthesis"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 19.11 Nucleophilic Addition of Phosphorus Ylides: The Wittig Reaction",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/19-11-nucleophilic-addition-of-phosphorus-ylides-the-wittig-reaction",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "19.11 Nucleophilic Addition of Phosphorus Ylides: The Wittig Reaction",
+          "page": null,
+          "chunk_id": "openstax_orgchem_synthesis_19_11",
+          "text_preview": "The Wittig reaction is presented as a carbonyl-to-alkene transformation using a phosphorus ylide. It is useful evidence for functional-group synthesis and selectivity planning.",
+          "full_text": "Aldehydes and ketones are converted into alkenes by means of a nucleophilic addition called the Wittig reaction , after the German chemist Georg Wittig who won the 1979 Nobel Prize in Chemistry. The reaction has no direct biological counterpart but is important both because of its wide use in drug manufacture and because of its mechanistic similarity to reactions of the coenzyme thiamin diphosphate, which we’ll see in Section 29.6 .\n\nIn the Wittig reaction, a triphenylphosphorus ylide, R 2 C - - P + Ph 3 R 2 C - - P + Ph 3 also called a phosphorane and sometimes written in the resonance form R 2 C═ P(Ph) 3 R 2 C═ P(Ph) 3 , adds to an aldehyde or ketone to yield a four-membered cyclic intermediate called an oxaphosphetane. The oxaphosphetane is not isolated, but instead spontaneously decomposes to give an alkene plus triphenylphosphine oxide, O═ PPh 3 O═ PPh 3 . In effect, the oxygen atom of the aldehyde or ketone and the R 2 C= bonded to phosphorus exchange places. (An ylide -pronounced ill -id-is a neutral, dipolar compound with adjacent positive and negative charges.)\n\nThe initial addition takes place by different pathways depending on the structure of the reactants and the exact experimental conditions. One pathway involves a one-step cycloaddition process analogous to the Diels-Alder cycloaddition reaction ( Section 14.4 ). The other pathway involves a nucleophilic addition reaction to give a dipolar intermediate called a betaine ( bay -ta-een), which undergoes ring closure.\n\nThe phosphorus ylides necessary for Wittig reaction are easily prepared by S N 2 reaction of primary (and some secondary) alkyl halides with triphenylphosphine, (Ph) 3 P, followed by treatment with base. Triphenylphosphine is a good nucleophile in S N 2 reactions, and yields of the resultant alkyltriphenylphosphonium salts are high. Because of the positive charge on phosphorus, the hydrogen on the neighboring carbon is weakly acidic and can be removed by a strong base such as butyllithium (BuLi) to generate the neutral ylide. For example:\n\nThe Wittig reaction is extremely general, and a great many monosubstituted, disubstituted, and trisubstituted alkenes can be prepared from the appropriate combination of phosphorane and aldehyde or ketone. Tetrasubstituted alkenes, however, can’t be prepared this way because of steric hindrance.\n\nThe real value of the Wittig reaction is that it yields a pure alkene of predictable structure. The C═C C═C bond in the product is always exactly where the C═O C═O group was in the reactant, and no alkene isomers (except E , Z isomers) are formed. For example, Wittig reaction of cyclohexanone with methylenetriphenylphosphorane yields only the single alkene product methylenecyclohexane. By contrast, addition of methylmagnesium bromide to cyclohexanone, followed by dehydration with POCl 3 , yields a roughly 9 : 1 mixture of two alkenes.\n\nWittig reactions are used commercially in the synthesis of numerous pharmaceutical products. For example, the German chemical company BASF prepares vitamin A by using a Wittig reaction between a 15-carbon ylide and a 5-carbon aldehyde.\n\nWorked Example 19.3 Synthesizing an Alkene Using a Wittig Reaction What carbonyl compound and what phosphorus ylide might you use to prepare 3-ethyl-2-pentene? Strategy An aldehyde or ketone reacts with a phosphorus ylide to yield an alkene in which the oxygen atom of the carbonyl reactant is replaced by the ═CR 2 of the ylide. Preparation of the phosphorus ylide itself usually involves S N 2 reaction of a primary alkyl halide with triphenylphosphine, so the ylide is typically primary, RCH═ P(Ph) 3 RCH═ P(Ph) 3 . This means that the disubstituted alkene carbon in the product comes from the carbonyl reactant, while the monosubstituted alkene carbon comes from the ylide. Solution\n\nProblem 19-16 What carbonyl compound and what phosphorus ylide might you use to prepare each of the following compounds? (a) (b) (c) (d) (e) (f) Problem 19-17 β -Carotene, a yellow food-coloring agent and dietary source of vitamin A can be prepared by a double Wittig reaction between 2 equivalents of β -ionylideneacetaldehyde and a diylide. Show the structure of the β -carotene product.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Aldehydes and ketones are converted into alkenes by means of a nucleophilic addition called the Wittig reaction , after the German chemist Georg Wittig who won the 1979 Nobel Prize in Chemistry. The reaction has no direct biological counterpart but is important both because of its wide use in drug manufacture and because of its mechanistic similarity to reactions of the coenzyme thiamin diphosphate, which we’ll see in Section 29.6 ."
+            },
+            {
+              "type": "paragraph",
+              "text": "In the Wittig reaction, a triphenylphosphorus ylide, R 2 C - - P + Ph 3 R 2 C - - P + Ph 3 also called a phosphorane and sometimes written in the resonance form R 2 C═ P(Ph) 3 R 2 C═ P(Ph) 3 , adds to an aldehyde or ketone to yield a four-membered cyclic intermediate called an oxaphosphetane. The oxaphosphetane is not isolated, but instead spontaneously decomposes to give an alkene plus triphenylphosphine oxide, O═ PPh 3 O═ PPh 3 . In effect, the oxygen atom of the aldehyde or ketone and the R 2 C= bonded to phosphorus exchange places. (An ylide -pronounced ill -id-is a neutral, dipolar compound with adjacent positive and negative charges.)"
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/65e9368151273bd8f815a8d35bbcc3e6305930c4",
+              "alt": "An aldehyde or ketone reacts with ylide to form an oxaphosphetane. This further forms alkene plus triphenylphosphine oxide."
+            },
+            {
+              "type": "paragraph",
+              "text": "The initial addition takes place by different pathways depending on the structure of the reactants and the exact experimental conditions. One pathway involves a one-step cycloaddition process analogous to the Diels-Alder cycloaddition reaction ( Section 14.4 ). The other pathway involves a nucleophilic addition reaction to give a dipolar intermediate called a betaine ( bay -ta-een), which undergoes ring closure."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/e2e42986bc368006462b641d4f3155c142648820",
+              "alt": "A cyclic reversible reaction where aldehyde or ketone reacts with ylide, to form betaine (intermediate), which further forms oxaphosphetane. This transforms back to the reactants, aldehyde or ketone and ylide."
+            },
+            {
+              "type": "paragraph",
+              "text": "The phosphorus ylides necessary for Wittig reaction are easily prepared by S N 2 reaction of primary (and some secondary) alkyl halides with triphenylphosphine, (Ph) 3 P, followed by treatment with base. Triphenylphosphine is a good nucleophile in S N 2 reactions, and yields of the resultant alkyltriphenylphosphonium salts are high. Because of the positive charge on phosphorus, the hydrogen on the neighboring carbon is weakly acidic and can be removed by a strong base such as butyllithium (BuLi) to generate the neutral ylide. For example:"
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/4ea2f2d49e6e420825ceaa74fa652259d5aef3d2",
+              "alt": "Triphenylphosphine reacts with bromomethane via an S N 2 reaction to produce methyltriphenylphosphonium bromide, which then reacts with B u L i and T H F to form methylenetriphenylphosphorane."
+            },
+            {
+              "type": "paragraph",
+              "text": "The Wittig reaction is extremely general, and a great many monosubstituted, disubstituted, and trisubstituted alkenes can be prepared from the appropriate combination of phosphorane and aldehyde or ketone. Tetrasubstituted alkenes, however, can’t be prepared this way because of steric hindrance."
+            },
+            {
+              "type": "paragraph",
+              "text": "The real value of the Wittig reaction is that it yields a pure alkene of predictable structure. The C═C C═C bond in the product is always exactly where the C═O C═O group was in the reactant, and no alkene isomers (except E , Z isomers) are formed. For example, Wittig reaction of cyclohexanone with methylenetriphenylphosphorane yields only the single alkene product methylenecyclohexane. By contrast, addition of methylmagnesium bromide to cyclohexanone, followed by dehydration with POCl 3 , yields a roughly 9 : 1 mixture of two alkenes."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/fc2a4c30db5ee715a631a0f0d0b9ecbd2eb10f26",
+              "alt": "Cyclohexanone reacts with methylmagnesium bromide, then phosphoryl trichloride, forming1-methylcyclohexene and methylenecyclohexane in 9: 1 ratio. It also reacts with methylenenetriphenylphosphorane and tetrahydrofuran to form methylenecyclohexane and Ph 3 P O."
+            },
+            {
+              "type": "paragraph",
+              "text": "Wittig reactions are used commercially in the synthesis of numerous pharmaceutical products. For example, the German chemical company BASF prepares vitamin A by using a Wittig reaction between a 15-carbon ylide and a 5-carbon aldehyde."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/9ee34dda75791fee22141b29403c19096db14a87",
+              "alt": "A reaction where fifteen-carbon ylide, carbon-carbon aldehyde react in the presence of methanol, and sodium methoxide form vitamin A acetate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 19.3 Synthesizing an Alkene Using a Wittig Reaction What carbonyl compound and what phosphorus ylide might you use to prepare 3-ethyl-2-pentene? Strategy An aldehyde or ketone reacts with a phosphorus ylide to yield an alkene in which the oxygen atom of the carbonyl reactant is replaced by the ═CR 2 of the ylide. Preparation of the phosphorus ylide itself usually involves S N 2 reaction of a primary alkyl halide with triphenylphosphine, so the ylide is typically primary, RCH═ P(Ph) 3 RCH═ P(Ph) 3 . This means that the disubstituted alkene carbon in the product comes from the carbonyl reactant, while the monosubstituted alkene carbon comes from the ylide. Solution"
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 19-16 What carbonyl compound and what phosphorus ylide might you use to prepare each of the following compounds? (a) (b) (c) (d) (e) (f) Problem 19-17 β -Carotene, a yellow food-coloring agent and dietary source of vitamin A can be prepared by a double Wittig reaction between 2 equivalents of β -ionylideneacetaldehyde and a diylide. Show the structure of the β -carotene product."
+            }
+          ],
+          "keywords": [
+            "wittig",
+            "carbonyl",
+            "alkene",
+            "phosphorus",
+            "ylide",
+            "synthesis"
+          ],
+          "lesson_ids": [
+            "organic_synthesis"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "pericyclic_photochemistry",
+      "title": "Pericyclic and Photochemical Logic",
+      "module": "Pericyclic Reactions and Photochemistry",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 30.9 A Summary of Rules for Pericyclic Reactions",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/30-9-a-summary-of-rules-for-pericyclic-reactions",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "30.9 A Summary of Rules for Pericyclic Reactions",
+          "page": null,
+          "chunk_id": "openstax_orgchem_pericyclic_30_intro",
+          "text_preview": "Pericyclic reactions occur through concerted cyclic transition states. The OpenStax treatment connects electrocyclic, cycloaddition, and sigmatropic outcomes to orbital symmetry.",
+          "full_text": "How can you keep straight all the rules about pericyclic reactions? The summary in Table 30.1 , Table 30.2 , and Table 30.3 can be distilled into a mnemonic phrase that provides an easy way to predict the stereochemical outcome of any pericyclic reaction:\n\nThe Electrons Circle Around ( TECA )\n\nT hermal reactions with an E ven number of electron pairs are C onrotatory or A ntarafacial.\n\nA change either from thermal to photochemical or from an even to an odd number of electron pairs changes the outcome from conrotatory/antarafacial to disrotatory/suprafacial. A change from both thermal and even to photochemical and odd causes no change because two negatives make a positive.\n\nThese selection rules are summarized in Table 30.4 ; knowing them gives you the ability to predict the stereochemistry of literally thousands of pericyclic reactions.\n\nTable 30.4 Stereochemical Rules for Pericyclic Reactions Electronic state Electron pairs Stereochemistry Ground state (thermal) Even number Odd number Antara-con Supra-dis Excited state (photochemical) Even number Odd number Supra-dis Antara-con\n\nProblem 30-12 Predict the stereochemistry of the following pericyclic reactions: (a) The thermal cyclization of a conjugated tetraene (b) The photochemical cyclization of a conjugated tetraene (c) A photochemical [4 + 4] cycloaddition (d) A thermal [2 + 6] cycloaddition (e) A photochemical [3,5] sigmatropic rearrangement",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "How can you keep straight all the rules about pericyclic reactions? The summary in Table 30.1 , Table 30.2 , and Table 30.3 can be distilled into a mnemonic phrase that provides an easy way to predict the stereochemical outcome of any pericyclic reaction:"
+            },
+            {
+              "type": "paragraph",
+              "text": "The Electrons Circle Around ( TECA )"
+            },
+            {
+              "type": "paragraph",
+              "text": "T hermal reactions with an E ven number of electron pairs are C onrotatory or A ntarafacial."
+            },
+            {
+              "type": "paragraph",
+              "text": "A change either from thermal to photochemical or from an even to an odd number of electron pairs changes the outcome from conrotatory/antarafacial to disrotatory/suprafacial. A change from both thermal and even to photochemical and odd causes no change because two negatives make a positive."
+            },
+            {
+              "type": "paragraph",
+              "text": "These selection rules are summarized in Table 30.4 ; knowing them gives you the ability to predict the stereochemistry of literally thousands of pericyclic reactions."
+            },
+            {
+              "type": "paragraph",
+              "text": "Table 30.4 Stereochemical Rules for Pericyclic Reactions Electronic state Electron pairs Stereochemistry Ground state (thermal) Even number Odd number Antara-con Supra-dis Excited state (photochemical) Even number Odd number Supra-dis Antara-con"
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 30-12 Predict the stereochemistry of the following pericyclic reactions: (a) The thermal cyclization of a conjugated tetraene (b) The photochemical cyclization of a conjugated tetraene (c) A photochemical [4 + 4] cycloaddition (d) A thermal [2 + 6] cycloaddition (e) A photochemical [3,5] sigmatropic rearrangement"
+            }
+          ],
+          "keywords": [
+            "pericyclic",
+            "thermal",
+            "photochemical",
+            "conrotatory",
+            "disrotatory",
+            "suprafacial",
+            "antarafacial",
+            "selection",
+            "rules"
+          ],
+          "lesson_ids": [
+            "pericyclic_photochemistry"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 30.4 Photochemical Electrocyclic Reactions",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/30-4-photochemical-electrocyclic-reactions",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "30.4 Photochemical Electrocyclic Reactions",
+          "page": null,
+          "chunk_id": "openstax_orgchem_photochemistry_30_8",
+          "text_preview": "Photochemical electrocyclic reactions reverse the orbital-occupancy logic of thermal reactions. The section supports comparing ground-state and excited-state reaction pathways.",
+          "full_text": "We noted previously that photochemical electrocyclic reactions take a different stereochemical course than their thermal counterparts, and we can now explain this difference. Ultraviolet irradiation of a polyene causes an excitation of one electron from the ground-state HOMO to the ground-state LUMO, thus changing their symmetries. But because electronic excitation changes the symmetries of HOMO and LUMO, it also changes the reaction stereochemistry. (2 E ,4 E )-2,4-Hexadiene, for instance, undergoes photochemical cyclization by a disrotatory path, whereas the thermal reaction is conrotatory. Similarly, (2 E ,4 Z ,6 E )-2,4,6-octatriene undergoes photochemical cyclization by a conrotatory path, whereas the thermal reaction is disrotatory ( Figure 30.8 ).\n\nFigure 30.8 Photochemical cyclizations of conjugated dienes and trienes. The two processes occur with different stereochemistry because of their different orbital symmetries.\n\nThermal and photochemical electrocyclic reactions always take place with opposite stereochemistry because the symmetries of the frontier orbitals are always different. Table 30.1 gives some simple rules that make it possible to predict the stereochemistry of electrocyclic reactions.\n\nTable 30.1 Stereochemical Rules for Electrocyclic Reactions Electron pairs (double bonds) Thermal reaction Photochemical reaction Even number Conrotatory Disrotatory Odd number Disrotatory Conrotatory\n\nProblem 30-4 What product would you expect to obtain from the photochemical cyclization of (2 E ,4 Z ,6 E )-2,4,6-octatriene? Of (2 E ,4 Z ,6 Z )-2,4,6-octatriene?",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "We noted previously that photochemical electrocyclic reactions take a different stereochemical course than their thermal counterparts, and we can now explain this difference. Ultraviolet irradiation of a polyene causes an excitation of one electron from the ground-state HOMO to the ground-state LUMO, thus changing their symmetries. But because electronic excitation changes the symmetries of HOMO and LUMO, it also changes the reaction stereochemistry. (2 E ,4 E )-2,4-Hexadiene, for instance, undergoes photochemical cyclization by a disrotatory path, whereas the thermal reaction is conrotatory. Similarly, (2 E ,4 Z ,6 E )-2,4,6-octatriene undergoes photochemical cyclization by a conrotatory path, whereas the thermal reaction is disrotatory ( Figure 30.8 )."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 30.8 Photochemical cyclizations of conjugated dienes and trienes. The two processes occur with different stereochemistry because of their different orbital symmetries.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/a6b4df9b6e3c412f7f320e3ee4d4adce7f5a846b",
+              "alt": "Conjugated dienes and trienes undergoing photochemical cyclization. (2E,4E)-2,4-hexadiene reacts with light through disrotation to form cis-3,4-dimethylcyclobutene. (2E,4Z,6E)-2,4,6-octatriene reacts with light through conrotation to form trans-5,6-dimethyl-1,3-cyclohexadiene."
+            },
+            {
+              "type": "paragraph",
+              "text": "Thermal and photochemical electrocyclic reactions always take place with opposite stereochemistry because the symmetries of the frontier orbitals are always different. Table 30.1 gives some simple rules that make it possible to predict the stereochemistry of electrocyclic reactions."
+            },
+            {
+              "type": "paragraph",
+              "text": "Table 30.1 Stereochemical Rules for Electrocyclic Reactions Electron pairs (double bonds) Thermal reaction Photochemical reaction Even number Conrotatory Disrotatory Odd number Disrotatory Conrotatory"
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 30-4 What product would you expect to obtain from the photochemical cyclization of (2 E ,4 Z ,6 E )-2,4,6-octatriene? Of (2 E ,4 Z ,6 Z )-2,4,6-octatriene?"
+            }
+          ],
+          "keywords": [
+            "photochemical",
+            "electrocyclic",
+            "pericyclic",
+            "conrotatory",
+            "disrotatory",
+            "frontier",
+            "orbitals"
+          ],
+          "lesson_ids": [
+            "pericyclic_photochemistry"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "heterocycles",
+      "title": "Heterocycle Structure and Reactions",
+      "module": "Heterocyclic Compounds",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 15.5 Aromatic Heterocycles: Pyridine and Pyrrole",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/15-5-aromatic-heterocycles-pyridine-and-pyrrole",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "15.5 Aromatic Heterocycles: Pyridine and Pyrrole",
+          "page": null,
+          "chunk_id": "openstax_orgchem_heterocycles_15_5",
+          "text_preview": "Pyridine and pyrrole are aromatic heterocycles with different lone-pair roles. The section gives the structure-reactivity contrast needed for heterocycle comparison.",
+          "full_text": "Look back once again at the definition of aromaticity in Section 15.3 : a cyclic, conjugated molecule containing 4 n + 2 π electrons. Nothing in this definition says that the atoms in the ring must be carbon. In fact, heterocyclic compounds can also be aromatic. A heterocycle is a cyclic compound that contains atoms of more than one element in its ring, usually carbon along with nitrogen, oxygen, or sulfur. Pyridine and pyrimidine, for example, are six-membered heterocycles with carbon and nitrogen in their rings ( Figure 15.9 ).\n\nFigure 15.9 Pyridine and pyrimidine are nitrogen-containing aromatic heterocycles with π electron arrangements like that of benzene. Both have a lone pair of electrons on nitrogen in an sp 2 orbital in the plane of the ring.\n\nPyridine is much like benzene in its π electron structure. Each of the five sp 2 -hybridized carbons has a p orbital perpendicular to the plane of the ring, and each p orbital contains one π electron. The nitrogen atom is also sp 2 -hybridized and has one electron in a p orbital, bringing the total to six π electrons. The nitrogen lone-pair electrons (red in an electrostatic potential map) are in a sp 2 orbital in the plane of the ring and are not part of the aromatic π system. Pyrimidine, also shown in Figure 15.9 , is a benzene analog that has two nitrogen atoms in a six-membered, unsaturated ring. Both nitrogens are sp 2 -hybridized, and each contributes one electron to the aromatic π system.\n\nPyrrole (spelled with two r ’s and one l ) and imidazole are five -membered heterocycles, yet both have six π electrons and are aromatic. In pyrrole, each of the four sp 2 -hybridized carbons contributes one π electron and the sp 2 -hybridized nitrogen atom contributes the two from its lone pair, which occupies a p orbital ( Figure 15.10 ). Imidazole, also shown in Figure 15.10 , is an analog of pyrrole that has two nitrogen atoms in a five-membered, unsaturated ring. Both nitrogens are sp 2 -hybridized, but one is in a double bond and contributes only one electron to the aromatic π system whereas the other is not in a double bond and contributes two from its lone pair.\n\nFigure 15.10 Pyrrole and imidazole are five-membered, nitrogen-containing heterocycles but have six- π -electron arrangements like that of the cyclopentadienyl anion. Both have a lone pair of electrons on nitrogen in a p orbital perpendicular to the ring.\n\nNote that nitrogen atoms have different roles depending on the structure of the molecule. The nitrogen atoms in pyridine and pyrimidine are both in double bonds and contribute only one π electron to the aromatic sextet, just as a carbon atom in benzene does. The nitrogen atom in pyrrole, however, is not in a double bond and contributes two π electrons (its lone pair) to the aromatic sextet. In imidazole, both kinds of nitrogen are present in the same molecule-a double-bonded “pyridine-like” nitrogen that contributes one π electron and a “pyrrole-like” nitrogen that contributes two.\n\nPyrimidine and imidazole rings are particularly important in biological chemistry. Pyrimidine, for instance, is the parent ring system in cytosine, thymine, and uracil, three of the five heterocyclic amine bases found in nucleic acids. An aromatic imidazole ring is present in histidine, one of the 20 amino acids found in proteins.\n\nWorked Example 15.1 Accounting for the Aromaticity of a Heterocycle Thiophene, a sulfur-containing heterocycle, undergoes typical aromatic substitution reactions rather than addition reactions. Why is thiophene aromatic? Strategy Recall the requirements for aromaticity-a planar, cyclic, conjugated molecule with 4 n + 2 π electrons-and see how these requirements apply to thiophene. Solution Thiophene is the sulfur analog of pyrrole. The sulfur atom is sp 2 -hybridized and has a lone pair of electrons in a p orbital perpendicular to the plane of the ring. Sulfur also has a second lone pair of electrons in the ring plane.\n\nProblem 15-9 Draw an orbital picture of furan to show how the molecule is aromatic. Problem 15-10 Thiamin, or vitamin B 1 , contains a positively charged five-membered nitrogen-sulfur heterocycle called a thiazolium ring. Explain why the thiazolium ring is aromatic.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Look back once again at the definition of aromaticity in Section 15.3 : a cyclic, conjugated molecule containing 4 n + 2 π electrons. Nothing in this definition says that the atoms in the ring must be carbon. In fact, heterocyclic compounds can also be aromatic. A heterocycle is a cyclic compound that contains atoms of more than one element in its ring, usually carbon along with nitrogen, oxygen, or sulfur. Pyridine and pyrimidine, for example, are six-membered heterocycles with carbon and nitrogen in their rings ( Figure 15.9 )."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 15.9 Pyridine and pyrimidine are nitrogen-containing aromatic heterocycles with π electron arrangements like that of benzene. Both have a lone pair of electrons on nitrogen in an sp 2 orbital in the plane of the ring.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/d74473162ee2f9b4ed49ad74bcbc80758babd7ad",
+              "alt": "Structures, orbital representations, and ball-and-stick model along with electrostatic potential maps of pyridine and pyrimidine. The lone pair in s p 2 orbital is labeled in both structures."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pyridine is much like benzene in its π electron structure. Each of the five sp 2 -hybridized carbons has a p orbital perpendicular to the plane of the ring, and each p orbital contains one π electron. The nitrogen atom is also sp 2 -hybridized and has one electron in a p orbital, bringing the total to six π electrons. The nitrogen lone-pair electrons (red in an electrostatic potential map) are in a sp 2 orbital in the plane of the ring and are not part of the aromatic π system. Pyrimidine, also shown in Figure 15.9 , is a benzene analog that has two nitrogen atoms in a six-membered, unsaturated ring. Both nitrogens are sp 2 -hybridized, and each contributes one electron to the aromatic π system."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pyrrole (spelled with two r ’s and one l ) and imidazole are five -membered heterocycles, yet both have six π electrons and are aromatic. In pyrrole, each of the four sp 2 -hybridized carbons contributes one π electron and the sp 2 -hybridized nitrogen atom contributes the two from its lone pair, which occupies a p orbital ( Figure 15.10 ). Imidazole, also shown in Figure 15.10 , is an analog of pyrrole that has two nitrogen atoms in a five-membered, unsaturated ring. Both nitrogens are sp 2 -hybridized, but one is in a double bond and contributes only one electron to the aromatic π system whereas the other is not in a double bond and contributes two from its lone pair."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 15.10 Pyrrole and imidazole are five-membered, nitrogen-containing heterocycles but have six- π -electron arrangements like that of the cyclopentadienyl anion. Both have a lone pair of electrons on nitrogen in a p orbital perpendicular to the ring.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/3cc81c513bd6ba229c9b922528fd64811d973d6f",
+              "alt": "Structures, orbital representations, and ball-and-stick model along with electrostatic potential maps of pyrrole and imidazole. The lone pair in p and s p 2 orbital is labeled in both structures."
+            },
+            {
+              "type": "paragraph",
+              "text": "Note that nitrogen atoms have different roles depending on the structure of the molecule. The nitrogen atoms in pyridine and pyrimidine are both in double bonds and contribute only one π electron to the aromatic sextet, just as a carbon atom in benzene does. The nitrogen atom in pyrrole, however, is not in a double bond and contributes two π electrons (its lone pair) to the aromatic sextet. In imidazole, both kinds of nitrogen are present in the same molecule-a double-bonded “pyridine-like” nitrogen that contributes one π electron and a “pyrrole-like” nitrogen that contributes two."
+            },
+            {
+              "type": "paragraph",
+              "text": "Pyrimidine and imidazole rings are particularly important in biological chemistry. Pyrimidine, for instance, is the parent ring system in cytosine, thymine, and uracil, three of the five heterocyclic amine bases found in nucleic acids. An aromatic imidazole ring is present in histidine, one of the 20 amino acids found in proteins."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/82df9386fce5cdf89c049d15edb2e537c083cf8f",
+              "alt": "The structures of cytosine (in D N A and R N A), thymine (in D N A), uracil (in R N A), and histidine (an amino acid)."
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 15.1 Accounting for the Aromaticity of a Heterocycle Thiophene, a sulfur-containing heterocycle, undergoes typical aromatic substitution reactions rather than addition reactions. Why is thiophene aromatic? Strategy Recall the requirements for aromaticity-a planar, cyclic, conjugated molecule with 4 n + 2 π electrons-and see how these requirements apply to thiophene. Solution Thiophene is the sulfur analog of pyrrole. The sulfur atom is sp 2 -hybridized and has a lone pair of electrons in a p orbital perpendicular to the plane of the ring. Sulfur also has a second lone pair of electrons in the ring plane."
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 15-9 Draw an orbital picture of furan to show how the molecule is aromatic. Problem 15-10 Thiamin, or vitamin B 1 , contains a positively charged five-membered nitrogen-sulfur heterocycle called a thiazolium ring. Explain why the thiazolium ring is aromatic."
+            }
+          ],
+          "keywords": [
+            "heterocycles",
+            "pyridine",
+            "pyrrole",
+            "aromatic",
+            "lone",
+            "reactivity"
+          ],
+          "lesson_ids": [
+            "heterocycles"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "biomolecules",
+      "title": "Biomolecules in Organic Chemistry",
+      "module": "Biomolecules",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 25.1 Classification of Carbohydrates",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/25-1-classification-of-carbohydrates",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "25.1 Classification of Carbohydrates",
+          "page": null,
+          "chunk_id": "openstax_orgchem_biomolecules_25_1",
+          "text_preview": "Carbohydrates are classified by carbonyl type and carbon count, with monosaccharides, disaccharides, and polysaccharides treated as structure-defined organic molecule classes.",
+          "full_text": "Carbohydrates are generally classified as either simple or complex. Simple sugars , or monosaccharides , are carbohydrates like glucose and fructose that can’t be converted into smaller sugars by hydrolysis. Complex carbohydrates are made of two or more simple sugars linked together by acetal bonds ( Section 19.10 ). Sucrose (table sugar), for instance, consists of one glucose linked to one fructose. Similarly, cellulose is made up of several thousand glucose units linked together. Enzyme-catalyzed hydrolysis of a complex carbohydrate breaks it down into its constituent monosaccharides.\n\nMonosaccharides are further classified as either aldoses or ketoses . The - ose suffix designates a carbohydrate, and the prefixes aldo - and keto - identify the kind of carbonyl group in the molecule, whether aldehyde or ketone. The number of carbon atoms in the monosaccharide is indicated by the appropriate numerical prefix tri -, tetr -, pent -, hex -, and so forth, in the name. Putting it all together, glucose is an aldohexose, a six-carbon aldehyde sugar; fructose is a ketohexose, a six-carbon keto sugar; ribose is an aldopentose, a five-carbon aldehyde sugar; and sedoheptulose is a ketoheptose, a seven-carbon keto sugar. Most of the common simple sugars are either pentoses or hexoses.\n\nProblem 25-1 Classify each of the following monosaccharides: (a) (b) (c) (d)",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Carbohydrates are generally classified as either simple or complex. Simple sugars , or monosaccharides , are carbohydrates like glucose and fructose that can’t be converted into smaller sugars by hydrolysis. Complex carbohydrates are made of two or more simple sugars linked together by acetal bonds ( Section 19.10 ). Sucrose (table sugar), for instance, consists of one glucose linked to one fructose. Similarly, cellulose is made up of several thousand glucose units linked together. Enzyme-catalyzed hydrolysis of a complex carbohydrate breaks it down into its constituent monosaccharides."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/bc16b550390c7f597296a8bbfb9106a24939faba",
+              "alt": "Enzyme-catalyzed hydrolysis decomposes sucrose (a disaccharide) into glucose and fructose. Similarly, cellulose (a polysaccharide) decomposes into approximately three thousand glucose units."
+            },
+            {
+              "type": "paragraph",
+              "text": "Monosaccharides are further classified as either aldoses or ketoses . The - ose suffix designates a carbohydrate, and the prefixes aldo - and keto - identify the kind of carbonyl group in the molecule, whether aldehyde or ketone. The number of carbon atoms in the monosaccharide is indicated by the appropriate numerical prefix tri -, tetr -, pent -, hex -, and so forth, in the name. Putting it all together, glucose is an aldohexose, a six-carbon aldehyde sugar; fructose is a ketohexose, a six-carbon keto sugar; ribose is an aldopentose, a five-carbon aldehyde sugar; and sedoheptulose is a ketoheptose, a seven-carbon keto sugar. Most of the common simple sugars are either pentoses or hexoses."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/3b949eb2254720592ac8d95d43ad9423c9d58b50",
+              "alt": "The structures of glucose (an aldohexose), fructose (a ketohexose), ribose (an aldopentose), and sedoheptulose (a ketoheptose), presented in Fischer projection."
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 25-1 Classify each of the following monosaccharides: (a) (b) (c) (d)"
+            }
+          ],
+          "keywords": [
+            "carbohydrates",
+            "monosaccharides",
+            "disaccharides",
+            "polysaccharides",
+            "carbonyl",
+            "structure"
+          ],
+          "lesson_ids": [
+            "biomolecules"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 26.1 Structures of Amino Acids",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/26-1-structures-of-amino-acids",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "26.1 Structures of Amino Acids",
+          "page": null,
+          "chunk_id": "openstax_orgchem_biomolecules_26_1",
+          "text_preview": "Amino acids are described by shared amino and carboxyl groups plus variable side chains. This anchors peptide, protein, and physicochemical-property questions in organic structure.",
+          "full_text": "We saw in Section 20.3 and Section 24.5 that a carboxyl group is deprotonated and exists as the carboxylate anion at a physiological pH of 7.3, while an amino group is protonated and exists as the ammonium cation. Thus, amino acids exist in aqueous solution primarily in the form of a dipolar ion, or zwitterion (from the German zwitter, meaning “hybrid”).\n\nAmino acid zwitterions are internal salts and therefore have many of the physical properties associated with salts. They have large dipole moments, are relatively soluble in water but insoluble in hydrocarbons, and are crystalline with relatively high melting points. In addition, amino acids are amphiprotic; they can react either as acids or as bases, depending on the circumstances. In aqueous acid solution, an amino acid zwitterion is a base that accepts a proton onto its -CO 2 - group to yield a cation. In aqueous base solution, the zwitterion is an acid that loses a proton from its -NH 3 + group to form an anion.\n\nThe structures, abbreviations (both three- and one-letter), and p K a values of the 20 amino acids commonly found in proteins are shown in Table 26.1 . All are α -amino acids , meaning that the amino group in each is a substituent on the α carbon-the one next to the carbonyl group. Nineteen of the twenty amino acids are primary amines, RNH 2 , and differ only in the nature of their side chain -the substituent attached to the α carbon. Proline is a secondary amine whose nitrogen and α carbon atoms are part of a five-membered pyrrolidine ring.\n\nTable 26.1 The 20 Common Amino Acids in Proteins Name Abbreviations MW Structure p K a α -CO 2 H p K a α -NH 3 + p K a side chain p I Neutral Amino Acids Alanine Ala A 89 2.34 9.69 - 6.01 Asparagine Asn N 132 2.02 8.80 - 5.41 Cysteine Cys C 121 1.96 10.28 8.18 5.07 Glutamine Gln Q 146 2.17 9.13 - 5.65 Glycine Gly G 75 2.34 9.60 - 5.97 Isoleucine Ile I 131 2.36 9.60 - 6.02 Leucine Leu L 131 2.36 9.60 - 5.98 Methionine Met M 149 2.28 9.21 - 5.74 Phenylalanine Phe F 165 1.83 9.13 - 5.48 Proline Pro P 115 1.99 10.60 - 6.30 Serine Ser S 105 2.21 9.15 - 5.68 Threonine Thr T 119 2.09 9.10 - 5.60 Tryptophan Trp W 204 2.83 9.39 - 5.89 Tyrosine Tyr Y 181 2.20 9.11 10.07 5.66 Valine Val V 117 2.32 9.62 - 5.96 Acidic Amino Acids Aspartic acid Asp D 133 1.88 9.60 3.65 2.77 Glutamic acid Glu E 147 2.19 9.67 4.25 3.22 Basic Amino Acids Arginine Arg R 174 2.17 9.04 12.48 10.76 Histidine His H 155 1.82 9.17 6.00 7.59 Lysine Lys K 146 2.18 8.95 10.53 9.74\n\nIn addition to the 20 amino acids commonly found in proteins, 2 others-selenocysteine and pyrrolysine-are found in some organisms, and more than 700 nonprotein amino acids are also found in nature. γ -Aminobutyric acid (GABA), for instance, is found in the brain and acts as a neurotransmitter; homocysteine is found in blood and is linked to coronary heart disease; and thyroxine is found in the thyroid gland, where it acts as a hormone.\n\nExcept for glycine, H 2 NCH 2 CO 2 H, the α carbons of amino acids are chirality centers. Two enantiomers of each are therefore possible, but nature uses only one to build proteins. In Fischer projections, naturally occurring amino acids are represented by placing the -CO 2 - group at the top and pointing the side chain downwards, as if drawing a carbohydrate ( Section 25.2 ) and then placing the -NH 3 + group on the left. Because of their stereochemical similarity to L sugars ( Section 25.3 ), the naturally occurring α -amino acids are often referred to as L amino acids. The nonnaturally occurring enantiomers are called D amino acids.\n\nThe 20 common amino acids can be further classified as neutral, acidic, or basic, depending on the structure of their side chains. Fifteen of the twenty have neutral side chains, two (aspartic acid and glutamic acid) have an extra carboxylic acid function in their side chains, and three (lysine, arginine, and histidine) have basic amino groups in their side chains. Note that both cysteine (a thiol) and tyrosine (a phenol), although usually classified as neutral amino acids, nevertheless have weakly acidic side chains that can be deprotonated in a sufficiently basic solution.\n\nAt the physiological pH of 7.3, the side-chain carboxyl groups of aspartic acid and glutamic acid are deprotonated and the basic side-chain nitrogens of lysine and arginine are protonated. Histidine, however, which contains a heterocyclic imidazole ring in its side chain, is not quite basic enough to be protonated at pH 7.3. Note that only the pyridine-like, doubly bonded nitrogen in histidine is basic. The pyrrole-like singly bonded nitrogen is nonbasic because its lone pair of electrons is part of the six- π -electron aromatic imidazole ring ( Section 24.9 ).\n\nHumans are able to biosynthesize only 11 of the 20 protein amino acids, called nonessential amino acids. The other 9, called essential amino acids, are biosynthesized only in plants and microorganisms and must be obtained in our diet. The division between essential and nonessential amino acids is not clear-cut, however. Tyrosine, for instance, is sometimes considered nonessential because humans can produce it from phenylalanine, but phenylalanine itself is essential and must be obtained in the diet. Arginine can be synthesized by humans, but much of the arginine we need also comes from our diet.\n\nProblem 26-1 How many of the α -amino acids shown in Table 26.1 contain aromatic rings? How many contain sulfur? How many contain alcohol groups? How many contain hydrocarbon side chains? Problem 26-2 Of the 19 L amino acids, 18 have the S configuration at the α carbon. Cysteine is the only L amino acid that has an R configuration. Explain. Problem 26-3 The amino acid threonine, (2 S ,3 R )-2-amino-3-hydroxybutanoic acid, has two chirality centers. (a) Draw threonine, using normal, wedged, and dashed lines to show dimensionality. (b) Draw a diastereomer of threonine, and label its chirality centers as R or S .",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "We saw in Section 20.3 and Section 24.5 that a carboxyl group is deprotonated and exists as the carboxylate anion at a physiological pH of 7.3, while an amino group is protonated and exists as the ammonium cation. Thus, amino acids exist in aqueous solution primarily in the form of a dipolar ion, or zwitterion (from the German zwitter, meaning “hybrid”)."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/fa9c9030e91c016258e709e1f9f37372458a1c89",
+              "alt": "A protonated alanine reacts with water reversibly to form a zwitterion and hydronium ion. The zwitterion further reacts with water reversibly to form an anion and hydronium ion."
+            },
+            {
+              "type": "paragraph",
+              "text": "Amino acid zwitterions are internal salts and therefore have many of the physical properties associated with salts. They have large dipole moments, are relatively soluble in water but insoluble in hydrocarbons, and are crystalline with relatively high melting points. In addition, amino acids are amphiprotic; they can react either as acids or as bases, depending on the circumstances. In aqueous acid solution, an amino acid zwitterion is a base that accepts a proton onto its -CO 2 - group to yield a cation. In aqueous base solution, the zwitterion is an acid that loses a proton from its -NH 3 + group to form an anion."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/525b6abd131afc615c9788130289263804396799",
+              "alt": "In acid solution, zwitter ions react with hydronium ion to form cation. In basic solution, zwitter ion reacts with a hydroxide ion to form an anion."
+            },
+            {
+              "type": "paragraph",
+              "text": "The structures, abbreviations (both three- and one-letter), and p K a values of the 20 amino acids commonly found in proteins are shown in Table 26.1 . All are α -amino acids , meaning that the amino group in each is a substituent on the α carbon-the one next to the carbonyl group. Nineteen of the twenty amino acids are primary amines, RNH 2 , and differ only in the nature of their side chain -the substituent attached to the α carbon. Proline is a secondary amine whose nitrogen and α carbon atoms are part of a five-membered pyrrolidine ring."
+            },
+            {
+              "type": "paragraph",
+              "text": "Table 26.1 The 20 Common Amino Acids in Proteins Name Abbreviations MW Structure p K a α -CO 2 H p K a α -NH 3 + p K a side chain p I Neutral Amino Acids Alanine Ala A 89 2.34 9.69 - 6.01 Asparagine Asn N 132 2.02 8.80 - 5.41 Cysteine Cys C 121 1.96 10.28 8.18 5.07 Glutamine Gln Q 146 2.17 9.13 - 5.65 Glycine Gly G 75 2.34 9.60 - 5.97 Isoleucine Ile I 131 2.36 9.60 - 6.02 Leucine Leu L 131 2.36 9.60 - 5.98 Methionine Met M 149 2.28 9.21 - 5.74 Phenylalanine Phe F 165 1.83 9.13 - 5.48 Proline Pro P 115 1.99 10.60 - 6.30 Serine Ser S 105 2.21 9.15 - 5.68 Threonine Thr T 119 2.09 9.10 - 5.60 Tryptophan Trp W 204 2.83 9.39 - 5.89 Tyrosine Tyr Y 181 2.20 9.11 10.07 5.66 Valine Val V 117 2.32 9.62 - 5.96 Acidic Amino Acids Aspartic acid Asp D 133 1.88 9.60 3.65 2.77 Glutamic acid Glu E 147 2.19 9.67 4.25 3.22 Basic Amino Acids Arginine Arg R 174 2.17 9.04 12.48 10.76 Histidine His H 155 1.82 9.17 6.00 7.59 Lysine Lys K 146 2.18 8.95 10.53 9.74"
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/6e25d8259b46a2ea1a6c801833af9e949afc46b9",
+              "alt": "The structure of a generic primary alpha-amino acid, with an arrow pointing towards R, denoting the side chain  and L-proline, a secondary alpha-amino acid."
+            },
+            {
+              "type": "paragraph",
+              "text": "In addition to the 20 amino acids commonly found in proteins, 2 others-selenocysteine and pyrrolysine-are found in some organisms, and more than 700 nonprotein amino acids are also found in nature. γ -Aminobutyric acid (GABA), for instance, is found in the brain and acts as a neurotransmitter; homocysteine is found in blood and is linked to coronary heart disease; and thyroxine is found in the thyroid gland, where it acts as a hormone."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/6fc52d00e697486c84e2efd4a425f30ab305f425",
+              "alt": "The structure of five amino acids. Selenocysteine and pyrrolysine are at the top whereas gamma-aminobutyric acid, homocysteine, and thyroxine are at the bottom."
+            },
+            {
+              "type": "paragraph",
+              "text": "Except for glycine, H 2 NCH 2 CO 2 H, the α carbons of amino acids are chirality centers. Two enantiomers of each are therefore possible, but nature uses only one to build proteins. In Fischer projections, naturally occurring amino acids are represented by placing the -CO 2 - group at the top and pointing the side chain downwards, as if drawing a carbohydrate ( Section 25.2 ) and then placing the -NH 3 + group on the left. Because of their stereochemical similarity to L sugars ( Section 25.3 ), the naturally occurring α -amino acids are often referred to as L amino acids. The nonnaturally occurring enantiomers are called D amino acids."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/af80211dfc0b5a616e2f4507943b5f65775324fd",
+              "alt": "The structure of four amino acids from left to right, L-Serine or (S)-Serine, L-Cysteine or (R)-Cysteine, L-Alanine or (S)-Alanine, and D-Alanine or (R)-Alanine. The last structure is enclosed inside parentheses."
+            },
+            {
+              "type": "paragraph",
+              "text": "The 20 common amino acids can be further classified as neutral, acidic, or basic, depending on the structure of their side chains. Fifteen of the twenty have neutral side chains, two (aspartic acid and glutamic acid) have an extra carboxylic acid function in their side chains, and three (lysine, arginine, and histidine) have basic amino groups in their side chains. Note that both cysteine (a thiol) and tyrosine (a phenol), although usually classified as neutral amino acids, nevertheless have weakly acidic side chains that can be deprotonated in a sufficiently basic solution."
+            },
+            {
+              "type": "paragraph",
+              "text": "At the physiological pH of 7.3, the side-chain carboxyl groups of aspartic acid and glutamic acid are deprotonated and the basic side-chain nitrogens of lysine and arginine are protonated. Histidine, however, which contains a heterocyclic imidazole ring in its side chain, is not quite basic enough to be protonated at pH 7.3. Note that only the pyridine-like, doubly bonded nitrogen in histidine is basic. The pyrrole-like singly bonded nitrogen is nonbasic because its lone pair of electrons is part of the six- π -electron aromatic imidazole ring ( Section 24.9 )."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/2ba22d3b8c9e91cd514260ec379cbec439bc12ef",
+              "alt": "Ball-and-stick model with the electrostatic potential map and structure of histidine. Basic pyridine-like nitrogen, basic pyrrole-like nitrogen, and imidazole ring are labeled. Basic and nonbasic nitrogen are labeled in model."
+            },
+            {
+              "type": "paragraph",
+              "text": "Humans are able to biosynthesize only 11 of the 20 protein amino acids, called nonessential amino acids. The other 9, called essential amino acids, are biosynthesized only in plants and microorganisms and must be obtained in our diet. The division between essential and nonessential amino acids is not clear-cut, however. Tyrosine, for instance, is sometimes considered nonessential because humans can produce it from phenylalanine, but phenylalanine itself is essential and must be obtained in the diet. Arginine can be synthesized by humans, but much of the arginine we need also comes from our diet."
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 26-1 How many of the α -amino acids shown in Table 26.1 contain aromatic rings? How many contain sulfur? How many contain alcohol groups? How many contain hydrocarbon side chains? Problem 26-2 Of the 19 L amino acids, 18 have the S configuration at the α carbon. Cysteine is the only L amino acid that has an R configuration. Explain. Problem 26-3 The amino acid threonine, (2 S ,3 R )-2-amino-3-hydroxybutanoic acid, has two chirality centers. (a) Draw threonine, using normal, wedged, and dashed lines to show dimensionality. (b) Draw a diastereomer of threonine, and label its chirality centers as R or S ."
+            }
+          ],
+          "keywords": [
+            "amino",
+            "acids",
+            "peptide",
+            "protein",
+            "carboxyl",
+            "structure"
+          ],
+          "lesson_ids": [
+            "biomolecules"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 28.1 Nucleotides and Nucleic Acids",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/28-1-nucleotides-and-nucleic-acids",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "28.1 Nucleotides and Nucleic Acids",
+          "page": null,
+          "chunk_id": "openstax_orgchem_biomolecules_28_1",
+          "text_preview": "Nucleotides combine a sugar, phosphate, and heterocyclic base. The section supports structure-based reasoning for nucleic acids within the biomolecules syllabus.",
+          "full_text": "Just as proteins are biopolymers made of amino acids, the nucleic acids are biopolymers made of nucleotides , joined together to form a long chain. Each nucleotide is composed of a nucleoside bonded to a phosphate group, and each nucleoside is composed of an aldopentose sugar linked through its anomeric carbon to the nitrogen atom of a heterocyclic purine or pyrimidine base.\n\nThe sugar component in RNA is ribose, and the sugar in DNA is 2′-deoxyribose. (In naming and numbering nucleotides, numbers with a prime superscript refer to positions on the sugar and numbers without a prime superscript refer to positions on the heterocyclic base. Thus, the prefix 2′-deoxy indicates that oxygen is missing from C2′ of ribose.) DNA contains four different amine bases: two substituted purines ( A , adenine, and G , guanine) and two substituted pyrimidines ( C , cytosine, and T , thymine). Adenine, guanine, and cytosine also occur in RNA, but thymine is replaced in RNA by a closely related pyrimidine base called U , uracil.\n\nThe structures of the four deoxyribonucleotides and the four ribonucleotides are shown in Figure 28.2 . Although similar chemically, DNA and RNA differ dramatically in size. Molecules of DNA are enormous, containing as many as 245 million nucleotides and having molecular weights as high as 75 billion. Molecules of RNA, by contrast, are much smaller, containing as few as 21 nucleotides and having molecular weights as low as 7000.\n\nFigure 28.2 Structures of the four deoxyribonucleotides and the four ribonucleotides.\n\nNucleotides are linked together in DNA and RNA by phosphodiester bonds [RO-(PO 2 - )-OR′] between phosphate, the 5′-hydroxyl group on one nucleoside, and the 3′-hydroxyl group on another nucleoside. One end of the nucleic acid polymer has a free hydroxyl at C3′ (the 3′ end ), and the other end has a phosphate at C5′ (the 5′ end ). The sequence of nucleotides in a chain is described by starting at the 5′ end and identifying the bases in order of occurrence, using the abbreviations G, C, A, T (or U in RNA). Thus, a typical DNA sequence might be written as TAGGCT.\n\nProblem 28-1 Draw the full structure of the DNA dinucleotide AG. Problem 28-2 Draw the full structure of the RNA dinucleotide UA.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "Just as proteins are biopolymers made of amino acids, the nucleic acids are biopolymers made of nucleotides , joined together to form a long chain. Each nucleotide is composed of a nucleoside bonded to a phosphate group, and each nucleoside is composed of an aldopentose sugar linked through its anomeric carbon to the nitrogen atom of a heterocyclic purine or pyrimidine base."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/0f7cf7f268ebdc83024bf4337d1d630ee7e8ee59",
+              "alt": "D N A with nuclease and water is cleaved to nucleotides. Nucleotidase liberates phosphate from nucleotides. Resulting nucleoside liberates phosphate upon interaction with nucleosidase forming free base and pentose sugars."
+            },
+            {
+              "type": "paragraph",
+              "text": "The sugar component in RNA is ribose, and the sugar in DNA is 2′-deoxyribose. (In naming and numbering nucleotides, numbers with a prime superscript refer to positions on the sugar and numbers without a prime superscript refer to positions on the heterocyclic base. Thus, the prefix 2′-deoxy indicates that oxygen is missing from C2′ of ribose.) DNA contains four different amine bases: two substituted purines ( A , adenine, and G , guanine) and two substituted pyrimidines ( C , cytosine, and T , thymine). Adenine, guanine, and cytosine also occur in RNA, but thymine is replaced in RNA by a closely related pyrimidine base called U , uracil."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/da60c3c9a061a2b4329225b868567e24e6d1f31d",
+              "alt": "The structure of ribose, 2-deoxyribose, purine, and pyrimidine. Adenine, Guanine, Cytosine and Thymine are present in D N A, whereas R N A contains Uracil instead of Thymine."
+            },
+            {
+              "type": "paragraph",
+              "text": "The structures of the four deoxyribonucleotides and the four ribonucleotides are shown in Figure 28.2 . Although similar chemically, DNA and RNA differ dramatically in size. Molecules of DNA are enormous, containing as many as 245 million nucleotides and having molecular weights as high as 75 billion. Molecules of RNA, by contrast, are much smaller, containing as few as 21 nucleotides and having molecular weights as low as 7000."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 28.2 Structures of the four deoxyribonucleotides and the four ribonucleotides.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/6feb289cc3943fe0e88a3712550272c3ba877105",
+              "alt": "Four forms of deoxyribonucleotides are 2'-deoxyadenosine 5'-phosphate, 2'-deoxyguanosine 5'-phosphate, 2'-deoxycytidine 5'-phosphate, thymidine 5'-phosphate. Four forms of ribonucleotides are adenosine 5'-phosphate, guanosine 5'-phosphate, cytidine 5'-phosphate, uridine 5'-phosphate."
+            },
+            {
+              "type": "paragraph",
+              "text": "Nucleotides are linked together in DNA and RNA by phosphodiester bonds [RO-(PO 2 - )-OR′] between phosphate, the 5′-hydroxyl group on one nucleoside, and the 3′-hydroxyl group on another nucleoside. One end of the nucleic acid polymer has a free hydroxyl at C3′ (the 3′ end ), and the other end has a phosphate at C5′ (the 5′ end ). The sequence of nucleotides in a chain is described by starting at the 5′ end and identifying the bases in order of occurrence, using the abbreviations G, C, A, T (or U in RNA). Thus, a typical DNA sequence might be written as TAGGCT."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/63b82980da2632be4149a1e55570ea23dc1d50da",
+              "alt": "Two figures show the structure of D N A. Nucleotides join together in deoxyribonucleic and ribonucleic acid via phosphate between the 5-prime on one nucleotide and the 3-prime on another."
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 28-1 Draw the full structure of the DNA dinucleotide AG. Problem 28-2 Draw the full structure of the RNA dinucleotide UA."
+            }
+          ],
+          "keywords": [
+            "nucleotides",
+            "nucleic",
+            "acids",
+            "phosphate",
+            "sugar",
+            "heterocyclic"
+          ],
+          "lesson_ids": [
+            "biomolecules"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    },
+    {
+      "lesson_id": "experimental_techniques",
+      "title": "Organic Analysis and Structural Determination",
+      "module": "Experimental Techniques",
+      "matched_passages": [
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/12-1-mass-spectrometry-of-small-molecules-magnetic-sector-instruments",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments",
+          "page": null,
+          "chunk_id": "openstax_orgchem_spectroscopy_12_1",
+          "text_preview": "Mass spectrometry measures molecular ions and fragment patterns. OpenStax uses it as structural evidence, aligning with the lesson's focus on interpreting organic-analysis data.",
+          "full_text": "At its simplest, mass spectrometry (MS) is a technique for measuring the mass, and therefore the molecular weight (MW), of a molecule. In addition, it’s often possible to gain structural information about a molecule by measuring the masses of the fragments produced when molecules are broken apart.\n\nMore than 20 different kinds of commercial mass spectrometers are available depending on the intended application, but all have three basic parts: an ionization source in which sample molecules are given an electrical charge, a mass analyzer in which ions are separated by their mass-to-charge ratio, and a detector in which the separated ions are observed and counted.\n\nAmong the most common mass spectrometers used for routine purposes in the laboratory is the electron-impact, magnetic-sector instrument shown schematically in Figure 12.2 . A small amount of sample is vaporized into the ionization source, where it is bombarded by a stream of high-energy electrons. The energy of the electron beam can be varied but is commonly around 70 electron volts (eV), or 6700 kJ/mol. When a high-energy electron strikes an organic molecule, it dislodges a valence electron from the molecule, producing a cation radical - cation because the molecule has lost an electron and now has a positive charge; radical because the molecule now has an odd number of electrons.\n\nElectron bombardment transfers so much energy that most of the cation radicals fragment after formation. They break apart into smaller pieces, some of which retain the positive charge and some of which are neutral. The fragments then flow through a curved pipe in a strong magnetic field, which deflects them into different paths according to their mass-to-charge ratio ( m / z ). Neutral fragments are not deflected by the magnetic field and are lost on the walls of the pipe, but positively charged fragments are sorted by the mass spectrometer onto a detector, which records them as peaks at the various m / z ratios. Since the number of charges z on each ion is usually 1, the value of m / z for each ion is simply its mass m. Masses up to approximately 2500 atomic mass units (amu) can be analyzed by this type of instrument.\n\nFigure 12.2 Representation of an electron-ionization, magnetic-sector mass spectrometer. Molecules are ionized by collision with high-energy electrons, causing some of the molecules to fragment. Passage of the charged fragments through a magnetic field then sorts them according to their mass.\n\nAnother common type of mass spectrometer uses what is called a quadrupole mass analyzer , which has a set of four solid rods is arranged parallel to the direction of the ion beam, with an oscillating electrostatic field is generated in the space between the rods. For a given field, only one m/z value will make it through the quadrupole region. The others will crash into the rods or the walls of the instrument and never reach the detector Figure 12.3 .\n\nFigure 12.3 Representation of a quadrupole mass analyzer. Only ions of a certain m/z will reach the detector; other ions will collide with the rods.\n\nThe mass spectrum of a compound is typically presented as a bar graph, with masses ( m / z values) on the x axis and intensity, or relative abundance of ions of a given m / z striking the detector, on the y axis. The tallest peak, assigned an intensity of 100%, is called the base peak , and the peak that corresponds to the unfragmented cation radical is called the precursor peak , or the molecular ion ( M + , or simply M ). Figure 12.4 shows the mass spectrum of propane.\n\nFigure 12.4 Mass spectrum of propane (C 3 H 8 ; MW = 44).\n\nMass spectral fragmentation patterns are usually complex, and the molecular ion is often not the base peak. The mass spectrum of propane in Figure 12.4 , for instance, shows a molecular ion at m / z = 44 that is only about 30% as high as the base peak at m/z = 29. In addition, many other fragment ions are present.",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "At its simplest, mass spectrometry (MS) is a technique for measuring the mass, and therefore the molecular weight (MW), of a molecule. In addition, it’s often possible to gain structural information about a molecule by measuring the masses of the fragments produced when molecules are broken apart."
+            },
+            {
+              "type": "paragraph",
+              "text": "More than 20 different kinds of commercial mass spectrometers are available depending on the intended application, but all have three basic parts: an ionization source in which sample molecules are given an electrical charge, a mass analyzer in which ions are separated by their mass-to-charge ratio, and a detector in which the separated ions are observed and counted."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/46c96be1a2e862553f5c86c0b3d95522b70f5116",
+              "alt": "A flowchart of the process of mass spectrometry. A sample moves from an ionization source to the mass analyzer, and then to the detector, after which results are displayed."
+            },
+            {
+              "type": "paragraph",
+              "text": "Among the most common mass spectrometers used for routine purposes in the laboratory is the electron-impact, magnetic-sector instrument shown schematically in Figure 12.2 . A small amount of sample is vaporized into the ionization source, where it is bombarded by a stream of high-energy electrons. The energy of the electron beam can be varied but is commonly around 70 electron volts (eV), or 6700 kJ/mol. When a high-energy electron strikes an organic molecule, it dislodges a valence electron from the molecule, producing a cation radical - cation because the molecule has lost an electron and now has a positive charge; radical because the molecule now has an odd number of electrons."
+            },
+            {
+              "type": "figure",
+              "caption": "",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/c2ba06e8cdfafab9425c521ede9c1793c7b0aa56",
+              "alt": "An organic molecule, RH loses an electron to generate a cation radical and an electron."
+            },
+            {
+              "type": "paragraph",
+              "text": "Electron bombardment transfers so much energy that most of the cation radicals fragment after formation. They break apart into smaller pieces, some of which retain the positive charge and some of which are neutral. The fragments then flow through a curved pipe in a strong magnetic field, which deflects them into different paths according to their mass-to-charge ratio ( m / z ). Neutral fragments are not deflected by the magnetic field and are lost on the walls of the pipe, but positively charged fragments are sorted by the mass spectrometer onto a detector, which records them as peaks at the various m / z ratios. Since the number of charges z on each ion is usually 1, the value of m / z for each ion is simply its mass m. Masses up to approximately 2500 atomic mass units (amu) can be analyzed by this type of instrument."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 12.2 Representation of an electron-ionization, magnetic-sector mass spectrometer. Molecules are ionized by collision with high-energy electrons, causing some of the molecules to fragment. Passage of the charged fragments through a magnetic field then sorts them according to their mass.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/314257e41081203e2183cd8969e66c1e6582eff0",
+              "alt": "A schematic showing the curved path of a sample through a mass spectrometer from the inlet (with ionization), past a magnet (with deflection), to a detection screen."
+            },
+            {
+              "type": "paragraph",
+              "text": "Another common type of mass spectrometer uses what is called a quadrupole mass analyzer , which has a set of four solid rods is arranged parallel to the direction of the ion beam, with an oscillating electrostatic field is generated in the space between the rods. For a given field, only one m/z value will make it through the quadrupole region. The others will crash into the rods or the walls of the instrument and never reach the detector Figure 12.3 ."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 12.3 Representation of a quadrupole mass analyzer. Only ions of a certain m/z will reach the detector; other ions will collide with the rods.",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/f5791b43510ab506108ce8cbbf2a41cc5be954a6",
+              "alt": "A schematic of the jagged path of an ion beam through a space surrounded by four tubes (two positive, two negative, arranged with like charges opposite one another)."
+            },
+            {
+              "type": "paragraph",
+              "text": "The mass spectrum of a compound is typically presented as a bar graph, with masses ( m / z values) on the x axis and intensity, or relative abundance of ions of a given m / z striking the detector, on the y axis. The tallest peak, assigned an intensity of 100%, is called the base peak , and the peak that corresponds to the unfragmented cation radical is called the precursor peak , or the molecular ion ( M + , or simply M ). Figure 12.4 shows the mass spectrum of propane."
+            },
+            {
+              "type": "figure",
+              "caption": "Figure 12.4 Mass spectrum of propane (C 3 H 8 ; MW = 44).",
+              "image_url": "https://openstax.org/apps/image-cdn/v1/f=webp/apps/archive/20260604.144757/resources/64d5420d8175eaaee7e326dfc95c0bb466803e37",
+              "alt": "The mass spectrum of propane. The m / z ratios are 29 and 44 for two tall peaks noted with arrows. Other, less prevalent, peaks are also present."
+            },
+            {
+              "type": "paragraph",
+              "text": "Mass spectral fragmentation patterns are usually complex, and the molecular ion is often not the base peak. The mass spectrum of propane in Figure 12.4 , for instance, shows a molecular ion at m / z = 44 that is only about 30% as high as the base peak at m/z = 29. In addition, many other fragment ions are present."
+            }
+          ],
+          "keywords": [
+            "mass",
+            "spectrometry",
+            "molecular",
+            "ion",
+            "fragment",
+            "spectrum",
+            "magnetic",
+            "sector"
+          ],
+          "lesson_ids": [
+            "experimental_techniques"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        },
+        {
+          "source_id": "openstax_organic_chemistry",
+          "citation_label": "OpenStax Organic Chemistry, John McMurry, 10th edition, 13.4 Chemical Shifts in 1H NMR Spectroscopy",
+          "source_url": "https://openstax.org/books/organic-chemistry/pages/13-4-chemical-shifts-in-1h-nmr-spectroscopy",
+          "license": "CC BY-NC-SA 4.0",
+          "section_title": "13.4 Chemical Shifts in 1H NMR Spectroscopy",
+          "page": null,
+          "chunk_id": "openstax_orgchem_spectroscopy_13_3",
+          "text_preview": "1H NMR chemical shifts connect proton environment to structure. This is direct evidence for the lesson's structural-determination workflow.",
+          "full_text": "As mentioned previously, differences in chemical shifts are caused by the small local magnetic field of electrons surrounding different nuclei. Nuclei that are more strongly shielded by electrons require a higher applied field to bring them into resonance so they absorb on the right side of the NMR chart. Nuclei that are less strongly shielded need a lower applied field for resonance so they absorb on the left of the NMR chart.\n\nMost 1 H chemical shifts fall within the range 0 to 10 δ, which can be divided into the five regions shown in Table 13.2 . By remembering the positions of these regions, it’s often possible to tell at a glance what kinds of protons a molecule contains.\n\nTable 13.2 Regions of the 1 H NMR Spectrum\n\nTable 13.3 shows the correlation of 1 H chemical shift with electronic environment in more detail. In general, protons bonded to saturated, sp 3 -hybridized carbons absorb at higher fields, whereas protons bonded to sp 2 -hybridized carbons absorb at lower fields. Protons on carbons that are bonded to electronegative atoms, such as N, O, or halogen, also absorb at lower fields.\n\nTable 13.3 Correlation of 1 H Chemical Shifts with Environment Type of hydrogen Chemical shift ( δ ) Reference Si(C H 3 ) 4 0 Alkyl (primary) -C H 3 0.7-1.3 Alkyl (secondary) -C H 2 - 1.2-1.6 Alkyl (tertiary) 1.4-1.8 Allylic 1.6-2.2 Methyl ketone 2.0-2.4 Aromatic methyl Ar-C H 3 2.4-2.7 Alkynyl - C ≡ C - H - C ≡ C - H 2.5-3.0 Alkyl halide 2.5-4.0 Alcohol 2.5-5.0 Alcohol, ether 3.3-4.5 Vinylic 4.5-6.5 Aryl Ar- H 6.5-8.0 Aldehyde 9.7-10.0 Carboxylic acid 11.0-12.0\n\nWorked Example 13.1 Predicting Chemical Shifts in 1 H NMR Spectra Methyl 2,2-dimethylpropanoate (CH 3 ) 3 CCO 2 CH 3 has two peaks in its 1 H NMR spectrum. What are their approximate chemical shifts? Strategy Identify the types of hydrogens in the molecule, and note whether each is alkyl, vinylic, or next to an electronegative atom. Then predict where each absorbs, using Table 13.3 if necessary. Solution The -OCH 3 protons absorb around 3.5 to 4.0 δ because they are on carbon bonded to oxygen. The (CH 3 ) 3 C- protons absorb near 1.0 δ because they are typical alkane-like protons.\n\nProblem 13-6 Each of the following compounds has a single 1 H NMR peak. Approximately where would you expect each compound to absorb? (a) (b) (c) (d) (e) (f) Problem 13-7 Identify the different types of protons in the following molecule, and tell where you would expect each to absorb:",
+          "content_blocks": [
+            {
+              "type": "paragraph",
+              "text": "As mentioned previously, differences in chemical shifts are caused by the small local magnetic field of electrons surrounding different nuclei. Nuclei that are more strongly shielded by electrons require a higher applied field to bring them into resonance so they absorb on the right side of the NMR chart. Nuclei that are less strongly shielded need a lower applied field for resonance so they absorb on the left of the NMR chart."
+            },
+            {
+              "type": "paragraph",
+              "text": "Most 1 H chemical shifts fall within the range 0 to 10 δ, which can be divided into the five regions shown in Table 13.2 . By remembering the positions of these regions, it’s often possible to tell at a glance what kinds of protons a molecule contains."
+            },
+            {
+              "type": "paragraph",
+              "text": "Table 13.2 Regions of the 1 H NMR Spectrum"
+            },
+            {
+              "type": "paragraph",
+              "text": "Table 13.3 shows the correlation of 1 H chemical shift with electronic environment in more detail. In general, protons bonded to saturated, sp 3 -hybridized carbons absorb at higher fields, whereas protons bonded to sp 2 -hybridized carbons absorb at lower fields. Protons on carbons that are bonded to electronegative atoms, such as N, O, or halogen, also absorb at lower fields."
+            },
+            {
+              "type": "paragraph",
+              "text": "Table 13.3 Correlation of 1 H Chemical Shifts with Environment Type of hydrogen Chemical shift ( δ ) Reference Si(C H 3 ) 4 0 Alkyl (primary) -C H 3 0.7-1.3 Alkyl (secondary) -C H 2 - 1.2-1.6 Alkyl (tertiary) 1.4-1.8 Allylic 1.6-2.2 Methyl ketone 2.0-2.4 Aromatic methyl Ar-C H 3 2.4-2.7 Alkynyl - C ≡ C - H - C ≡ C - H 2.5-3.0 Alkyl halide 2.5-4.0 Alcohol 2.5-5.0 Alcohol, ether 3.3-4.5 Vinylic 4.5-6.5 Aryl Ar- H 6.5-8.0 Aldehyde 9.7-10.0 Carboxylic acid 11.0-12.0"
+            },
+            {
+              "type": "paragraph",
+              "text": "Worked Example 13.1 Predicting Chemical Shifts in 1 H NMR Spectra Methyl 2,2-dimethylpropanoate (CH 3 ) 3 CCO 2 CH 3 has two peaks in its 1 H NMR spectrum. What are their approximate chemical shifts? Strategy Identify the types of hydrogens in the molecule, and note whether each is alkyl, vinylic, or next to an electronegative atom. Then predict where each absorbs, using Table 13.3 if necessary. Solution The -OCH 3 protons absorb around 3.5 to 4.0 δ because they are on carbon bonded to oxygen. The (CH 3 ) 3 C- protons absorb near 1.0 δ because they are typical alkane-like protons."
+            },
+            {
+              "type": "paragraph",
+              "text": "Problem 13-6 Each of the following compounds has a single 1 H NMR peak. Approximately where would you expect each compound to absorb? (a) (b) (c) (d) (e) (f) Problem 13-7 Identify the different types of protons in the following molecule, and tell where you would expect each to absorb:"
+            }
+          ],
+          "keywords": [
+            "nmr",
+            "chemical",
+            "shift",
+            "proton",
+            "shielding",
+            "deshielding",
+            "spectrum"
+          ],
+          "lesson_ids": [
+            "experimental_techniques"
+          ],
+          "matched_terms": [
+            "curated_lesson_mapping"
+          ]
+        }
+      ],
+      "status": "ready",
+      "message": null
+    }
+  ],
+  "status": "ready",
+  "note": "Curated sections may intentionally bundle full text and content blocks when the source license allows in-app reading."
+}

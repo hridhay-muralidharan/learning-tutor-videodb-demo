@@ -1,0 +1,71 @@
+{
+  "course_title": "GATE Organic Chemistry Study Workbench",
+  "scope": "Official GATE CY Organic Chemistry section only",
+  "source_count": 1,
+  "sources": [
+    {
+      "id": "official_cy_2026",
+      "source_type": "official_pdf_url",
+      "url": "https://gate2026.iitg.ac.in/doc/GATE2026_Syllabus/CY_2026_Syllabus.pdf",
+      "local_path": "resources/syllabus/CY_2026_Syllabus.pdf",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry",
+      "active_sections": [
+        "Section 3: Organic Chemistry"
+      ],
+      "required": true,
+      "artifact_only_allowed": true
+    }
+  ],
+  "anchors": [
+    {
+      "lesson_id": "stereochemistry",
+      "module": "Stereochemistry",
+      "title": "Stereochemistry and Reactivity",
+      "syllabus_anchor": "Chirality and symmetry, absolute and relative configuration, topicity, stereoselective and stereospecific synthesis, conformational analysis, geometrical and optical isomerism, atropisomerism, and neighbouring group participation.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    },
+    {
+      "lesson_id": "reaction_mechanisms",
+      "module": "Reaction Mechanisms",
+      "title": "Mechanistic Control and Reactive Intermediates",
+      "syllabus_anchor": "Kinetic versus thermodynamic control, Hammond postulate, Curtin-Hammett principle, mechanism determination, linear free-energy relationships, substitution, addition, elimination, reactive intermediates, and rearrangements.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    },
+    {
+      "lesson_id": "organic_synthesis",
+      "module": "Organic Synthesis",
+      "title": "Functional-Group Synthesis and Selectivity",
+      "syllabus_anchor": "Reactions, mechanisms and selectivity of major functional groups; main-group reagents; coupling reactions; retrosynthesis; atom economy; umpolung; chemo-, regio- and stereoselectivity; protection/deprotection; asymmetric synthesis; enolate and carbonyl stereoselective additions.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    },
+    {
+      "lesson_id": "pericyclic_photochemistry",
+      "module": "Pericyclic Reactions and Photochemistry",
+      "title": "Pericyclic and Photochemical Logic",
+      "syllabus_anchor": "Electrocyclic, cycloaddition and sigmatropic reactions; FMO and PMO treatments; Woodward-Hoffmann rule; photochemistry of alkenes, arenes and carbonyl compounds; photooxidation, photoreduction, di-pi-methane rearrangement, Barton-McCombie reaction, and Norrish type-I and II cleavage.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    },
+    {
+      "lesson_id": "heterocycles",
+      "module": "Heterocyclic Compounds",
+      "title": "Heterocycle Structure and Reactions",
+      "syllabus_anchor": "Structure, preparation, properties and reactions of furan, pyrrole, thiophene, pyridine, indole, quinoline and isoquinoline.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    },
+    {
+      "lesson_id": "biomolecules",
+      "module": "Biomolecules",
+      "title": "Biomolecules in Organic Chemistry",
+      "syllabus_anchor": "Structure, properties and reactions of mono- and di-saccharides; physicochemical properties of amino acids; peptide synthesis and structure determination; structural features of proteins, nucleic acids, lipids, steroids, terpenoids, carotenoids and alkaloids.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    },
+    {
+      "lesson_id": "experimental_techniques",
+      "module": "Experimental Techniques",
+      "title": "Organic Analysis and Structural Determination",
+      "syllabus_anchor": "Optical rotation; chromatographic techniques including TLC, column, HPLC and GC; applications of UV-visible, IR, NMR and Mass spectrometry in structural determination of organic molecules.",
+      "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry"
+    }
+  ],
+  "status": "ready"
+}

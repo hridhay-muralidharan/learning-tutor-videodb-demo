@@ -1,0 +1,653 @@
+{
+  "scope": "Organic Chemistry only",
+  "source_policy": "Syllabus defines the lesson map. Textbook, video, and question evidence attach to these anchors.",
+  "lessons": [
+    {
+      "id": "stereochemistry",
+      "module": "Stereochemistry",
+      "title": "Stereochemistry and Reactivity",
+      "syllabus_anchor": "Chirality and symmetry, absolute and relative configuration, topicity, stereoselective and stereospecific synthesis, conformational analysis, geometrical and optical isomerism, atropisomerism, and neighbouring group participation.",
+      "source_grounded_summary": "Study this lesson as the stereochemical control layer of the official Organic Chemistry syllabus. Use the textbook and video evidence before adding any mechanism-level explanation.",
+      "question_match_terms": [
+        "chiral",
+        "optical",
+        "specific rotation",
+        "asymmetric",
+        "enantiotopic",
+        "diastereotopic",
+        "decalin",
+        "stereoselective"
+      ],
+      "review_prompts": [
+        "Can you identify the stereochemical relation before choosing a reaction pathway?",
+        "Can you separate configurational effects from conformational effects?"
+      ],
+      "video_search_queries": [
+        "enantiomers mirror images optical activity",
+        "specific rotation enantiomeric excess stereochemistry",
+        "chiral center optical rotation",
+        "R S configuration optical rotation not correlated",
+        "chirality enantiomers specific rotation"
+      ],
+      "video_validation_terms": [
+        "chirality",
+        "chiral",
+        "enantiomer",
+        "enantiomers",
+        "mirror image",
+        "specific rotation",
+        "optical activity",
+        "optical rotation",
+        "plane polarized light",
+        "configuration",
+        "R isomer",
+        "S isomer",
+        "enantiomeric excess"
+      ],
+      "video_preferred_windows": [
+        {
+          "source_id": "gate_organic_graph_stereochemistry_specific_rotation",
+          "start": 139.91,
+          "end": 203.86,
+          "reason": "Directly connects enantiomers, mirror images, optical properties, and rotation of plane-polarized light to the textbook and GATE specific-rotation question."
+        }
+      ],
+      "concept_threads": [
+        {
+          "id": "chirality_enantiomers",
+          "label": "Chirality, mirror images, and enantiomers",
+          "aliases": [
+            "chiral",
+            "chirality",
+            "enantiomer",
+            "enantiomers",
+            "enantiomeric",
+            "mirror image",
+            "mirror images",
+            "non-superimposable",
+            "tetrahedral carbon",
+            "specific rotation",
+            "optical rotation"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        },
+        {
+          "id": "absolute_configuration",
+          "label": "Absolute configuration and R/S assignment",
+          "aliases": [
+            "absolute configuration",
+            "configuration",
+            "R configuration",
+            "S configuration",
+            "Cahn",
+            "Ingold",
+            "Prelog",
+            "sequence rules",
+            "priority rules",
+            "chirality center",
+            "stereocenter"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "reaction_mechanisms",
+      "module": "Reaction Mechanisms",
+      "title": "Mechanistic Control and Reactive Intermediates",
+      "syllabus_anchor": "Kinetic versus thermodynamic control, Hammond postulate, Curtin-Hammett principle, mechanism determination, linear free-energy relationships, substitution, addition, elimination, reactive intermediates, and rearrangements.",
+      "source_grounded_summary": "Study this lesson as the decision layer for why a pathway is favored. Keep claims tied to mechanism evidence, product evidence, kinetics, or intermediate stability.",
+      "question_match_terms": [
+        "mechanism",
+        "transformation",
+        "hammett",
+        "substituent",
+        "rearrangement",
+        "intermediate",
+        "kinetic",
+        "reaction sequence"
+      ],
+      "review_prompts": [
+        "What evidence would distinguish a kinetic product from a thermodynamic product?",
+        "Which intermediate or transition-state argument is actually being tested?"
+      ],
+      "video_search_queries": [
+        "फाइनेस रिअरेंजमेंट",
+        "सिग्मा बांड एनजीपी",
+        "नेबरिंग ग्रुप पार्टिसिपेशन मेकेनिज्म",
+        "रिएक्शन मेकेनिज्म",
+        "नेबरिंग ग्रुप पार्टिसिपेशन",
+        "एन जी पी",
+        "इंटरमीडिएट",
+        "हैमेट",
+        "काइनेटिक",
+        "reaction mechanism organic chemistry",
+        "reactive intermediate"
+      ],
+      "video_validation_terms": [
+        "रिएक्शन",
+        "मेकेनिज्म",
+        "मैकेनिज्म",
+        "इंटरमीडिएट",
+        "एन जी पी",
+        "ngp",
+        "hammett",
+        "kinetic",
+        "mechanism",
+        "intermediate",
+        "rearrangement",
+        "substitution",
+        "elimination",
+        "रिअरेंजमेंट",
+        "रीअरेंजमेंट",
+        "रिअरेंज",
+        "फाइनेस",
+        "रिएक्शन मेकेनिज्म",
+        "नेबरिंग ग्रुप",
+        "पार्टिसिपेशन",
+        "सिग्मा बांड",
+        "पुश और पुल"
+      ],
+      "video_preferred_windows": [
+        {
+          "source_id": "gate_organic_pilot_reaction_mechanism_ifas",
+          "start": 2520,
+          "end": 2610,
+          "reason": "Cleaner mechanism/intermediate discussion than the later PDF/homework transition."
+        }
+      ],
+      "concept_threads": [
+        {
+          "id": "mechanisms_and_intermediates",
+          "label": "Reaction mechanisms and intermediates",
+          "aliases": [
+            "reaction mechanism",
+            "mechanism",
+            "mechanisms",
+            "intermediate",
+            "intermediates",
+            "transition state",
+            "bond breaking",
+            "bond making",
+            "electron movement",
+            "curved arrow",
+            "kinetic",
+            "मेकेनिज्म",
+            "मैकेनिज्म",
+            "इंटरमीडिएट",
+            "रिएक्शन"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "organic_synthesis",
+      "module": "Organic Synthesis",
+      "title": "Functional-Group Synthesis and Selectivity",
+      "syllabus_anchor": "Reactions, mechanisms and selectivity of major functional groups; main-group reagents; coupling reactions; retrosynthesis; atom economy; umpolung; chemo-, regio- and stereoselectivity; protection/deprotection; asymmetric synthesis; enolate and carbonyl stereoselective additions.",
+      "source_grounded_summary": "Study this lesson as a synthesis planning layer. The app should connect reactions to selectivity, disconnections, reagent choice, and evidence-backed practice.",
+      "question_match_terms": [
+        "major product",
+        "reaction sequence",
+        "reagents",
+        "transformation",
+        "aldol",
+        "carbonyl",
+        "selectivity",
+        "synthesis"
+      ],
+      "review_prompts": [
+        "Can you explain the role of each reagent instead of memorizing the sequence?",
+        "Can you state the selectivity issue before solving the transformation?"
+      ],
+      "video_search_queries": [
+        "कार्बन कार्बन डिस्कनेक्शन",
+        "रेट्रो सिंथेसिस टार्गेट मॉलिक्यूल",
+        "target molecule starting material retrosynthesis",
+        "रेट्रोसिंथेसिस",
+        "रिट्रोसिंथेसिस",
+        "डिस्कनेक्शन",
+        "सिंथेसिस प्लान",
+        "अंपोलुंग",
+        "selectivity synthesis",
+        "retrosynthesis disconnection",
+        "functional group synthesis"
+      ],
+      "video_validation_terms": [
+        "रेट्रो",
+        "रिट्रो",
+        "सिंथेसिस",
+        "डिस्कनेक्शन",
+        "reagent",
+        "synthesis",
+        "retrosynthesis",
+        "disconnection",
+        "selectivity",
+        "umpolung",
+        "protection",
+        "carbonyl",
+        "कार्बन कार्बन",
+        "टारगेट मॉलिक्यूल",
+        "सिंतों",
+        "सिंथॉन"
+      ],
+      "video_preferred_windows": [
+        {
+          "source_id": "gate_organic_pilot_organic_synthesis_retrosynthesis",
+          "start": 630,
+          "end": 720,
+          "reason": "Disconnection and target-molecule planning aligns better with synthesis workflow than the intro segment."
+        }
+      ],
+      "concept_threads": [
+        {
+          "id": "synthesis_planning",
+          "label": "Synthesis planning and reaction sequences",
+          "aliases": [
+            "synthesis",
+            "organic synthesis",
+            "route",
+            "planning",
+            "reaction sequence",
+            "reaction sequences",
+            "reagents",
+            "transformation",
+            "major product",
+            "selectivity",
+            "सिंथेसिस",
+            "सिंथेसिस प्लान",
+            "रिएक्शन सीक्वेंस",
+            "रीएजेंट",
+            "ट्रांसफॉर्मेशन"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "pericyclic_photochemistry",
+      "module": "Pericyclic Reactions and Photochemistry",
+      "title": "Pericyclic and Photochemical Logic",
+      "syllabus_anchor": "Electrocyclic, cycloaddition and sigmatropic reactions; FMO and PMO treatments; Woodward-Hoffmann rule; photochemistry of alkenes, arenes and carbonyl compounds; photooxidation, photoreduction, di-pi-methane rearrangement, Barton-McCombie reaction, and Norrish type-I and II cleavage.",
+      "source_grounded_summary": "Study this lesson as orbital-symmetry and excited-state evidence. Do not reduce it to name recall; require orbital or photochemical rationale from sources.",
+      "question_match_terms": [
+        "cycloaddition",
+        "di-pi-methane",
+        "divinyl cyclopropane",
+        "electrocyclic",
+        "photochemical",
+        "pericyclic",
+        "rearrangement"
+      ],
+      "review_prompts": [
+        "Can you identify the reaction class before applying a rule?",
+        "Can you connect the allowed pathway to orbital symmetry or excited-state behavior?"
+      ],
+      "video_search_queries": [
+        "पेरिसाइक्लिक",
+        "पेरीसाइक्लिक",
+        "इलेक्ट्रोसाइक्लिक",
+        "फोटोकेमिकल",
+        "साइक्लोएडिशन",
+        "conrotatory disrotatory",
+        "pericyclic electrocyclic photochemical"
+      ],
+      "video_validation_terms": [
+        "पेरिसाइक्लिक",
+        "पेरीसाइक्लिक",
+        "इलेक्ट्रोसाइक्लिक",
+        "फोटो",
+        "साइक्लो",
+        "pericyclic",
+        "electrocyclic",
+        "photochemical",
+        "cycloaddition",
+        "sigmatropic",
+        "conrotatory",
+        "disrotatory",
+        "पाई",
+        "पा इलेक्ट्रॉन",
+        "इलेक्ट्रॉन",
+        "क्लोजिंग",
+        "डबल वान",
+        "फोर पाई"
+      ],
+      "concept_threads": [
+        {
+          "id": "pericyclic_selection_rules",
+          "label": "Pericyclic selection rules and electrocyclic motion",
+          "aliases": [
+            "pericyclic",
+            "electrocyclic",
+            "photochemical",
+            "conrotatory",
+            "disrotatory",
+            "cycloaddition",
+            "sigmatropic",
+            "Woodward",
+            "Hoffmann",
+            "orbital",
+            "frontier orbitals",
+            "पेरिसाइक्लिक",
+            "पेरीसाइक्लिक",
+            "इलेक्ट्रोसाइक्लिक",
+            "फोटोकेमिकल",
+            "साइक्लोएडिशन"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "heterocycles",
+      "module": "Heterocyclic Compounds",
+      "title": "Heterocycle Structure and Reactions",
+      "syllabus_anchor": "Structure, preparation, properties and reactions of furan, pyrrole, thiophene, pyridine, indole, quinoline and isoquinoline.",
+      "source_grounded_summary": "Study this lesson as structure-reactivity comparison across named heterocycles. Claims should cite the source treatment of aromaticity, heteroatom effect, and reaction position.",
+      "question_match_terms": [
+        "quinoline",
+        "2-methylquinoline",
+        "pyridine",
+        "pyrrole",
+        "indole",
+        "heterocycle",
+        "aromatic"
+      ],
+      "review_prompts": [
+        "Can you compare two heterocycles by electron distribution and position of attack?",
+        "Can you explain the preparation or reaction pattern with a source-backed structure argument?"
+      ],
+      "video_search_queries": [
+        "पिरिडीन इंडोल क्वीनोलीन",
+        "पाइरीडीन इंडोल क्विनोलीन",
+        "पिरिडीन इलेक्ट्रोफिलिक सब्स्टिट्यूशन",
+        "pyridine indole quinoline heterocyclic reactions",
+        "हेटरोसाइक्लिक",
+        "हेट्रोसाइक्लिक",
+        "पाइरीडीन",
+        "पाइरोल",
+        "फ्यूरान",
+        "थायोफीन",
+        "इंडोल",
+        "heterocyclic pyridine pyrrole furan"
+      ],
+      "video_validation_terms": [
+        "हेटरो",
+        "हेट्रो",
+        "पाइरीडीन",
+        "पाइरोल",
+        "फ्यूरान",
+        "थायोफीन",
+        "इंडोल",
+        "heterocycle",
+        "heterocyclic",
+        "pyridine",
+        "pyrrole",
+        "furan",
+        "thiophene",
+        "indole",
+        "quinoline",
+        "लोन पैर",
+        "हेटरोसाइक्लिक",
+        "पाइवोट",
+        "पॉजिटिव",
+        "अरोमैटिक",
+        "पिरिडीन",
+        "क्वीनोलीन",
+        "क्विनोलीन",
+        "इलेक्ट्रो फाइल",
+        "न्यूक्लीय फिलिक",
+        "ऑरबिट",
+        "सब्स्टिट्यूशन",
+        "पोजीशन"
+      ],
+      "video_preferred_windows": [
+        {
+          "source_id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+          "start": 900,
+          "end": 990,
+          "reason": "Pyridine, indole, quinoline reaction-position reasoning aligns with textbook and practice evidence."
+        }
+      ],
+      "concept_threads": [
+        {
+          "id": "aromatic_heterocycles",
+          "label": "Aromatic heterocycles and heteroatom effects",
+          "aliases": [
+            "heterocycle",
+            "heterocycles",
+            "heterocyclic",
+            "aromatic heterocycles",
+            "pyridine",
+            "pyrrole",
+            "furan",
+            "thiophene",
+            "indole",
+            "quinoline",
+            "isoquinoline",
+            "lone pair",
+            "aromatic",
+            "हेटरोसाइक्लिक",
+            "हेट्रोसाइक्लिक",
+            "पाइरीडीन",
+            "पाइरोल",
+            "फ्यूरान",
+            "थायोफीन",
+            "इंडोल",
+            "क्वीनोलीन",
+            "क्विनोलीन"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "biomolecules",
+      "module": "Biomolecules",
+      "title": "Biomolecules in Organic Chemistry",
+      "syllabus_anchor": "Structure, properties and reactions of mono- and di-saccharides; physicochemical properties of amino acids; peptide synthesis and structure determination; structural features of proteins, nucleic acids, lipids, steroids, terpenoids, carotenoids and alkaloids.",
+      "source_grounded_summary": "Study this lesson as organic structure and functional-group reasoning applied to biological molecule classes.",
+      "question_match_terms": [
+        "peptide",
+        "amino acids",
+        "pentapeptide",
+        "tripeptides",
+        "dipeptides",
+        "cytochrome",
+        "metalloproteins",
+        "carbohydrate"
+      ],
+      "review_prompts": [
+        "Can you describe the relevant functional groups before naming the biomolecule class?",
+        "Can you connect structure determination evidence to the molecule type?"
+      ],
+      "video_search_queries": [
+        "बायोमोलीक्यूल्स",
+        "बायो मैक्रो मॉलीक्यूल्स",
+        "कार्बोहाइड्रेट",
+        "अमीनो एसिड",
+        "पेप्टाइड",
+        "प्रोटीन",
+        "biomolecules carbohydrate amino acid peptide"
+      ],
+      "video_validation_terms": [
+        "बायो",
+        "मैक्रो",
+        "कार्बोहाइड्रेट",
+        "अमीनो",
+        "पेप्टाइड",
+        "प्रोटीन",
+        "biomolecule",
+        "carbohydrate",
+        "amino",
+        "peptide",
+        "protein",
+        "saccharide",
+        "lipid"
+      ],
+      "concept_threads": [
+        {
+          "id": "carbohydrates_amino_acids_peptides",
+          "label": "Carbohydrates, amino acids, and peptides",
+          "aliases": [
+            "carbohydrate",
+            "carbohydrates",
+            "monosaccharides",
+            "disaccharides",
+            "polysaccharides",
+            "amino acids",
+            "amino acid",
+            "peptide",
+            "peptides",
+            "protein",
+            "proteins",
+            "biomolecule",
+            "biomolecules",
+            "बायोमोलीक्यूल्स",
+            "कार्बोहाइड्रेट",
+            "अमीनो",
+            "पेप्टाइड",
+            "प्रोटीन"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    },
+    {
+      "id": "experimental_techniques",
+      "module": "Experimental Techniques",
+      "title": "Organic Analysis and Structural Determination",
+      "syllabus_anchor": "Optical rotation; chromatographic techniques including TLC, column, HPLC and GC; applications of UV-visible, IR, NMR and Mass spectrometry in structural determination of organic molecules.",
+      "source_grounded_summary": "Study this lesson as evidence interpretation. The goal is to connect experimental data to structure, purity, stereochemistry, or functional group assignments.",
+      "question_match_terms": [
+        "NMR",
+        "IR spectrum",
+        "mass spectrum",
+        "m/z",
+        "spectral",
+        "spectroscopy",
+        "chemical shift",
+        "chromatographic"
+      ],
+      "review_prompts": [
+        "Can you say what each technique proves and what it cannot prove?",
+        "Can you connect spectral or chromatographic evidence to a structural claim?"
+      ],
+      "video_search_queries": [
+        "organic spectroscopy",
+        "mass spectrometry",
+        "infrared spectroscopy",
+        "chromatography stationary phase",
+        "gas chromatography",
+        "एन एम आर",
+        "एनएमआर",
+        "केमिकली नॉन इक्विवेलेंट प्रोटॉन",
+        "number of signals NMR"
+      ],
+      "video_validation_terms": [
+        "spectroscopy",
+        "spectrum",
+        "mass",
+        "nmr",
+        "एनएमआर",
+        "एन एम आर",
+        "chromatography",
+        "gas chromatography",
+        "stationary phase",
+        "proton",
+        "signal",
+        "chemical shift",
+        "ir",
+        "uv"
+      ],
+      "concept_threads": [
+        {
+          "id": "nmr_structure_determination",
+          "label": "NMR evidence for structure determination",
+          "aliases": [
+            "NMR",
+            "chemical shift",
+            "chemical shifts",
+            "proton",
+            "protons",
+            "signal",
+            "signals",
+            "spectrum",
+            "spectral",
+            "shielding",
+            "deshielding",
+            "structure determination",
+            "एनएमआर",
+            "एन एम आर",
+            "सिग्नल"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        },
+        {
+          "id": "mass_ir_chromatography",
+          "label": "Mass, IR, and chromatography evidence",
+          "aliases": [
+            "mass spectrometry",
+            "mass spectrum",
+            "m/z",
+            "molecular ion",
+            "fragment",
+            "IR spectrum",
+            "infrared",
+            "chromatography",
+            "stationary phase",
+            "gas chromatography",
+            "HPLC"
+          ],
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "primary": true
+        }
+      ]
+    }
+  ]
+}

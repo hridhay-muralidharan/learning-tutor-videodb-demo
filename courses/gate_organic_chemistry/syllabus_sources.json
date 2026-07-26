@@ -1,0 +1,12 @@
+[
+  {
+    "id": "official_cy_2026",
+    "source_type": "official_pdf_url",
+    "url": "https://gate2026.iitg.ac.in/doc/GATE2026_Syllabus/CY_2026_Syllabus.pdf",
+    "local_path": "resources/syllabus/CY_2026_Syllabus.pdf",
+    "citation_label": "GATE 2026 CY syllabus, Section 3: Organic Chemistry",
+    "active_sections": ["Section 3: Organic Chemistry"],
+    "required": true,
+    "artifact_only_allowed": true
+  }
+]

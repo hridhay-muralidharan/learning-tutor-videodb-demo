@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="A digital classroom for guided GATE Organic Chemistry study.">
+    <title>$COURSE_TITLE</title>
+    <link rel="stylesheet" href="styles.css">
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to study area</a>
+    <div class="app-shell">
+      <header class="topbar">
+        <div class="brand-block">
+          <p class="kicker">Digital classroom</p>
+          <h1>$COURSE_TITLE</h1>
+        </div>
+        <div class="topbar-progress" aria-label="Course mastery progress">
+          <span id="courseProgressText">0% mastered</span>
+          <div class="progress-track"><div id="courseProgressBar" class="progress-fill"></div></div>
+        </div>
+        <nav class="top-nav" aria-label="Study navigation">
+          <button type="button" data-view="dashboard" class="active">Start</button>
+          <button type="button" data-view="lesson">Class</button>
+          <button type="button" data-view="practice">Test</button>
+          <button type="button" data-view="review">Revise</button>
+          <button type="button" data-view="profile">Routine</button>
+          <button type="button" data-view="sources">References</button>
+        </nav>
+      </header>
+
+      <main id="main" class="workspace">
+        <section id="dashboardView" class="app-view"></section>
+        <section id="lessonView" class="app-view"></section>
+        <section id="practiceView" class="app-view"></section>
+        <section id="reviewView" class="app-view"></section>
+        <section id="profileView" class="app-view"></section>
+        <section id="sourcesView" class="app-view"></section>
+      </main>
+    </div>
+
+    <script>
+      window.COURSE_DATA = $COURSE_DATA_JSON;
+    </script>
+    <script src="app.js"></script>
+  </body>
+</html>

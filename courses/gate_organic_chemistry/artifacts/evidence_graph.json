@@ -1,0 +1,2882 @@
+{
+  "status": "ready",
+  "course_title": "GATE Organic Chemistry Study Workbench",
+  "model": {
+    "principle": "A lesson is assembled from the strongest shared concept thread across indexed source types.",
+    "primary_rule": "Primary evidence must connect through the same concept thread; broad lesson-id matches are treated as insufficient.",
+    "source_types": [
+      "textbook",
+      "video",
+      "questions"
+    ]
+  },
+  "nodes": [
+    {
+      "id": "lesson:stereochemistry",
+      "type": "lesson",
+      "label": "Stereochemistry and Reactivity",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "concept:stereochemistry:chirality_enantiomers",
+      "type": "concept",
+      "label": "Chirality, mirror images, and enantiomers",
+      "lesson_id": "stereochemistry",
+      "concept_id": "chirality_enantiomers"
+    },
+    {
+      "id": "syllabus:stereochemistry:syllabus",
+      "type": "syllabus",
+      "label": "Chirality and symmetry, absolute and relative configuration, topicity, stereoselective and stereospecific synthesis, conformational analysis, geometrical and optical isomerism, atropisomerism, and neighbouring group participation.",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "textbook:openstax_orgchem_stereo_5_1",
+      "type": "textbook",
+      "label": "5.1 Enantiomers and the Tetrahedral Carbon",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "textbook:openstax_orgchem_stereo_5_5",
+      "type": "textbook",
+      "label": "5.5 Sequence Rules for Specifying Configuration",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "video:gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+      "type": "video",
+      "label": "02:19-03:23",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "video:gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28",
+      "type": "video",
+      "label": "04:37-05:48",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0039",
+      "type": "questions",
+      "label": "Q.33 The specific rotation of enantiomerically pure ( S)-2-butanol is +14 . The specific rotation of enantiomeric mixture of 2 -butanol obtained from an asymmetric reduction of 2-butanone is found to be +7. The percentage of (R)-2-butanol present in the reaction mixture is _____ (in integer).",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "questions:official_gate_cy_2024_0021",
+      "type": "questions",
+      "label": "Q.15 Among the following, the chiral compound is (A) P (B) Q (C) R (D) S",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "concept:stereochemistry:absolute_configuration",
+      "type": "concept",
+      "label": "Absolute configuration and R/S assignment",
+      "lesson_id": "stereochemistry",
+      "concept_id": "absolute_configuration"
+    },
+    {
+      "id": "syllabus:stereochemistry:syllabus",
+      "type": "syllabus",
+      "label": "Chirality and symmetry, absolute and relative configuration, topicity, stereoselective and stereospecific synthesis, conformational analysis, geometrical and optical isomerism, atropisomerism, and neighbouring group participation.",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "textbook:openstax_orgchem_stereo_5_5",
+      "type": "textbook",
+      "label": "5.5 Sequence Rules for Specifying Configuration",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "textbook:openstax_orgchem_stereo_5_1",
+      "type": "textbook",
+      "label": "5.1 Enantiomers and the Tetrahedral Carbon",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "video:gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+      "type": "video",
+      "label": "02:19-03:23",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "video:gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28",
+      "type": "video",
+      "label": "04:37-05:48",
+      "lesson_id": "stereochemistry"
+    },
+    {
+      "id": "lesson:reaction_mechanisms",
+      "type": "lesson",
+      "label": "Mechanistic Control and Reactive Intermediates",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "type": "concept",
+      "label": "Reaction mechanisms and intermediates",
+      "lesson_id": "reaction_mechanisms",
+      "concept_id": "mechanisms_and_intermediates"
+    },
+    {
+      "id": "syllabus:reaction_mechanisms:syllabus",
+      "type": "syllabus",
+      "label": "Kinetic versus thermodynamic control, Hammond postulate, Curtin-Hammett principle, mechanism determination, linear free-energy relationships, substitution, addition, elimination, reactive intermediates, and rearrangements.",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "textbook:openstax_orgchem_mechanisms_6_2",
+      "type": "textbook",
+      "label": "6.2 How Organic Reactions Occur: Mechanisms",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "textbook:openstax_orgchem_mechanisms_6_10",
+      "type": "textbook",
+      "label": "6.10 Describing a Reaction: Intermediates",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "video:gate_organic_pilot_reaction_mechanism_ifas:270.06-360.94",
+      "type": "video",
+      "label": "04:30-06:00",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "video:gate_organic_pilot_reaction_mechanism_ifas:2520.03-2610.13",
+      "type": "video",
+      "label": "42:00-43:30",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "video:gate_organic_pilot_reaction_mechanism_ifas:7474.11-7560.08",
+      "type": "video",
+      "label": "02:04:34-02:06:00",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0033",
+      "type": "questions",
+      "label": "Q.27 Choose the correct option(s) with regard to mechanism of the following transformation. (A) It proceeds through divinyl cyclopropane rearrangement (B) It involves a diradical intermediate (C) It proceeds through di--methane rearrangement (D) It proceeds through [2+2+2] cycloaddition reaction",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0062",
+      "type": "questions",
+      "label": "Q.54 The process(es) and/or intermediate(s) through which the following transformation proceeds is/are (A) 1,2-methide shift (B) 1,3-methide shift (C) non-classical carbocation (D) tertiary carbocation",
+      "lesson_id": "reaction_mechanisms"
+    },
+    {
+      "id": "lesson:organic_synthesis",
+      "type": "lesson",
+      "label": "Functional-Group Synthesis and Selectivity",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "concept:organic_synthesis:synthesis_planning",
+      "type": "concept",
+      "label": "Synthesis planning and reaction sequences",
+      "lesson_id": "organic_synthesis",
+      "concept_id": "synthesis_planning"
+    },
+    {
+      "id": "syllabus:organic_synthesis:syllabus",
+      "type": "syllabus",
+      "label": "Reactions, mechanisms and selectivity of major functional groups; main-group reagents; coupling reactions; retrosynthesis; atom economy; umpolung; chemo-, regio- and stereoselectivity; protection/deprotection; asymmetric synthesis; enolate and carbonyl stereoselective additions.",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "textbook:openstax_orgchem_synthesis_9_matters",
+      "type": "textbook",
+      "label": "Chemistry Matters: The Art of Organic Synthesis",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "textbook:openstax_orgchem_synthesis_19_11",
+      "type": "textbook",
+      "label": "19.11 Nucleophilic Addition of Phosphorus Ylides: The Wittig Reaction",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "video:gate_organic_pilot_organic_synthesis_retrosynthesis:180.12-270.14",
+      "type": "video",
+      "label": "03:00-04:30",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "video:gate_organic_pilot_organic_synthesis_retrosynthesis:90.03-180.12",
+      "type": "video",
+      "label": "01:30-03:00",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0031",
+      "type": "questions",
+      "label": "Q.25 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (i) NBS, (PhCOO)2; (ii) aq. NaOH; (iii) active MnO2; (iv) Li/liq.NH3, t-BuOH (B) (i) m-CPBA; (ii) BF3.Et2O (C) (i) SeO2; (ii) Dess-Martin periodinane; (iii) K[BH(s-Bu)3] (K-selectride) (D) (i) dil. KMnO4; (ii) NaIO4",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0061",
+      "type": "questions",
+      "label": "Q.53 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (B) (C) (D)",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0049",
+      "type": "questions",
+      "label": "Q.41 The major products X and Y formed in the following reaction sequences are (A) (B) (C) (D)",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0051",
+      "type": "questions",
+      "label": "Q.43 The major product formed in the following reaction sequences is (A) (B) (C) (D)",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0052",
+      "type": "questions",
+      "label": "Q.44 In the following asymmetric transformation, the key aldol reaction involves the attack of (A) Si face of enolate on to the Re face of aldehyde (B) Si face of enolate on to the Si face of aldehyde (C) Re face of enolate on to the Re face of aldehyde (D) Re face of enolate on to the Si face of aldehyde",
+      "lesson_id": "organic_synthesis"
+    },
+    {
+      "id": "lesson:pericyclic_photochemistry",
+      "type": "lesson",
+      "label": "Pericyclic and Photochemical Logic",
+      "lesson_id": "pericyclic_photochemistry"
+    },
+    {
+      "id": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "type": "concept",
+      "label": "Pericyclic selection rules and electrocyclic motion",
+      "lesson_id": "pericyclic_photochemistry",
+      "concept_id": "pericyclic_selection_rules"
+    },
+    {
+      "id": "syllabus:pericyclic_photochemistry:syllabus",
+      "type": "syllabus",
+      "label": "Electrocyclic, cycloaddition and sigmatropic reactions; FMO and PMO treatments; Woodward-Hoffmann rule; photochemistry of alkenes, arenes and carbonyl compounds; photooxidation, photoreduction, di-pi-methane rearrangement, Barton-McCombie reaction, and Norrish type-I and II cleavage.",
+      "lesson_id": "pericyclic_photochemistry"
+    },
+    {
+      "id": "textbook:openstax_orgchem_pericyclic_30_intro",
+      "type": "textbook",
+      "label": "30.9 A Summary of Rules for Pericyclic Reactions",
+      "lesson_id": "pericyclic_photochemistry"
+    },
+    {
+      "id": "textbook:openstax_orgchem_photochemistry_30_8",
+      "type": "textbook",
+      "label": "30.4 Photochemical Electrocyclic Reactions",
+      "lesson_id": "pericyclic_photochemistry"
+    },
+    {
+      "id": "video:gate_organic_expansion_pericyclic_photochemistry_jchem:1530.18-1620.07",
+      "type": "video",
+      "label": "25:30-27:00",
+      "lesson_id": "pericyclic_photochemistry"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0033",
+      "type": "questions",
+      "label": "Q.27 Choose the correct option(s) with regard to mechanism of the following transformation. (A) It proceeds through divinyl cyclopropane rearrangement (B) It involves a diradical intermediate (C) It proceeds through di--methane rearrangement (D) It proceeds through [2+2+2] cycloaddition reaction",
+      "lesson_id": "pericyclic_photochemistry"
+    },
+    {
+      "id": "lesson:heterocycles",
+      "type": "lesson",
+      "label": "Heterocycle Structure and Reactions",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "concept:heterocycles:aromatic_heterocycles",
+      "type": "concept",
+      "label": "Aromatic heterocycles and heteroatom effects",
+      "lesson_id": "heterocycles",
+      "concept_id": "aromatic_heterocycles"
+    },
+    {
+      "id": "syllabus:heterocycles:syllabus",
+      "type": "syllabus",
+      "label": "Structure, preparation, properties and reactions of furan, pyrrole, thiophene, pyridine, indole, quinoline and isoquinoline.",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "textbook:openstax_orgchem_heterocycles_15_5",
+      "type": "textbook",
+      "label": "15.5 Aromatic Heterocycles: Pyridine and Pyrrole",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:630.04-720.06",
+      "type": "video",
+      "label": "10:30-12:00",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:2160.03-2250.08",
+      "type": "video",
+      "label": "36:00-37:30",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:900.39-990.16",
+      "type": "video",
+      "label": "15:00-16:30",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:1890.09-1980.12",
+      "type": "video",
+      "label": "31:30-33:00",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "questions:official_gate_cy_2024_0029",
+      "type": "questions",
+      "label": "Q.25 The reaction(s) that yield(s) 2-methylquinoline as the major product is (are) (A) (B) (C) (D)",
+      "lesson_id": "heterocycles"
+    },
+    {
+      "id": "lesson:biomolecules",
+      "type": "lesson",
+      "label": "Biomolecules in Organic Chemistry",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "type": "concept",
+      "label": "Carbohydrates, amino acids, and peptides",
+      "lesson_id": "biomolecules",
+      "concept_id": "carbohydrates_amino_acids_peptides"
+    },
+    {
+      "id": "syllabus:biomolecules:syllabus",
+      "type": "syllabus",
+      "label": "Structure, properties and reactions of mono- and di-saccharides; physicochemical properties of amino acids; peptide synthesis and structure determination; structural features of proteins, nucleic acids, lipids, steroids, terpenoids, carotenoids and alkaloids.",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "textbook:openstax_orgchem_biomolecules_25_1",
+      "type": "textbook",
+      "label": "25.1 Classification of Carbohydrates",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "textbook:openstax_orgchem_biomolecules_26_1",
+      "type": "textbook",
+      "label": "26.1 Structures of Amino Acids",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "textbook:openstax_orgchem_biomolecules_28_1",
+      "type": "textbook",
+      "label": "28.1 Nucleotides and Nucleic Acids",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "video:gate_organic_expansion_biomolecules_short_apna_sapna:2070.01-2160.03",
+      "type": "video",
+      "label": "34:30-36:00",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "video:gate_organic_expansion_biomolecules_short_apna_sapna:1170.03-1260.03",
+      "type": "video",
+      "label": "19:30-21:00",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "video:gate_organic_expansion_biomolecules_short_apna_sapna:360.18-450.05",
+      "type": "video",
+      "label": "06:00-07:30",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "video:gate_organic_expansion_biomolecules_short_apna_sapna:630.09-720.09",
+      "type": "video",
+      "label": "10:30-12:00",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0038",
+      "type": "questions",
+      "label": "Q.32 Partial hydrolysis of a pentapeptide yields all possible tripeptides and dipeptides. The dipeptides that are obtained upon hydrolysis are given below. Val-Ala, Gln-His, Phe-Val and Ala-Gln The total number of tripeptides obtained that contain ‘Ala’ as one of the amino acids is____ (in integer).",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "questions:official_gate_cy_2024_0027",
+      "type": "questions",
+      "label": "Q.23 Among the following metalloproteins, the pair(s) of non-heme proteins is (are) (A) Hemoglobin and Myoglobin (B) Hemocyanin and Carboxypeptidase (C) Hemerythrin and Carbonic anhydrase (D) Cytochrome P-450 and Hemocyanin",
+      "lesson_id": "biomolecules"
+    },
+    {
+      "id": "lesson:experimental_techniques",
+      "type": "lesson",
+      "label": "Organic Analysis and Structural Determination",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "concept:experimental_techniques:nmr_structure_determination",
+      "type": "concept",
+      "label": "NMR evidence for structure determination",
+      "lesson_id": "experimental_techniques",
+      "concept_id": "nmr_structure_determination"
+    },
+    {
+      "id": "syllabus:experimental_techniques:syllabus",
+      "type": "syllabus",
+      "label": "Optical rotation; chromatographic techniques including TLC, column, HPLC and GC; applications of UV-visible, IR, NMR and Mass spectrometry in structural determination of organic molecules.",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "textbook:openstax_orgchem_spectroscopy_13_3",
+      "type": "textbook",
+      "label": "13.4 Chemical Shifts in 1H NMR Spectroscopy",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "textbook:openstax_orgchem_spectroscopy_12_1",
+      "type": "textbook",
+      "label": "12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+      "type": "video",
+      "label": "22:28-23:55",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+      "type": "video",
+      "label": "20:59-22:28",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_nmr_pw:540.03-630.00",
+      "type": "video",
+      "label": "09:00-10:30",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_nmr_pw:270.03-360.27",
+      "type": "video",
+      "label": "04:30-06:00",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_nmr_pw:630.00-720.07",
+      "type": "video",
+      "label": "10:30-12:00",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:0.00-89.49",
+      "type": "video",
+      "label": "00:00-01:29",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0022",
+      "type": "questions",
+      "label": "Q.16 In the 1H-NMR spectrum of the following molecule, the signal of proton Ha appears as (A) singlet (B) triplet (C) quintet (D) quartet",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0047",
+      "type": "questions",
+      "label": "Q.39 The 1H NMR spectrum of the given iridium complex at room temperature gave a single signal at 2. 6 ppm, and its 31P NMR spectrum gave a single signal at 23.0 ppm. When the spectra were recorded at lower temperatures, both these signals split into a complex pattern. The intra-molecular dynamic processes shown by this molecule are (A) Berry pseudo-rotation and rotation of the ethylene units along the C=C axis (B) Berry pseudo-rotation and propeller type rotation of the ethylene units along the",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0050",
+      "type": "questions",
+      "label": "Q.42 Compound K displayed a strong band at 1680 cm-1 in its IR spectrum. Its 1H-NMR spectral data are as follows:  (ppm) 7.30 (d, J = 7.2 Hz, 2H), 6.8 (d, J = 7.2 Hz, 2H), 3.8 (septet, J = 7.0 Hz, 1H), 2.2 (s, 3H), 1.9 (d, J = 7.0 Hz, 6H). The correct structure of compound K is (A) (B) (C) (D)",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0030",
+      "type": "questions",
+      "label": "Q.24 Compound(s) that show(s) an intense peak at m/z 120 in the EI mass spectrum is/are (A) (B) (C) (D)",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2024_0022",
+      "type": "questions",
+      "label": "Q.16 The major product in the given reaction sequence is Q. The mass spectrum of Q shows ([M] = molecular ion peak) (A) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:1:1:1 (B) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:3:3:1 (C) [M], [M+2], and [M+4] peaks with relative intensity of 1:2:1 (D) [M] and [M+2] peaks with relative intensity of 1:1",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "concept:experimental_techniques:mass_ir_chromatography",
+      "type": "concept",
+      "label": "Mass, IR, and chromatography evidence",
+      "lesson_id": "experimental_techniques",
+      "concept_id": "mass_ir_chromatography"
+    },
+    {
+      "id": "syllabus:experimental_techniques:syllabus",
+      "type": "syllabus",
+      "label": "Optical rotation; chromatographic techniques including TLC, column, HPLC and GC; applications of UV-visible, IR, NMR and Mass spectrometry in structural determination of organic molecules.",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "textbook:openstax_orgchem_spectroscopy_12_1",
+      "type": "textbook",
+      "label": "12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_chromatography_chemistorian:596.15-648.71",
+      "type": "video",
+      "label": "09:56-10:48",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+      "type": "video",
+      "label": "20:59-22:28",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:807.01-894.68",
+      "type": "video",
+      "label": "13:27-14:54",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_chromatography_chemistorian:249.47-296.12",
+      "type": "video",
+      "label": "04:09-04:56",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_chromatography_chemistorian:496.99-547.45",
+      "type": "video",
+      "label": "08:16-09:07",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_chromatography_chemistorian:0.00-48.36",
+      "type": "video",
+      "label": "00:00-00:48",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+      "type": "video",
+      "label": "22:28-23:55",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_spectroscopy_gate_chemistry:719.99-807.25",
+      "type": "video",
+      "label": "11:59-13:27",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "video:gate_organic_expansion_chromatography_chemistorian:147.40-198.40",
+      "type": "video",
+      "label": "02:27-03:18",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2024_0022",
+      "type": "questions",
+      "label": "Q.16 The major product in the given reaction sequence is Q. The mass spectrum of Q shows ([M] = molecular ion peak) (A) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:1:1:1 (B) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:3:3:1 (C) [M], [M+2], and [M+4] peaks with relative intensity of 1:2:1 (D) [M] and [M+2] peaks with relative intensity of 1:1",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0030",
+      "type": "questions",
+      "label": "Q.24 Compound(s) that show(s) an intense peak at m/z 120 in the EI mass spectrum is/are (A) (B) (C) (D)",
+      "lesson_id": "experimental_techniques"
+    },
+    {
+      "id": "questions:official_gate_cy_2025_0050",
+      "type": "questions",
+      "label": "Q.42 Compound K displayed a strong band at 1680 cm-1 in its IR spectrum. Its 1H-NMR spectral data are as follows:  (ppm) 7.30 (d, J = 7.2 Hz, 2H), 6.8 (d, J = 7.2 Hz, 2H), 3.8 (septet, J = 7.0 Hz, 1H), 2.2 (s, 3H), 1.9 (d, J = 7.0 Hz, 6H). The correct structure of compound K is (A) (B) (C) (D)",
+      "lesson_id": "experimental_techniques"
+    }
+  ],
+  "edges": [
+    {
+      "from": "lesson:stereochemistry",
+      "to": "concept:stereochemistry:chirality_enantiomers",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "syllabus:stereochemistry:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 1.0,
+      "evidence_id": "stereochemistry:syllabus"
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "textbook:openstax_orgchem_stereo_5_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 7.4,
+      "evidence_id": "openstax_orgchem_stereo_5_1"
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "textbook:openstax_orgchem_stereo_5_5",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 4.6,
+      "evidence_id": "openstax_orgchem_stereo_5_5"
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "video:gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 8.9,
+      "evidence_id": "gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86"
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "video:gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 8.9,
+      "evidence_id": "gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28"
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "questions:official_gate_cy_2025_0039",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 2.9,
+      "evidence_id": "official_gate_cy_2025_0039"
+    },
+    {
+      "from": "concept:stereochemistry:chirality_enantiomers",
+      "to": "questions:official_gate_cy_2024_0021",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.0,
+      "evidence_id": "official_gate_cy_2024_0021"
+    },
+    {
+      "from": "lesson:stereochemistry",
+      "to": "concept:stereochemistry:absolute_configuration",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:stereochemistry:absolute_configuration",
+      "to": "syllabus:stereochemistry:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 1.3,
+      "evidence_id": "stereochemistry:syllabus"
+    },
+    {
+      "from": "concept:stereochemistry:absolute_configuration",
+      "to": "textbook:openstax_orgchem_stereo_5_5",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 13.7,
+      "evidence_id": "openstax_orgchem_stereo_5_5"
+    },
+    {
+      "from": "concept:stereochemistry:absolute_configuration",
+      "to": "textbook:openstax_orgchem_stereo_5_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 1.3,
+      "evidence_id": "openstax_orgchem_stereo_5_1"
+    },
+    {
+      "from": "concept:stereochemistry:absolute_configuration",
+      "to": "video:gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.8,
+      "evidence_id": "gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86"
+    },
+    {
+      "from": "concept:stereochemistry:absolute_configuration",
+      "to": "video:gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.8,
+      "evidence_id": "gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28"
+    },
+    {
+      "from": "lesson:reaction_mechanisms",
+      "to": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "syllabus:reaction_mechanisms:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 5.5,
+      "evidence_id": "reaction_mechanisms:syllabus"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "textbook:openstax_orgchem_mechanisms_6_2",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 6.7,
+      "evidence_id": "openstax_orgchem_mechanisms_6_2"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "textbook:openstax_orgchem_mechanisms_6_10",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 6.1,
+      "evidence_id": "openstax_orgchem_mechanisms_6_10"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "video:gate_organic_pilot_reaction_mechanism_ifas:270.06-360.94",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.0,
+      "evidence_id": "gate_organic_pilot_reaction_mechanism_ifas:270.06-360.94"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "video:gate_organic_pilot_reaction_mechanism_ifas:2520.03-2610.13",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.0,
+      "evidence_id": "gate_organic_pilot_reaction_mechanism_ifas:2520.03-2610.13"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "video:gate_organic_pilot_reaction_mechanism_ifas:7474.11-7560.08",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.0,
+      "evidence_id": "gate_organic_pilot_reaction_mechanism_ifas:7474.11-7560.08"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "questions:official_gate_cy_2025_0033",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 4.0,
+      "evidence_id": "official_gate_cy_2025_0033"
+    },
+    {
+      "from": "concept:reaction_mechanisms:mechanisms_and_intermediates",
+      "to": "questions:official_gate_cy_2025_0062",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 2.5,
+      "evidence_id": "official_gate_cy_2025_0062"
+    },
+    {
+      "from": "lesson:organic_synthesis",
+      "to": "concept:organic_synthesis:synthesis_planning",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "syllabus:organic_synthesis:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 5.8,
+      "evidence_id": "organic_synthesis:syllabus"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "textbook:openstax_orgchem_synthesis_9_matters",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 4.7,
+      "evidence_id": "openstax_orgchem_synthesis_9_matters"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "textbook:openstax_orgchem_synthesis_19_11",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 4.5,
+      "evidence_id": "openstax_orgchem_synthesis_19_11"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "video:gate_organic_pilot_organic_synthesis_retrosynthesis:180.12-270.14",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.0,
+      "evidence_id": "gate_organic_pilot_organic_synthesis_retrosynthesis:180.12-270.14"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "video:gate_organic_pilot_organic_synthesis_retrosynthesis:90.03-180.12",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.0,
+      "evidence_id": "gate_organic_pilot_organic_synthesis_retrosynthesis:90.03-180.12"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "questions:official_gate_cy_2025_0031",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 5.9,
+      "evidence_id": "official_gate_cy_2025_0031"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "questions:official_gate_cy_2025_0061",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 5.9,
+      "evidence_id": "official_gate_cy_2025_0061"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "questions:official_gate_cy_2025_0049",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 4.8,
+      "evidence_id": "official_gate_cy_2025_0049"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "questions:official_gate_cy_2025_0051",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 4.8,
+      "evidence_id": "official_gate_cy_2025_0051"
+    },
+    {
+      "from": "concept:organic_synthesis:synthesis_planning",
+      "to": "questions:official_gate_cy_2025_0052",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.4,
+      "evidence_id": "official_gate_cy_2025_0052"
+    },
+    {
+      "from": "lesson:pericyclic_photochemistry",
+      "to": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "to": "syllabus:pericyclic_photochemistry:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 9.0,
+      "evidence_id": "pericyclic_photochemistry:syllabus"
+    },
+    {
+      "from": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "to": "textbook:openstax_orgchem_pericyclic_30_intro",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 9.200000000000001,
+      "evidence_id": "openstax_orgchem_pericyclic_30_intro"
+    },
+    {
+      "from": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "to": "textbook:openstax_orgchem_photochemistry_30_8",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 8.5,
+      "evidence_id": "openstax_orgchem_photochemistry_30_8"
+    },
+    {
+      "from": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "to": "video:gate_organic_expansion_pericyclic_photochemistry_jchem:1530.18-1620.07",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.2,
+      "evidence_id": "gate_organic_expansion_pericyclic_photochemistry_jchem:1530.18-1620.07"
+    },
+    {
+      "from": "concept:pericyclic_photochemistry:pericyclic_selection_rules",
+      "to": "questions:official_gate_cy_2025_0033",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.3,
+      "evidence_id": "official_gate_cy_2025_0033"
+    },
+    {
+      "from": "lesson:heterocycles",
+      "to": "concept:heterocycles:aromatic_heterocycles",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "syllabus:heterocycles:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 10.7,
+      "evidence_id": "heterocycles:syllabus"
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "textbook:openstax_orgchem_heterocycles_15_5",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 11.6,
+      "evidence_id": "openstax_orgchem_heterocycles_15_5"
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:630.04-720.06",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 3.0,
+      "evidence_id": "gate_organic_expansion_heterocycles_sp_structure_reactions:630.04-720.06"
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:2160.03-2250.08",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 3.0,
+      "evidence_id": "gate_organic_expansion_heterocycles_sp_structure_reactions:2160.03-2250.08"
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:900.39-990.16",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.3,
+      "evidence_id": "gate_organic_expansion_heterocycles_sp_structure_reactions:900.39-990.16"
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "video:gate_organic_expansion_heterocycles_sp_structure_reactions:1890.09-1980.12",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.0,
+      "evidence_id": "gate_organic_expansion_heterocycles_sp_structure_reactions:1890.09-1980.12"
+    },
+    {
+      "from": "concept:heterocycles:aromatic_heterocycles",
+      "to": "questions:official_gate_cy_2024_0029",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.0,
+      "evidence_id": "official_gate_cy_2024_0029"
+    },
+    {
+      "from": "lesson:biomolecules",
+      "to": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "syllabus:biomolecules:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 4.3,
+      "evidence_id": "biomolecules:syllabus"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "textbook:openstax_orgchem_biomolecules_25_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 6.8,
+      "evidence_id": "openstax_orgchem_biomolecules_25_1"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "textbook:openstax_orgchem_biomolecules_26_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 6.3,
+      "evidence_id": "openstax_orgchem_biomolecules_26_1"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "textbook:openstax_orgchem_biomolecules_28_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 3.3,
+      "evidence_id": "openstax_orgchem_biomolecules_28_1"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "video:gate_organic_expansion_biomolecules_short_apna_sapna:2070.01-2160.03",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.5,
+      "evidence_id": "gate_organic_expansion_biomolecules_short_apna_sapna:2070.01-2160.03"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "video:gate_organic_expansion_biomolecules_short_apna_sapna:1170.03-1260.03",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.4,
+      "evidence_id": "gate_organic_expansion_biomolecules_short_apna_sapna:1170.03-1260.03"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "video:gate_organic_expansion_biomolecules_short_apna_sapna:360.18-450.05",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.0,
+      "evidence_id": "gate_organic_expansion_biomolecules_short_apna_sapna:360.18-450.05"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "video:gate_organic_expansion_biomolecules_short_apna_sapna:630.09-720.09",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.5,
+      "evidence_id": "gate_organic_expansion_biomolecules_short_apna_sapna:630.09-720.09"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "questions:official_gate_cy_2025_0038",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 2.1,
+      "evidence_id": "official_gate_cy_2025_0038"
+    },
+    {
+      "from": "concept:biomolecules:carbohydrates_amino_acids_peptides",
+      "to": "questions:official_gate_cy_2024_0027",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.0,
+      "evidence_id": "official_gate_cy_2024_0027"
+    },
+    {
+      "from": "lesson:experimental_techniques",
+      "to": "concept:experimental_techniques:nmr_structure_determination",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "syllabus:experimental_techniques:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 1.0,
+      "evidence_id": "experimental_techniques:syllabus"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "textbook:openstax_orgchem_spectroscopy_13_3",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 9.0,
+      "evidence_id": "openstax_orgchem_spectroscopy_13_3"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "textbook:openstax_orgchem_spectroscopy_12_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 2.0,
+      "evidence_id": "openstax_orgchem_spectroscopy_12_1"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.4,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.4,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "video:gate_organic_expansion_nmr_pw:540.03-630.00",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.0,
+      "evidence_id": "gate_organic_expansion_nmr_pw:540.03-630.00"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "video:gate_organic_expansion_nmr_pw:270.03-360.27",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.0,
+      "evidence_id": "gate_organic_expansion_nmr_pw:270.03-360.27"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "video:gate_organic_expansion_nmr_pw:630.00-720.07",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.0,
+      "evidence_id": "gate_organic_expansion_nmr_pw:630.00-720.07"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:0.00-89.49",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.0,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:0.00-89.49"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "questions:official_gate_cy_2025_0022",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 4.0,
+      "evidence_id": "official_gate_cy_2025_0022"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "questions:official_gate_cy_2025_0047",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 4.0,
+      "evidence_id": "official_gate_cy_2025_0047"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "questions:official_gate_cy_2025_0050",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 3.0,
+      "evidence_id": "official_gate_cy_2025_0050"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "questions:official_gate_cy_2025_0030",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.0,
+      "evidence_id": "official_gate_cy_2025_0030"
+    },
+    {
+      "from": "concept:experimental_techniques:nmr_structure_determination",
+      "to": "questions:official_gate_cy_2024_0022",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.0,
+      "evidence_id": "official_gate_cy_2024_0022"
+    },
+    {
+      "from": "lesson:experimental_techniques",
+      "to": "concept:experimental_techniques:mass_ir_chromatography",
+      "type": "defines_thread",
+      "weight": 1.0
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "syllabus:experimental_techniques:syllabus",
+      "type": "supported_by",
+      "source_type": "syllabus",
+      "weight": 2.7,
+      "evidence_id": "experimental_techniques:syllabus"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "textbook:openstax_orgchem_spectroscopy_12_1",
+      "type": "supported_by",
+      "source_type": "textbook",
+      "weight": 6.3,
+      "evidence_id": "openstax_orgchem_spectroscopy_12_1"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_chromatography_chemistorian:596.15-648.71",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 7.5,
+      "evidence_id": "gate_organic_expansion_chromatography_chemistorian:596.15-648.71"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 6.2,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:807.01-894.68",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 4.0,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:807.01-894.68"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_chromatography_chemistorian:249.47-296.12",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 4.0,
+      "evidence_id": "gate_organic_expansion_chromatography_chemistorian:249.47-296.12"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_chromatography_chemistorian:496.99-547.45",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 4.0,
+      "evidence_id": "gate_organic_expansion_chromatography_chemistorian:496.99-547.45"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_chromatography_chemistorian:0.00-48.36",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 3.0999999999999996,
+      "evidence_id": "gate_organic_expansion_chromatography_chemistorian:0.00-48.36"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 3.0,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_spectroscopy_gate_chemistry:719.99-807.25",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 2.7,
+      "evidence_id": "gate_organic_expansion_spectroscopy_gate_chemistry:719.99-807.25"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "video:gate_organic_expansion_chromatography_chemistorian:147.40-198.40",
+      "type": "supported_by",
+      "source_type": "video",
+      "weight": 1.6,
+      "evidence_id": "gate_organic_expansion_chromatography_chemistorian:147.40-198.40"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "questions:official_gate_cy_2024_0022",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 2.6,
+      "evidence_id": "official_gate_cy_2024_0022"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "questions:official_gate_cy_2025_0030",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 2.3,
+      "evidence_id": "official_gate_cy_2025_0030"
+    },
+    {
+      "from": "concept:experimental_techniques:mass_ir_chromatography",
+      "to": "questions:official_gate_cy_2025_0050",
+      "type": "supported_by",
+      "source_type": "questions",
+      "weight": 1.1,
+      "evidence_id": "official_gate_cy_2025_0050"
+    }
+  ],
+  "lessons": [
+    {
+      "lesson_id": "stereochemistry",
+      "title": "Stereochemistry and Reactivity",
+      "selected_thread": {
+        "id": "chirality_enantiomers",
+        "label": "Chirality, mirror images, and enantiomers",
+        "source_coverage": {
+          "textbook": 2,
+          "video": 2,
+          "questions": 2
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 41.0,
+        "evidence_ids": {
+          "syllabus": [
+            "stereochemistry:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_stereo_5_1",
+            "openstax_orgchem_stereo_5_5"
+          ],
+          "video": [
+            "gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+            "gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28"
+          ],
+          "questions": [
+            "official_gate_cy_2025_0039",
+            "official_gate_cy_2024_0021"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "chirality_enantiomers",
+          "label": "Chirality, mirror images, and enantiomers",
+          "aliases": [
+            "Chirality, mirror images, and enantiomers",
+            "non-superimposable",
+            "tetrahedral carbon",
+            "specific rotation",
+            "optical rotation",
+            "mirror images",
+            "enantiomeric",
+            "mirror image",
+            "enantiomers",
+            "enantiomer",
+            "chirality",
+            "chiral"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 2,
+            "video": 2,
+            "questions": 2
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 41.0,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "stereochemistry:syllabus",
+                "label": "Chirality and symmetry, absolute and relative configuration, topicity, stereoselective and stereospecific synthesis, conformational analysis, geometrical and optical isomerism, atropisomerism, and neighbouring group participation.",
+                "matched_aliases": [
+                  "chirality"
+                ],
+                "score": 1.0
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_stereo_5_1",
+                "label": "5.1 Enantiomers and the Tetrahedral Carbon",
+                "matched_aliases": [
+                  "tetrahedral carbon",
+                  "mirror images",
+                  "mirror image",
+                  "enantiomers",
+                  "enantiomer",
+                  "chiral"
+                ],
+                "score": 7.4
+              },
+              {
+                "id": "openstax_orgchem_stereo_5_5",
+                "label": "5.5 Sequence Rules for Specifying Configuration",
+                "matched_aliases": [
+                  "optical rotation",
+                  "enantiomer",
+                  "chirality",
+                  "chiral"
+                ],
+                "score": 4.6
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+                "label": "02:19-03:23",
+                "source_id": "gate_organic_graph_stereochemistry_specific_rotation",
+                "start": 139.91,
+                "end": 203.86,
+                "matched_aliases": [
+                  "specific rotation",
+                  "optical rotation",
+                  "mirror images",
+                  "enantiomeric",
+                  "enantiomers",
+                  "chirality",
+                  "chiral"
+                ],
+                "score": 8.9
+              },
+              {
+                "id": "gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28",
+                "label": "04:37-05:48",
+                "source_id": "gate_organic_graph_stereochemistry_specific_rotation",
+                "start": 277.68,
+                "end": 348.28,
+                "matched_aliases": [
+                  "specific rotation",
+                  "optical rotation",
+                  "mirror images",
+                  "enantiomeric",
+                  "enantiomers",
+                  "chirality",
+                  "chiral"
+                ],
+                "score": 8.9
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2025_0039",
+                "label": "Q.33 The specific rotation of enantiomerically pure ( S)-2-butanol is +14 . The specific rotation of enantiomeric mixture of 2 -butanol obtained from an asymmetric reduction of 2-butanone is found to be +7. The percentage of (R)-2-butanol present in the reaction mixture is _____ (in integer).",
+                "matched_aliases": [
+                  "specific rotation",
+                  "enantiomeric"
+                ],
+                "score": 2.9
+              },
+              {
+                "id": "official_gate_cy_2024_0021",
+                "label": "Q.15 Among the following, the chiral compound is (A) P (B) Q (C) R (D) S",
+                "matched_aliases": [
+                  "chiral"
+                ],
+                "score": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "id": "absolute_configuration",
+          "label": "Absolute configuration and R/S assignment",
+          "aliases": [
+            "Absolute configuration and R/S assignment",
+            "absolute configuration",
+            "chirality center",
+            "R configuration",
+            "S configuration",
+            "priority rules",
+            "sequence rules",
+            "configuration",
+            "stereocenter",
+            "Ingold",
+            "Prelog",
+            "Cahn"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 2,
+            "video": 2,
+            "questions": 0
+          },
+          "missing_source_types": [
+            "questions"
+          ],
+          "alignment_state": "needs_alignment",
+          "alignment_score": 25.0,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "stereochemistry:syllabus",
+                "label": "Chirality and symmetry, absolute and relative configuration, topicity, stereoselective and stereospecific synthesis, conformational analysis, geometrical and optical isomerism, atropisomerism, and neighbouring group participation.",
+                "matched_aliases": [
+                  "configuration"
+                ],
+                "score": 1.3
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_stereo_5_5",
+                "label": "5.5 Sequence Rules for Specifying Configuration",
+                "matched_aliases": [
+                  "absolute configuration",
+                  "chirality center",
+                  "R configuration",
+                  "S configuration",
+                  "sequence rules",
+                  "configuration",
+                  "stereocenter",
+                  "Ingold",
+                  "Prelog",
+                  "Cahn"
+                ],
+                "score": 13.7
+              },
+              {
+                "id": "openstax_orgchem_stereo_5_1",
+                "label": "5.1 Enantiomers and the Tetrahedral Carbon",
+                "matched_aliases": [
+                  "configuration"
+                ],
+                "score": 1.3
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_graph_stereochemistry_specific_rotation:139.91-203.86",
+                "label": "02:19-03:23",
+                "source_id": "gate_organic_graph_stereochemistry_specific_rotation",
+                "start": 139.91,
+                "end": 203.86,
+                "matched_aliases": [
+                  "S configuration",
+                  "configuration"
+                ],
+                "score": 2.8
+              },
+              {
+                "id": "gate_organic_graph_stereochemistry_specific_rotation:277.68-348.28",
+                "label": "04:37-05:48",
+                "source_id": "gate_organic_graph_stereochemistry_specific_rotation",
+                "start": 277.68,
+                "end": 348.28,
+                "matched_aliases": [
+                  "S configuration",
+                  "configuration"
+                ],
+                "score": 2.8
+              }
+            ],
+            "questions": []
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "reaction_mechanisms",
+      "title": "Mechanistic Control and Reactive Intermediates",
+      "selected_thread": {
+        "id": "mechanisms_and_intermediates",
+        "label": "Reaction mechanisms and intermediates",
+        "source_coverage": {
+          "textbook": 2,
+          "video": 3,
+          "questions": 2
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 42.5,
+        "evidence_ids": {
+          "syllabus": [
+            "reaction_mechanisms:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_mechanisms_6_2",
+            "openstax_orgchem_mechanisms_6_10"
+          ],
+          "video": [
+            "gate_organic_pilot_reaction_mechanism_ifas:270.06-360.94",
+            "gate_organic_pilot_reaction_mechanism_ifas:2520.03-2610.13",
+            "gate_organic_pilot_reaction_mechanism_ifas:7474.11-7560.08"
+          ],
+          "questions": [
+            "official_gate_cy_2025_0033",
+            "official_gate_cy_2025_0062"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "mechanisms_and_intermediates",
+          "label": "Reaction mechanisms and intermediates",
+          "aliases": [
+            "Reaction mechanisms and intermediates",
+            "reaction mechanism",
+            "electron movement",
+            "transition state",
+            "bond breaking",
+            "intermediates",
+            "curved arrow",
+            "intermediate",
+            "bond making",
+            "mechanisms",
+            "इंटरमीडिएट",
+            "mechanism",
+            "मेकेनिज्म",
+            "मैकेनिज्म",
+            "kinetic",
+            "रिएक्शन"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 2,
+            "video": 3,
+            "questions": 2
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 42.5,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "reaction_mechanisms:syllabus",
+                "label": "Kinetic versus thermodynamic control, Hammond postulate, Curtin-Hammett principle, mechanism determination, linear free-energy relationships, substitution, addition, elimination, reactive intermediates, and rearrangements.",
+                "matched_aliases": [
+                  "intermediates",
+                  "intermediate",
+                  "mechanisms",
+                  "mechanism",
+                  "kinetic"
+                ],
+                "score": 5.5
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_mechanisms_6_2",
+                "label": "6.2 How Organic Reactions Occur: Mechanisms",
+                "matched_aliases": [
+                  "reaction mechanism",
+                  "electron movement",
+                  "curved arrow",
+                  "mechanisms",
+                  "mechanism"
+                ],
+                "score": 6.7
+              },
+              {
+                "id": "openstax_orgchem_mechanisms_6_10",
+                "label": "6.10 Describing a Reaction: Intermediates",
+                "matched_aliases": [
+                  "transition state",
+                  "intermediates",
+                  "intermediate",
+                  "mechanism",
+                  "kinetic"
+                ],
+                "score": 6.1
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_pilot_reaction_mechanism_ifas:270.06-360.94",
+                "label": "04:30-06:00",
+                "source_id": "gate_organic_pilot_reaction_mechanism_ifas",
+                "start": 270.06,
+                "end": 360.94,
+                "matched_aliases": [
+                  "मेकेनिज्म",
+                  "रिएक्शन"
+                ],
+                "score": 2.0
+              },
+              {
+                "id": "gate_organic_pilot_reaction_mechanism_ifas:2520.03-2610.13",
+                "label": "42:00-43:30",
+                "source_id": "gate_organic_pilot_reaction_mechanism_ifas",
+                "start": 2520.03,
+                "end": 2610.13,
+                "matched_aliases": [
+                  "इंटरमीडिएट"
+                ],
+                "score": 1.0
+              },
+              {
+                "id": "gate_organic_pilot_reaction_mechanism_ifas:7474.11-7560.08",
+                "label": "02:04:34-02:06:00",
+                "source_id": "gate_organic_pilot_reaction_mechanism_ifas",
+                "start": 7474.11,
+                "end": 7560.08,
+                "matched_aliases": [
+                  "मैकेनिज्म"
+                ],
+                "score": 1.0
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2025_0033",
+                "label": "Q.27 Choose the correct option(s) with regard to mechanism of the following transformation. (A) It proceeds through divinyl cyclopropane rearrangement (B) It involves a diradical intermediate (C) It proceeds through di--methane rearrangement (D) It proceeds through [2+2+2] cycloaddition reaction",
+                "matched_aliases": [
+                  "reaction mechanism",
+                  "intermediate",
+                  "mechanism"
+                ],
+                "score": 4.0
+              },
+              {
+                "id": "official_gate_cy_2025_0062",
+                "label": "Q.54 The process(es) and/or intermediate(s) through which the following transformation proceeds is/are (A) 1,2-methide shift (B) 1,3-methide shift (C) non-classical carbocation (D) tertiary carbocation",
+                "matched_aliases": [
+                  "intermediates",
+                  "intermediate"
+                ],
+                "score": 2.5
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "organic_synthesis",
+      "title": "Functional-Group Synthesis and Selectivity",
+      "selected_thread": {
+        "id": "synthesis_planning",
+        "label": "Synthesis planning and reaction sequences",
+        "source_coverage": {
+          "textbook": 2,
+          "video": 2,
+          "questions": 5
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 42.0,
+        "evidence_ids": {
+          "syllabus": [
+            "organic_synthesis:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_synthesis_9_matters",
+            "openstax_orgchem_synthesis_19_11"
+          ],
+          "video": [
+            "gate_organic_pilot_organic_synthesis_retrosynthesis:180.12-270.14",
+            "gate_organic_pilot_organic_synthesis_retrosynthesis:90.03-180.12"
+          ],
+          "questions": [
+            "official_gate_cy_2025_0031",
+            "official_gate_cy_2025_0061",
+            "official_gate_cy_2025_0049",
+            "official_gate_cy_2025_0051",
+            "official_gate_cy_2025_0052"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "synthesis_planning",
+          "label": "Synthesis planning and reaction sequences",
+          "aliases": [
+            "Synthesis planning and reaction sequences",
+            "reaction sequences",
+            "organic synthesis",
+            "reaction sequence",
+            "रिएक्शन सीक्वेंस",
+            "transformation",
+            "ट्रांसफॉर्मेशन",
+            "सिंथेसिस प्लान",
+            "major product",
+            "selectivity",
+            "synthesis",
+            "planning",
+            "reagents",
+            "सिंथेसिस",
+            "रीएजेंट",
+            "route"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 2,
+            "video": 2,
+            "questions": 5
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 42.0,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "organic_synthesis:syllabus",
+                "label": "Reactions, mechanisms and selectivity of major functional groups; main-group reagents; coupling reactions; retrosynthesis; atom economy; umpolung; chemo-, regio- and stereoselectivity; protection/deprotection; asymmetric synthesis; enolate and carbonyl stereoselective additions.",
+                "matched_aliases": [
+                  "organic synthesis",
+                  "selectivity",
+                  "synthesis",
+                  "planning",
+                  "reagents"
+                ],
+                "score": 5.8
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_synthesis_9_matters",
+                "label": "Chemistry Matters: The Art of Organic Synthesis",
+                "matched_aliases": [
+                  "organic synthesis",
+                  "synthesis",
+                  "planning",
+                  "route"
+                ],
+                "score": 4.7
+              },
+              {
+                "id": "openstax_orgchem_synthesis_19_11",
+                "label": "19.11 Nucleophilic Addition of Phosphorus Ylides: The Wittig Reaction",
+                "matched_aliases": [
+                  "transformation",
+                  "selectivity",
+                  "synthesis",
+                  "planning"
+                ],
+                "score": 4.5
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_pilot_organic_synthesis_retrosynthesis:180.12-270.14",
+                "label": "03:00-04:30",
+                "source_id": "gate_organic_pilot_organic_synthesis_retrosynthesis",
+                "start": 180.12,
+                "end": 270.14,
+                "matched_aliases": [
+                  "सिंथेसिस"
+                ],
+                "score": 1.0
+              },
+              {
+                "id": "gate_organic_pilot_organic_synthesis_retrosynthesis:90.03-180.12",
+                "label": "01:30-03:00",
+                "source_id": "gate_organic_pilot_organic_synthesis_retrosynthesis",
+                "start": 90.03,
+                "end": 180.12,
+                "matched_aliases": [
+                  "सिंथेसिस"
+                ],
+                "score": 1.0
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2025_0031",
+                "label": "Q.25 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (i) NBS, (PhCOO)2; (ii) aq. NaOH; (iii) active MnO2; (iv) Li/liq.NH3, t-BuOH (B) (i) m-CPBA; (ii) BF3.Et2O (C) (i) SeO2; (ii) Dess-Martin periodinane; (iii) K[BH(s-Bu)3] (K-selectride) (D) (i) dil. KMnO4; (ii) NaIO4",
+                "matched_aliases": [
+                  "reaction sequences",
+                  "reaction sequence",
+                  "transformation",
+                  "reagents"
+                ],
+                "score": 5.9
+              },
+              {
+                "id": "official_gate_cy_2025_0061",
+                "label": "Q.53 The correct option(s) of reagents and reaction sequences suitable for carrying out the following transformation is/are (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "reaction sequences",
+                  "reaction sequence",
+                  "transformation",
+                  "reagents"
+                ],
+                "score": 5.9
+              },
+              {
+                "id": "official_gate_cy_2025_0049",
+                "label": "Q.41 The major products X and Y formed in the following reaction sequences are (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "reaction sequences",
+                  "reaction sequence",
+                  "major product"
+                ],
+                "score": 4.8
+              },
+              {
+                "id": "official_gate_cy_2025_0051",
+                "label": "Q.43 The major product formed in the following reaction sequences is (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "reaction sequences",
+                  "reaction sequence",
+                  "major product"
+                ],
+                "score": 4.8
+              },
+              {
+                "id": "official_gate_cy_2025_0052",
+                "label": "Q.44 In the following asymmetric transformation, the key aldol reaction involves the attack of (A) Si face of enolate on to the Re face of aldehyde (B) Si face of enolate on to the Si face of aldehyde (C) Re face of enolate on to the Re face of aldehyde (D) Re face of enolate on to the Si face of aldehyde",
+                "matched_aliases": [
+                  "transformation"
+                ],
+                "score": 1.4
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "pericyclic_photochemistry",
+      "title": "Pericyclic and Photochemical Logic",
+      "selected_thread": {
+        "id": "pericyclic_selection_rules",
+        "label": "Pericyclic selection rules and electrocyclic motion",
+        "source_coverage": {
+          "textbook": 2,
+          "video": 1,
+          "questions": 1
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 38.5,
+        "evidence_ids": {
+          "syllabus": [
+            "pericyclic_photochemistry:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_pericyclic_30_intro",
+            "openstax_orgchem_photochemistry_30_8"
+          ],
+          "video": [
+            "gate_organic_expansion_pericyclic_photochemistry_jchem:1530.18-1620.07"
+          ],
+          "questions": [
+            "official_gate_cy_2025_0033"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "pericyclic_selection_rules",
+          "label": "Pericyclic selection rules and electrocyclic motion",
+          "aliases": [
+            "Pericyclic selection rules and electrocyclic motion",
+            "frontier orbitals",
+            "इलेक्ट्रोसाइक्लिक",
+            "cycloaddition",
+            "electrocyclic",
+            "photochemical",
+            "पेरिसाइक्लिक",
+            "पेरीसाइक्लिक",
+            "साइक्लोएडिशन",
+            "conrotatory",
+            "disrotatory",
+            "sigmatropic",
+            "pericyclic",
+            "फोटोकेमिकल",
+            "Hoffmann",
+            "Woodward",
+            "orbital"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 2,
+            "video": 1,
+            "questions": 1
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 38.5,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "pericyclic_photochemistry:syllabus",
+                "label": "Electrocyclic, cycloaddition and sigmatropic reactions; FMO and PMO treatments; Woodward-Hoffmann rule; photochemistry of alkenes, arenes and carbonyl compounds; photooxidation, photoreduction, di-pi-methane rearrangement, Barton-McCombie reaction, and Norrish type-I and II cleavage.",
+                "matched_aliases": [
+                  "cycloaddition",
+                  "electrocyclic",
+                  "photochemical",
+                  "sigmatropic",
+                  "pericyclic",
+                  "Hoffmann",
+                  "Woodward",
+                  "orbital"
+                ],
+                "score": 9.0
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_pericyclic_30_intro",
+                "label": "30.9 A Summary of Rules for Pericyclic Reactions",
+                "matched_aliases": [
+                  "cycloaddition",
+                  "electrocyclic",
+                  "photochemical",
+                  "conrotatory",
+                  "disrotatory",
+                  "sigmatropic",
+                  "pericyclic",
+                  "orbital"
+                ],
+                "score": 9.200000000000001
+              },
+              {
+                "id": "openstax_orgchem_photochemistry_30_8",
+                "label": "30.4 Photochemical Electrocyclic Reactions",
+                "matched_aliases": [
+                  "frontier orbitals",
+                  "electrocyclic",
+                  "photochemical",
+                  "conrotatory",
+                  "disrotatory",
+                  "pericyclic",
+                  "orbital"
+                ],
+                "score": 8.5
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_expansion_pericyclic_photochemistry_jchem:1530.18-1620.07",
+                "label": "25:30-27:00",
+                "source_id": "gate_organic_expansion_pericyclic_photochemistry_jchem",
+                "start": 1530.18,
+                "end": 1620.07,
+                "matched_aliases": [
+                  "पेरिसाइक्लिक"
+                ],
+                "score": 1.2
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2025_0033",
+                "label": "Q.27 Choose the correct option(s) with regard to mechanism of the following transformation. (A) It proceeds through divinyl cyclopropane rearrangement (B) It involves a diradical intermediate (C) It proceeds through di--methane rearrangement (D) It proceeds through [2+2+2] cycloaddition reaction",
+                "matched_aliases": [
+                  "cycloaddition"
+                ],
+                "score": 1.3
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "heterocycles",
+      "title": "Heterocycle Structure and Reactions",
+      "selected_thread": {
+        "id": "aromatic_heterocycles",
+        "label": "Aromatic heterocycles and heteroatom effects",
+        "source_coverage": {
+          "textbook": 1,
+          "video": 4,
+          "questions": 1
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 40.0,
+        "evidence_ids": {
+          "syllabus": [
+            "heterocycles:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_heterocycles_15_5"
+          ],
+          "video": [
+            "gate_organic_expansion_heterocycles_sp_structure_reactions:630.04-720.06",
+            "gate_organic_expansion_heterocycles_sp_structure_reactions:2160.03-2250.08",
+            "gate_organic_expansion_heterocycles_sp_structure_reactions:900.39-990.16",
+            "gate_organic_expansion_heterocycles_sp_structure_reactions:1890.09-1980.12"
+          ],
+          "questions": [
+            "official_gate_cy_2024_0029"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "aromatic_heterocycles",
+          "label": "Aromatic heterocycles and heteroatom effects",
+          "aliases": [
+            "Aromatic heterocycles and heteroatom effects",
+            "aromatic heterocycles",
+            "हेट्रोसाइक्लिक",
+            "हेटरोसाइक्लिक",
+            "heterocycles",
+            "heterocyclic",
+            "isoquinoline",
+            "heterocycle",
+            "lone pair",
+            "quinoline",
+            "thiophene",
+            "क्विनोलीन",
+            "क्वीनोलीन",
+            "aromatic",
+            "pyridine",
+            "पाइरीडीन",
+            "pyrrole",
+            "थायोफीन",
+            "फ्यूरान",
+            "indole",
+            "पाइरोल",
+            "furan",
+            "इंडोल"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 1,
+            "video": 4,
+            "questions": 1
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 40.0,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "heterocycles:syllabus",
+                "label": "Structure, preparation, properties and reactions of furan, pyrrole, thiophene, pyridine, indole, quinoline and isoquinoline.",
+                "matched_aliases": [
+                  "heterocycles",
+                  "heterocyclic",
+                  "isoquinoline",
+                  "heterocycle",
+                  "quinoline",
+                  "thiophene",
+                  "pyridine",
+                  "pyrrole",
+                  "indole",
+                  "furan"
+                ],
+                "score": 10.7
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_heterocycles_15_5",
+                "label": "15.5 Aromatic Heterocycles: Pyridine and Pyrrole",
+                "matched_aliases": [
+                  "aromatic heterocycles",
+                  "heterocycles",
+                  "heterocyclic",
+                  "heterocycle",
+                  "lone pair",
+                  "thiophene",
+                  "aromatic",
+                  "pyridine",
+                  "pyrrole",
+                  "furan"
+                ],
+                "score": 11.6
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_expansion_heterocycles_sp_structure_reactions:630.04-720.06",
+                "label": "10:30-12:00",
+                "source_id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+                "start": 630.04,
+                "end": 720.06,
+                "matched_aliases": [
+                  "क्विनोलीन",
+                  "पाइरीडीन",
+                  "इंडोल"
+                ],
+                "score": 3.0
+              },
+              {
+                "id": "gate_organic_expansion_heterocycles_sp_structure_reactions:2160.03-2250.08",
+                "label": "36:00-37:30",
+                "source_id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+                "start": 2160.03,
+                "end": 2250.08,
+                "matched_aliases": [
+                  "क्विनोलीन",
+                  "पाइरीडीन",
+                  "इंडोल"
+                ],
+                "score": 3.0
+              },
+              {
+                "id": "gate_organic_expansion_heterocycles_sp_structure_reactions:900.39-990.16",
+                "label": "15:00-16:30",
+                "source_id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+                "start": 900.39,
+                "end": 990.16,
+                "matched_aliases": [
+                  "हेटरोसाइक्लिक",
+                  "इंडोल"
+                ],
+                "score": 2.3
+              },
+              {
+                "id": "gate_organic_expansion_heterocycles_sp_structure_reactions:1890.09-1980.12",
+                "label": "31:30-33:00",
+                "source_id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+                "start": 1890.09,
+                "end": 1980.12,
+                "matched_aliases": [
+                  "क्वीनोलीन",
+                  "इंडोल"
+                ],
+                "score": 2.0
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2024_0029",
+                "label": "Q.25 The reaction(s) that yield(s) 2-methylquinoline as the major product is (are) (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "quinoline"
+                ],
+                "score": 1.0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "biomolecules",
+      "title": "Biomolecules in Organic Chemistry",
+      "selected_thread": {
+        "id": "carbohydrates_amino_acids_peptides",
+        "label": "Carbohydrates, amino acids, and peptides",
+        "source_coverage": {
+          "textbook": 3,
+          "video": 4,
+          "questions": 2
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 44.0,
+        "evidence_ids": {
+          "syllabus": [
+            "biomolecules:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_biomolecules_25_1",
+            "openstax_orgchem_biomolecules_26_1",
+            "openstax_orgchem_biomolecules_28_1"
+          ],
+          "video": [
+            "gate_organic_expansion_biomolecules_short_apna_sapna:2070.01-2160.03",
+            "gate_organic_expansion_biomolecules_short_apna_sapna:1170.03-1260.03",
+            "gate_organic_expansion_biomolecules_short_apna_sapna:360.18-450.05",
+            "gate_organic_expansion_biomolecules_short_apna_sapna:630.09-720.09"
+          ],
+          "questions": [
+            "official_gate_cy_2025_0038",
+            "official_gate_cy_2024_0027"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "carbohydrates_amino_acids_peptides",
+          "label": "Carbohydrates, amino acids, and peptides",
+          "aliases": [
+            "Carbohydrates, amino acids, and peptides",
+            "monosaccharides",
+            "polysaccharides",
+            "बायोमोलीक्यूल्स",
+            "कार्बोहाइड्रेट",
+            "carbohydrates",
+            "disaccharides",
+            "biomolecules",
+            "carbohydrate",
+            "amino acids",
+            "biomolecule",
+            "amino acid",
+            "peptides",
+            "proteins",
+            "पेप्टाइड",
+            "peptide",
+            "protein",
+            "प्रोटीन",
+            "अमीनो"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 3,
+            "video": 4,
+            "questions": 2
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 44.0,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "biomolecules:syllabus",
+                "label": "Structure, properties and reactions of mono- and di-saccharides; physicochemical properties of amino acids; peptide synthesis and structure determination; structural features of proteins, nucleic acids, lipids, steroids, terpenoids, carotenoids and alkaloids.",
+                "matched_aliases": [
+                  "biomolecules",
+                  "amino acids",
+                  "proteins",
+                  "peptide"
+                ],
+                "score": 4.3
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_biomolecules_25_1",
+                "label": "25.1 Classification of Carbohydrates",
+                "matched_aliases": [
+                  "monosaccharides",
+                  "polysaccharides",
+                  "carbohydrates",
+                  "disaccharides",
+                  "carbohydrate"
+                ],
+                "score": 6.8
+              },
+              {
+                "id": "openstax_orgchem_biomolecules_26_1",
+                "label": "26.1 Structures of Amino Acids",
+                "matched_aliases": [
+                  "carbohydrate",
+                  "amino acids",
+                  "amino acid",
+                  "proteins",
+                  "peptide",
+                  "protein"
+                ],
+                "score": 6.3
+              },
+              {
+                "id": "openstax_orgchem_biomolecules_28_1",
+                "label": "28.1 Nucleotides and Nucleic Acids",
+                "matched_aliases": [
+                  "biomolecules",
+                  "amino acids",
+                  "proteins"
+                ],
+                "score": 3.3
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_expansion_biomolecules_short_apna_sapna:2070.01-2160.03",
+                "label": "34:30-36:00",
+                "source_id": "gate_organic_expansion_biomolecules_short_apna_sapna",
+                "start": 2070.01,
+                "end": 2160.03,
+                "matched_aliases": [
+                  "बायोमोलीक्यूल्स",
+                  "पेप्टाइड"
+                ],
+                "score": 2.5
+              },
+              {
+                "id": "gate_organic_expansion_biomolecules_short_apna_sapna:1170.03-1260.03",
+                "label": "19:30-21:00",
+                "source_id": "gate_organic_expansion_biomolecules_short_apna_sapna",
+                "start": 1170.03,
+                "end": 1260.03,
+                "matched_aliases": [
+                  "कार्बोहाइड्रेट",
+                  "प्रोटीन"
+                ],
+                "score": 2.4
+              },
+              {
+                "id": "gate_organic_expansion_biomolecules_short_apna_sapna:360.18-450.05",
+                "label": "06:00-07:30",
+                "source_id": "gate_organic_expansion_biomolecules_short_apna_sapna",
+                "start": 360.18,
+                "end": 450.05,
+                "matched_aliases": [
+                  "प्रोटीन",
+                  "अमीनो"
+                ],
+                "score": 2.0
+              },
+              {
+                "id": "gate_organic_expansion_biomolecules_short_apna_sapna:630.09-720.09",
+                "label": "10:30-12:00",
+                "source_id": "gate_organic_expansion_biomolecules_short_apna_sapna",
+                "start": 630.09,
+                "end": 720.09,
+                "matched_aliases": [
+                  "बायोमोलीक्यूल्स"
+                ],
+                "score": 1.5
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2025_0038",
+                "label": "Q.32 Partial hydrolysis of a pentapeptide yields all possible tripeptides and dipeptides. The dipeptides that are obtained upon hydrolysis are given below. Val-Ala, Gln-His, Phe-Val and Ala-Gln The total number of tripeptides obtained that contain ‘Ala’ as one of the amino acids is____ (in integer).",
+                "matched_aliases": [
+                  "amino acids",
+                  "peptide"
+                ],
+                "score": 2.1
+              },
+              {
+                "id": "official_gate_cy_2024_0027",
+                "label": "Q.23 Among the following metalloproteins, the pair(s) of non-heme proteins is (are) (A) Hemoglobin and Myoglobin (B) Hemocyanin and Carboxypeptidase (C) Hemerythrin and Carbonic anhydrase (D) Cytochrome P-450 and Hemocyanin",
+                "matched_aliases": [
+                  "proteins"
+                ],
+                "score": 1.0
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "lesson_id": "experimental_techniques",
+      "title": "Organic Analysis and Structural Determination",
+      "selected_thread": {
+        "id": "nmr_structure_determination",
+        "label": "NMR evidence for structure determination",
+        "source_coverage": {
+          "textbook": 2,
+          "video": 6,
+          "questions": 5
+        },
+        "missing_source_types": [],
+        "alignment_state": "source_backed",
+        "alignment_score": 43.5,
+        "evidence_ids": {
+          "syllabus": [
+            "experimental_techniques:syllabus"
+          ],
+          "textbook": [
+            "openstax_orgchem_spectroscopy_13_3",
+            "openstax_orgchem_spectroscopy_12_1"
+          ],
+          "video": [
+            "gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+            "gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+            "gate_organic_expansion_nmr_pw:540.03-630.00",
+            "gate_organic_expansion_nmr_pw:270.03-360.27",
+            "gate_organic_expansion_nmr_pw:630.00-720.07",
+            "gate_organic_expansion_spectroscopy_gate_chemistry:0.00-89.49"
+          ],
+          "questions": [
+            "official_gate_cy_2025_0022",
+            "official_gate_cy_2025_0047",
+            "official_gate_cy_2025_0050",
+            "official_gate_cy_2025_0030",
+            "official_gate_cy_2024_0022"
+          ]
+        }
+      },
+      "concept_threads": [
+        {
+          "id": "nmr_structure_determination",
+          "label": "NMR evidence for structure determination",
+          "aliases": [
+            "NMR evidence for structure determination",
+            "structure determination",
+            "chemical shifts",
+            "chemical shift",
+            "deshielding",
+            "shielding",
+            "spectral",
+            "spectrum",
+            "एन एम आर",
+            "protons",
+            "signals",
+            "proton",
+            "signal",
+            "एनएमआर",
+            "सिग्नल",
+            "NMR"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 2,
+            "video": 6,
+            "questions": 5
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 43.5,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "experimental_techniques:syllabus",
+                "label": "Optical rotation; chromatographic techniques including TLC, column, HPLC and GC; applications of UV-visible, IR, NMR and Mass spectrometry in structural determination of organic molecules.",
+                "matched_aliases": [
+                  "NMR"
+                ],
+                "score": 1.0
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_spectroscopy_13_3",
+                "label": "13.4 Chemical Shifts in 1H NMR Spectroscopy",
+                "matched_aliases": [
+                  "chemical shifts",
+                  "chemical shift",
+                  "deshielding",
+                  "shielding",
+                  "spectrum",
+                  "protons",
+                  "proton",
+                  "NMR"
+                ],
+                "score": 9.0
+              },
+              {
+                "id": "openstax_orgchem_spectroscopy_12_1",
+                "label": "12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments",
+                "matched_aliases": [
+                  "spectral",
+                  "spectrum"
+                ],
+                "score": 2.0
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+                "label": "22:28-23:55",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 1348.5,
+                "end": 1435.6,
+                "matched_aliases": [
+                  "chemical shift",
+                  "proton"
+                ],
+                "score": 2.4
+              },
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+                "label": "20:59-22:28",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 1259.54,
+                "end": 1348.7,
+                "matched_aliases": [
+                  "chemical shift",
+                  "NMR"
+                ],
+                "score": 2.4
+              },
+              {
+                "id": "gate_organic_expansion_nmr_pw:540.03-630.00",
+                "label": "09:00-10:30",
+                "source_id": "gate_organic_expansion_nmr_pw",
+                "start": 540.03,
+                "end": 630.0,
+                "matched_aliases": [
+                  "एन एम आर",
+                  "एनएमआर"
+                ],
+                "score": 2.0
+              },
+              {
+                "id": "gate_organic_expansion_nmr_pw:270.03-360.27",
+                "label": "04:30-06:00",
+                "source_id": "gate_organic_expansion_nmr_pw",
+                "start": 270.03,
+                "end": 360.27,
+                "matched_aliases": [
+                  "एनएमआर",
+                  "सिग्नल"
+                ],
+                "score": 2.0
+              },
+              {
+                "id": "gate_organic_expansion_nmr_pw:630.00-720.07",
+                "label": "10:30-12:00",
+                "source_id": "gate_organic_expansion_nmr_pw",
+                "start": 630.0,
+                "end": 720.07,
+                "matched_aliases": [
+                  "एनएमआर",
+                  "सिग्नल"
+                ],
+                "score": 2.0
+              },
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:0.00-89.49",
+                "label": "00:00-01:29",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 0.0,
+                "end": 89.49,
+                "matched_aliases": [
+                  "NMR"
+                ],
+                "score": 1.0
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2025_0022",
+                "label": "Q.16 In the 1H-NMR spectrum of the following molecule, the signal of proton Ha appears as (A) singlet (B) triplet (C) quintet (D) quartet",
+                "matched_aliases": [
+                  "spectrum",
+                  "proton",
+                  "signal",
+                  "NMR"
+                ],
+                "score": 4.0
+              },
+              {
+                "id": "official_gate_cy_2025_0047",
+                "label": "Q.39 The 1H NMR spectrum of the given iridium complex at room temperature gave a single signal at 2. 6 ppm, and its 31P NMR spectrum gave a single signal at 23.0 ppm. When the spectra were recorded at lower temperatures, both these signals split into a complex pattern. The intra-molecular dynamic processes shown by this molecule are (A) Berry pseudo-rotation and rotation of the ethylene units along the C=C axis (B) Berry pseudo-rotation and propeller type rotation of the ethylene units along the",
+                "matched_aliases": [
+                  "spectrum",
+                  "signals",
+                  "signal",
+                  "NMR"
+                ],
+                "score": 4.0
+              },
+              {
+                "id": "official_gate_cy_2025_0050",
+                "label": "Q.42 Compound K displayed a strong band at 1680 cm-1 in its IR spectrum. Its 1H-NMR spectral data are as follows:  (ppm) 7.30 (d, J = 7.2 Hz, 2H), 6.8 (d, J = 7.2 Hz, 2H), 3.8 (septet, J = 7.0 Hz, 1H), 2.2 (s, 3H), 1.9 (d, J = 7.0 Hz, 6H). The correct structure of compound K is (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "spectral",
+                  "spectrum",
+                  "NMR"
+                ],
+                "score": 3.0
+              },
+              {
+                "id": "official_gate_cy_2025_0030",
+                "label": "Q.24 Compound(s) that show(s) an intense peak at m/z 120 in the EI mass spectrum is/are (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "spectrum"
+                ],
+                "score": 1.0
+              },
+              {
+                "id": "official_gate_cy_2024_0022",
+                "label": "Q.16 The major product in the given reaction sequence is Q. The mass spectrum of Q shows ([M] = molecular ion peak) (A) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:1:1:1 (B) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:3:3:1 (C) [M], [M+2], and [M+4] peaks with relative intensity of 1:2:1 (D) [M] and [M+2] peaks with relative intensity of 1:1",
+                "matched_aliases": [
+                  "spectrum"
+                ],
+                "score": 1.0
+              }
+            ]
+          }
+        },
+        {
+          "id": "mass_ir_chromatography",
+          "label": "Mass, IR, and chromatography evidence",
+          "aliases": [
+            "Mass, IR, and chromatography evidence",
+            "gas chromatography",
+            "mass spectrometry",
+            "stationary phase",
+            "chromatography",
+            "mass spectrum",
+            "molecular ion",
+            "IR spectrum",
+            "fragment",
+            "infrared",
+            "HPLC",
+            "m/z"
+          ],
+          "primary": true,
+          "required_source_types": [
+            "textbook",
+            "video",
+            "questions"
+          ],
+          "source_coverage": {
+            "textbook": 1,
+            "video": 9,
+            "questions": 3
+          },
+          "missing_source_types": [],
+          "alignment_state": "source_backed",
+          "alignment_score": 42.0,
+          "evidence": {
+            "syllabus": [
+              {
+                "id": "experimental_techniques:syllabus",
+                "label": "Optical rotation; chromatographic techniques including TLC, column, HPLC and GC; applications of UV-visible, IR, NMR and Mass spectrometry in structural determination of organic molecules.",
+                "matched_aliases": [
+                  "mass spectrometry",
+                  "HPLC"
+                ],
+                "score": 2.7
+              }
+            ],
+            "textbook": [
+              {
+                "id": "openstax_orgchem_spectroscopy_12_1",
+                "label": "12.1 Mass Spectrometry of Small Molecules: Magnetic-Sector Instruments",
+                "matched_aliases": [
+                  "mass spectrometry",
+                  "mass spectrum",
+                  "molecular ion",
+                  "fragment",
+                  "m/z"
+                ],
+                "score": 6.3
+              }
+            ],
+            "video": [
+              {
+                "id": "gate_organic_expansion_chromatography_chemistorian:596.15-648.71",
+                "label": "09:56-10:48",
+                "source_id": "gate_organic_expansion_chromatography_chemistorian",
+                "start": 596.15,
+                "end": 648.71,
+                "matched_aliases": [
+                  "gas chromatography",
+                  "mass spectrometry",
+                  "stationary phase",
+                  "chromatography",
+                  "HPLC"
+                ],
+                "score": 7.5
+              },
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:1259.54-1348.70",
+                "label": "20:59-22:28",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 1259.54,
+                "end": 1348.7,
+                "matched_aliases": [
+                  "gas chromatography",
+                  "mass spectrometry",
+                  "chromatography",
+                  "molecular ion"
+                ],
+                "score": 6.2
+              },
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:807.01-894.68",
+                "label": "13:27-14:54",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 807.01,
+                "end": 894.68,
+                "matched_aliases": [
+                  "mass spectrometry",
+                  "molecular ion",
+                  "fragment"
+                ],
+                "score": 4.0
+              },
+              {
+                "id": "gate_organic_expansion_chromatography_chemistorian:249.47-296.12",
+                "label": "04:09-04:56",
+                "source_id": "gate_organic_expansion_chromatography_chemistorian",
+                "start": 249.47,
+                "end": 296.12,
+                "matched_aliases": [
+                  "stationary phase",
+                  "chromatography",
+                  "infrared"
+                ],
+                "score": 4.0
+              },
+              {
+                "id": "gate_organic_expansion_chromatography_chemistorian:496.99-547.45",
+                "label": "08:16-09:07",
+                "source_id": "gate_organic_expansion_chromatography_chemistorian",
+                "start": 496.99,
+                "end": 547.45,
+                "matched_aliases": [
+                  "stationary phase",
+                  "chromatography",
+                  "HPLC"
+                ],
+                "score": 4.0
+              },
+              {
+                "id": "gate_organic_expansion_chromatography_chemistorian:0.00-48.36",
+                "label": "00:00-00:48",
+                "source_id": "gate_organic_expansion_chromatography_chemistorian",
+                "start": 0.0,
+                "end": 48.36,
+                "matched_aliases": [
+                  "mass spectrometry",
+                  "chromatography"
+                ],
+                "score": 3.0999999999999996
+              },
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:1348.50-1435.60",
+                "label": "22:28-23:55",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 1348.5,
+                "end": 1435.6,
+                "matched_aliases": [
+                  "stationary phase",
+                  "chromatography"
+                ],
+                "score": 3.0
+              },
+              {
+                "id": "gate_organic_expansion_spectroscopy_gate_chemistry:719.99-807.25",
+                "label": "11:59-13:27",
+                "source_id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+                "start": 719.99,
+                "end": 807.25,
+                "matched_aliases": [
+                  "mass spectrometry",
+                  "fragment"
+                ],
+                "score": 2.7
+              },
+              {
+                "id": "gate_organic_expansion_chromatography_chemistorian:147.40-198.40",
+                "label": "02:27-03:18",
+                "source_id": "gate_organic_expansion_chromatography_chemistorian",
+                "start": 147.4,
+                "end": 198.4,
+                "matched_aliases": [
+                  "stationary phase"
+                ],
+                "score": 1.6
+              }
+            ],
+            "questions": [
+              {
+                "id": "official_gate_cy_2024_0022",
+                "label": "Q.16 The major product in the given reaction sequence is Q. The mass spectrum of Q shows ([M] = molecular ion peak) (A) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:1:1:1 (B) [M], [M+2], [M+4], and [M+6] peaks with relative intensity of 1:3:3:1 (C) [M], [M+2], and [M+4] peaks with relative intensity of 1:2:1 (D) [M] and [M+2] peaks with relative intensity of 1:1",
+                "matched_aliases": [
+                  "mass spectrum",
+                  "molecular ion"
+                ],
+                "score": 2.6
+              },
+              {
+                "id": "official_gate_cy_2025_0030",
+                "label": "Q.24 Compound(s) that show(s) an intense peak at m/z 120 in the EI mass spectrum is/are (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "mass spectrum",
+                  "m/z"
+                ],
+                "score": 2.3
+              },
+              {
+                "id": "official_gate_cy_2025_0050",
+                "label": "Q.42 Compound K displayed a strong band at 1680 cm-1 in its IR spectrum. Its 1H-NMR spectral data are as follows:  (ppm) 7.30 (d, J = 7.2 Hz, 2H), 6.8 (d, J = 7.2 Hz, 2H), 3.8 (septet, J = 7.0 Hz, 1H), 2.2 (s, 3H), 1.9 (d, J = 7.0 Hz, 6H). The correct structure of compound K is (A) (B) (C) (D)",
+                "matched_aliases": [
+                  "IR spectrum"
+                ],
+                "score": 1.1
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

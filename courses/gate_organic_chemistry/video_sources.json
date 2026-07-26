@@ -1,0 +1,157 @@
+[
+  {
+    "id": "gate_organic_graph_stereochemistry_specific_rotation",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=duGxp_XZzvw",
+    "title": "Optical Activity - Specific Rotation & Enantiomeric Excess - Stereochemistry",
+    "citation_label": "The Organic Chemistry Tutor optical activity and specific rotation lecture via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Stereochemistry",
+    "lesson_ids": [
+      "stereochemistry"
+    ],
+    "duration_seconds": 1367,
+    "selection_reason": "Graph-selected replacement for the chirality, enantiomer, and specific-rotation thread shared by OpenStax and official GATE questions."
+  },
+  {
+    "id": "gate_organic_pilot_reaction_mechanism_ifas",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=hkh70pllOlo",
+    "title": "Reaction Mechanism | Organic Chemistry | CSIR NET Chemistry | IFAS",
+    "citation_label": "IFAS reaction mechanism video via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Reaction Mechanisms",
+    "lesson_ids": [
+      "reaction_mechanisms"
+    ],
+    "duration_seconds": 10392
+  },
+  {
+    "id": "gate_organic_pilot_organic_synthesis_retrosynthesis",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=2I5vmNkYTOk",
+    "title": "Retrosynthesis Organic Chemistry MSc Chemistry | Disconnection Approach | Reductive Amination | Umpolung",
+    "citation_label": "J Chemistry Team retrosynthesis video via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Organic Synthesis",
+    "lesson_ids": [
+      "organic_synthesis"
+    ],
+    "duration_seconds": 5511
+  },
+  {
+    "id": "gate_organic_expansion_pericyclic_photochemistry_jchem",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=vCUhjaAPc20",
+    "title": "Pericyclic Reactions | Photochemistry | GATE Chemistry Crash Course | IIT JAM Crash Course Chemistry",
+    "citation_label": "J Chemistry Team pericyclic and photochemistry crash course via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Pericyclic Reactions and Photochemistry",
+    "lesson_ids": [
+      "pericyclic_photochemistry"
+    ],
+    "duration_seconds": 9857
+  },
+  {
+    "id": "gate_organic_expansion_heterocycles_sp_structure_reactions",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=7vJS_Yikogo",
+    "title": "Heterocyclic Compound | Structure And Chemical Reaction of Pyridine | Indole | Quinoline | CSIR NET",
+    "citation_label": "SP Chemistry Classes heterocyclic structure and reactions lecture via VideoDB",
+    "language_code": "hi",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Heterocyclic Compounds",
+    "lesson_ids": [
+      "heterocycles"
+    ],
+    "duration_seconds": 3273,
+    "selection_reason": "Replacement candidate chosen for stronger harmony with OpenStax aromatic heterocycles and the quinoline practice question."
+  },
+  {
+    "id": "gate_organic_expansion_biomolecules_short_apna_sapna",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=UEkBle3kuww",
+    "title": "Composition, Structure and Function of Biomolecules",
+    "citation_label": "Apna Sapna JRF biomolecules structure and function lecture via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Biomolecules",
+    "lesson_ids": [
+      "biomolecules"
+    ],
+    "duration_seconds": 2717
+  },
+  {
+    "id": "gate_organic_expansion_spectroscopy_gate_chemistry",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=EHGIX125lWA",
+    "title": "Organic Spectroscopy - Revision Series (CSIR-NET 2020)",
+    "citation_label": "Gate Chemistry organic spectroscopy revision via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Experimental Techniques",
+    "lesson_ids": [
+      "experimental_techniques"
+    ],
+    "duration_seconds": 2099
+  },
+  {
+    "id": "gate_organic_expansion_chromatography_chemistorian",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=nVy5jC0-xYk",
+    "title": "Chromatography for Visual Learners",
+    "citation_label": "Chemistorian chromatography overview via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Experimental Techniques",
+    "lesson_ids": [
+      "experimental_techniques"
+    ],
+    "duration_seconds": 860
+  },
+  {
+    "id": "gate_organic_expansion_nmr_pw",
+    "type": "video",
+    "provider": "youtube",
+    "url": "https://www.youtube.com/watch?v=3_s2P2ZPg8U",
+    "title": "NMR spectroscopy | Organic spectroscopy | IIT JAM Chemistry IIT JAM 2025 | PW",
+    "citation_label": "PW NMR spectroscopy lesson via VideoDB",
+    "language_code": "en",
+    "requires_videodb": true,
+    "requires_scene_index": false,
+    "ingest_candidate": true,
+    "module": "Experimental Techniques",
+    "lesson_ids": [
+      "experimental_techniques"
+    ],
+    "duration_seconds": 2643
+  }
+]
