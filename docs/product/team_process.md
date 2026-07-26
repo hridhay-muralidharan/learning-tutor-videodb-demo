@@ -120,6 +120,6 @@ Do not ask when:
 - wording can be tightened without changing meaning
 - a missing state can be handled honestly with an explicit unavailable message
 
-## Current Product Decision
+## Product Scope
 
-The next implementation pass should focus on the generated learner app. Institution and developer journeys must be documented and respected, but a full institution dashboard and developer console are not part of the immediate static-app redesign unless explicitly approved.
+The generated learner app is the primary product surface. Institution and developer journeys are documented and supported through configuration and extension points; a full institution dashboard and developer console are outside the generated static app.

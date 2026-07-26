@@ -17,7 +17,7 @@ The cleaned course pack contains:
 - 116 official GATE Chemistry question records from 2024 and 2025 papers
 - generated static app under `courses/gate_organic_chemistry/site/`
 
-No bundled placeholder video, superseded video upload, failed long-video upload, caption cache, or local credential file is included in the submission archive.
+The package contains only active source records and approved evidence artifacts. Credentials and private source files remain outside the repository.
 
 ## Evidence Model
 
@@ -117,8 +117,8 @@ Mobile screenshot: `/tmp/jee-chem-graph-mobile.png`
 | Cost gate | Pass | Current full-course dry-run has no remaining paid operations. |
 | Classroom UX | Pass | Board, textbook, notebook, and questions appear in one lesson workspace. |
 | Responsive smoke | Pass | Desktop and mobile smoke checks completed. |
-| Submission hygiene | Pass | Clean archive excludes `.env`, caches, stale captions, and removed video records. |
+| Repository hygiene | Pass | Credentials, caches, and private source material are excluded. |
 
-## Caveats
+## Scope Note
 
-This is a hackathon presentation build, not a finished commercial learning product. The core workflow is understandable and source-grounded, but the UI polish and learning-design depth can still improve.
+The repository demonstrates a source-grounded learning workflow with a generated static app. Production deployment would add authentication, progress synchronization, institution integrations, and operational monitoring.

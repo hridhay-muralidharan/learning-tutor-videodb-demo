@@ -55,7 +55,7 @@ The public GATE Organic Chemistry pack includes a completed real VideoDB video p
 - `biomolecules`
 - `experimental_techniques`
 
-The original three-video pilot remains supported as a smaller paid path. The full-course path uses the seven lesson list below. No-spend checks:
+The full-course path uses the seven lesson list below. No-spend checks:
 
 ```bash
 python3 -m learning_tutor videos estimate --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
@@ -72,14 +72,6 @@ Refresh search validation for already uploaded videos without re-uploading:
 
 ```bash
 python3 -m learning_tutor videos refresh-search --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-```
-
-Three-video pilot path:
-
-```bash
-python3 -m learning_tutor videos estimate --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
-python3 -m learning_tutor videos dry-run --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
-python3 -m learning_tutor videos ingest --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
 ```
 
 `videos ingest` uploads only planned, not-yet-ingested sources after a fresh successful dry-run, snapshots VideoDB usage before ingest and after each video, indexes spoken words, caches transcript segments, stores timestamped search-validation results, and stops if actual/projected spend crosses the budget. `videos refresh-search` re-runs live VideoDB spoken-word searches against already uploaded videos and records before/after usage snapshots. Scene indexing is off for this course because `requires_scene_index: false`.
@@ -170,11 +162,10 @@ cp .env.example .env
 
 Do not commit credentials, private licensed sources, private signed URLs, or institution-only materials.
 
-## Submission Status
+## Evidence and Privacy
 
 - Real: generic course validation, no-spend VideoDB estimate/dry-run gates, live VideoDB adapter implementation, VideoDB search-refresh for already uploaded videos, evidence graph build/verify, completed real VideoDB spoken-word search evidence across all seven GATE Organic Chemistry lessons, OpenStax textbook section evidence, official GATE Chemistry question-paper evidence, regenerated classroom-style static app, source-state guardrails, and browser/unit QA.
 - Real textbook source: OpenStax Organic Chemistry, John McMurry, 10th edition, with curated section evidence and source URLs under CC BY-NC-SA 4.0.
 - Real question-bank source: official GATE Chemistry 2025 and 2024 question papers and answer keys from the IIT/GATE download pages.
 - Active real ready video IDs: `m-z-019f9f53-86c6-79f3-8304-d9dabec3e2b5`, `m-z-019f9deb-0e6e-7533-b064-09fa80d54428`, `m-z-019f9df7-8edd-79a1-869d-a5ceb34bcea6`, `m-z-019f9e12-1767-77b0-83b1-76e80dae1106`, `m-z-019f9f35-9950-79a0-9630-6046f9c7f2e0`, `m-z-019f9e34-c978-7652-8e88-6a9acb307a35`, `m-z-019f9e38-872e-7cc2-ac64-b6f1c50fd991`, `m-z-019f9e39-aa4f-7ad1-b6fc-2c4713d68eed`, `m-z-019f9e3a-dd9e-7d00-a8c4-37ad5b417ce3`.
-- Clean presentation state: stale bundled, superseded, and failed video records have been removed from the submitted course artifacts.
-- Protected/not included: `.env`, VideoDB credentials, private licensed PDFs, private question banks, private lecture media, signed URLs, and institution-only source exports.
+- Protected source material is not included: `.env`, VideoDB credentials, private licensed PDFs, private question banks, private lecture media, signed URLs, and institution-only source exports.

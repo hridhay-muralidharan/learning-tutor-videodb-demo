@@ -27,18 +27,18 @@ Credit-control commands:
 - `videos refresh-search` can spend search credits and refuses to run without `--confirm`; it reuses existing VideoDB video IDs and does not re-upload media.
 - `setup-course` runs estimate and dry-run before ingestion when `--confirm-ingest` is passed.
 
-Pilot flow:
+Full-course flow:
 
 ```bash
-python3 -m learning_tutor videos estimate --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
-python3 -m learning_tutor videos dry-run --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
-python3 -m learning_tutor videos ingest --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
+python3 -m learning_tutor videos estimate --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
+python3 -m learning_tutor videos dry-run --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
+python3 -m learning_tutor videos ingest --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
 ```
 
 Refresh timestamp validation for already uploaded videos:
 
 ```bash
-python3 -m learning_tutor videos refresh-search --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis --budget 10
+python3 -m learning_tutor videos refresh-search --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
 ```
 
 Live ingest behavior:
@@ -62,7 +62,7 @@ Live search-refresh behavior:
 
 See `docs/videodb_cost_control.md` for the manifest schema, hard stops, and source-state rules.
 
-Reference playlists can remain discoverable without entering paid ingest by setting `ingest_candidate: false`. Curated pilot videos should be explicit `type: video` sources with exact lesson IDs and `duration_seconds`.
+Reference playlists can remain discoverable without entering paid ingest by setting `ingest_candidate: false`. Ingested videos are explicit `type: video` sources with exact lesson IDs and `duration_seconds`.
 
 Generation gate:
 

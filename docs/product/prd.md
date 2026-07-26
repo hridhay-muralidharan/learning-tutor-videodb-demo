@@ -14,7 +14,7 @@ The GATE Organic Chemistry course is only the public demo pack. The long-term pr
 
 Many education settings have high student-to-teacher ratios. A teacher may not be able to continuously adapt pacing, practice, explanation depth, review timing, and support level for each student. Existing LMS and course platforms usually organize content but do not always give each learner a personalized source-grounded study loop.
 
-The previous implementation failed at the learner-facing layer because engineering moved directly from broad principles to UI code. The app exposed too many panels and system concepts at once, so the learner did not know where to start.
+The learner-facing experience centers the next study action and keeps supporting evidence available within the same lesson workspace. The interface is organized around a familiar classroom flow: follow the lesson, consult the textbook, write notes, practise, and review.
 
 ## Product Principles
 

@@ -7,7 +7,7 @@ VideoDB ingestion is a paid path. The learning tutor pipeline now requires a no-
 The public demo course supports two paid VideoDB modes under `videodb_pilot` in `course.yaml`:
 
 - default budget: `$10`
-- supported lesson counts: `3` for the original pilot or `7` for the full Organic Chemistry pass
+- supported lesson count: `7` for the full Organic Chemistry pass
 - scene indexing: off when `readiness.requires_scene_index: false`
 - evidence mode: spoken-word transcript and timestamp search only
 
