@@ -10,6 +10,20 @@ The proposition is to make that connection visible earlier. A learner should be 
 
 This is a proposition to test. It is not a claim that an eleven-year-old can be assigned a profession or that conventional subjects have no value.
 
+## The thesis in the author's words
+
+> My problem statement is that modern education is broken. Most of the things that we are taught in school or college has no usefulness/relevance to the job that we do or the life that we live.
+
+> Education is an aspiration for a better life which then should be oriented towards earth's welfare.
+
+> What we need is to start orienting the child's education around a tangible real world profession and related outcomes based on the aspirations of the family and child.
+
+> If all children are taught the same subjects irrespective of their aspirations, then we will only get average outcomes until they actually begin to differentiate much later in life leading to loss of productivity.
+
+> Gen AI actually allows us to do that personalization at scale and also allows us to re-organize and personalize that syllabus to the needs and aspirations of the individual.
+
+These sentences are the source of the product's emotional and moral centre. The synthesis in the rest of this repository exists to make them testable, safe, and deployable. It should not replace them with generic language about “pathways”, “personalisation”, or “workforce readiness”.
+
 ## Product truth
 
 The repository can say with confidence:

@@ -2,13 +2,15 @@
 
 ## The 60-second version
 
-I keep coming back to a basic mismatch: education is treated as the destination, but school and college were always supposed to be a means to a better life and useful work. We spend sixteen years moving through subjects and certificates, and only much later ask whether a person can do the work they hoped to do.
+My problem statement is that modern education is broken. Most of the things that we are taught in school or college has no usefulness/relevance to the job that we do or the life that we live. I studied physics, chemistry, mathematics and biology in school and chemistry in my undergraduate, but my current profession is product manager with absolutely no relevance. So many years of wasted education and by extension productivity—and I can say for sure that this is true for millions of people across the world.
 
-I am exploring a model that keeps common foundations, but makes direction visible earlier. A learner should be able to understand what kind of contribution they want to explore, what knowledge and practice it requires, what real experiences would test it, which hard gate applies, and which alternatives preserve the same purpose. UPSC is a good case because the exam is genuinely a hard gate. Product management is a useful contrast because demonstrated work can matter more than a degree alone.
+Education is an aspiration for a better life which then should be oriented towards earth's welfare. School education starts around age 5–6 and a four-year college ends around 22. We have a sixteen-year period for education. What we need is to start orienting the child's education around a tangible real-world profession and related outcomes based on the aspirations of the family and child, while still preserving common foundations and the ability to change direction.
+
+UPSC is a useful example because clearing the exam is a real hard criterion. But the aspiration should not stop at “become an IAS officer”: the learner should uncover what type of public service they actually want to pursue, what people or problems they want to serve, and what viable alternatives preserve that purpose if the exam is not cleared.
 
 ## The product question
 
-How might a learner and family move from an exam label or broad aspiration to a specific, revisable contribution hypothesis and a credible next pathway of learning, practice, experience, assessment, and alternatives?
+How might a learner and family move from an exam label or broad aspiration to a specific understanding of the contribution they want to make, and then orient education towards the knowledge, practice, experience, examination, and alternatives required to pursue it?
 
 ## What is intentionally not yet claimed
 

@@ -2,6 +2,16 @@
 
 Read this with [`PRODUCT_JUDGMENT.md`](../PRODUCT_JUDGMENT.md). That document is the acceptance standard; this one develops the thesis and deployment logic.
 
+The working language is deliberately close to the originating thought:
+
+> If all children are taught the same subjects irrespective of their aspirations, then we will only get average outcomes until they actually begin to differentiate much later in life leading to loss of productivity.
+
+> The course content across text, video, exercises, test can be centrally designed and “diffused” using AI.
+
+> Doing it right is more important than doing it fast.
+
+The job of this document is to connect those ideas to a product decision, an evaluation plan, and a deployment sequence. It is not to make the idea sound more polished than it is.
+
 ## The problem
 
 Education often separates learning from the outcomes it is supposed to enable. Students spend years accumulating subject coverage and certificates, then encounter a high-stakes exam, regulated profession, or employer that evaluates a different combination of knowledge, judgment, and practical capability.

@@ -1,12 +1,14 @@
 # Education, aspiration, and contribution
 
-Most education is organised around subjects, classes, and certificates. The reason people pursue it is usually simpler: they want a better life and the ability to do meaningful work. This repository explores what changes when that reason is made visible earlier.
+Modern education is broken. Most of the things that we are taught in school or college has no usefulness or relevance to the job that we do or the life that we live. Education is an aspiration for a better life which then should be oriented towards earth's welfare.
 
-The proposition is not that every child should be assigned a profession at eleven. It is that, once common foundations are in place, a learner and family should be able to explore a possible contribution, understand what it requires, practise it, encounter the real world, and keep credible alternatives open.
+An aspiration for school or graduation was never final. It was always a means to a tangible real-world outcome. The question this repository explores is whether education can be re-oriented around that outcome while preserving the foundations that allow a learner to live well, change direction, and contribute.
 
 The repository is currently a research and documentation home for this idea. The product prototype is deliberately unselected. That is a product decision, not unfinished packaging: the experience should be chosen only after the central human decision and first deployment context are clear.
 
 ## Education as a pathway
+
+School education starts around age 5–6 and a four-year college ends around 22. That gives us a sixteen-year period for education. Typically, until class 5 there is very little differentiation in what education is needed as we are still going over the basics. Differentiation usually starts around class 6. The question is whether that point can become the beginning of informed orientation rather than the beginning of another undifferentiated sequence of subjects.
 
 Education is often treated as a sequence of classes, subjects, and certificates, followed much later by a high-stakes examination or a job search. The pathway model asks:
 
@@ -54,7 +56,7 @@ The system should help a learner move beyond labels such as “engineer,” “d
 
 An aspiration adjacency map keeps a selective examination from becoming a single point of failure. A learner interested in mechanical engineering can compare that branch across institutions instead of accepting an unrelated branch only for prestige. A public-service learner can consider state services, public health, education, rural development, research, or local governance if UPSC is not cleared.
 
-The ethical north star is *loka kshema*: directing knowledge and work toward the welfare of people and the living world, rather than treating one exam, institution, title, or salary as the only definition of success.
+The ethical north star is *loka kshema*: knowledge and work should move towards the welfare of people and the living world, rather than treating one exam, institution, title, or salary as the only definition of success.
 
 ## Prototype status
 
