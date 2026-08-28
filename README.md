@@ -94,6 +94,7 @@ This is an education and pathway research prototype. It does not guarantee exami
 ## Documentation
 
 - [Documentation map](docs/README.md)
+- [Problem framing](docs/PROBLEM_FRAMING.md) — the canonical argument in the author's own words
 - [Product judgment](docs/PRODUCT_JUDGMENT.md) — the acceptance standard for claims, language, and prototypes
 - [Product truth](docs/PRODUCT_TRUTH.md)
 - [Experience specification](docs/EXPERIENCE_SPEC.md)

@@ -6,6 +6,7 @@ This repository has two layers because the product changed direction.
 
 These documents define the work that is now under review:
 
+- [`PROBLEM_FRAMING.md`](PROBLEM_FRAMING.md) — the canonical problem framing in the author's own words
 - [`PRODUCT_JUDGMENT.md`](PRODUCT_JUDGMENT.md) — the source of acceptance and rejection
 - [`PRODUCT_TRUTH.md`](PRODUCT_TRUTH.md) — evidence, inference, and hypotheses
 - [`EXPERIENCE_SPEC.md`](EXPERIENCE_SPEC.md) — what the first experience must test
