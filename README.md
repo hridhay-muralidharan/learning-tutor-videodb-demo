@@ -1,8 +1,10 @@
-# Pathway learning
+# Education, aspiration, and contribution
 
-Pathway learning is a research prototype for institutions to connect education with the outcomes a learner hopes to pursue. A learner and family explore an aspiration, the system maps it to foundations, knowledge, practice, experience, assessment, and the relevant hard gate, and institutions use approved content and reusable infrastructure to support the journey.
+Most education is organised around subjects, classes, and certificates. The reason people pursue it is usually simpler: they want a better life and the ability to do meaningful work. This repository explores what changes when that reason is made visible earlier.
 
-The repository is currently a documentation and research home for this idea. A prototype should be chosen only after the central human decision and first deployment context are clear.
+The proposition is not that every child should be assigned a profession at eleven. It is that, once common foundations are in place, a learner and family should be able to explore a possible contribution, understand what it requires, practise it, encounter the real world, and keep credible alternatives open.
+
+The repository is currently a research and documentation home for this idea. The product prototype is deliberately unselected. That is a product decision, not unfinished packaging: the experience should be chosen only after the central human decision and first deployment context are clear.
 
 ## Education as a pathway
 
@@ -89,6 +91,8 @@ This is an education and pathway research prototype. It does not guarantee exami
 
 ## Documentation
 
+- [Documentation map](docs/README.md)
+- [Product judgment](docs/PRODUCT_JUDGMENT.md) — the acceptance standard for claims, language, and prototypes
 - [Product truth](docs/PRODUCT_TRUTH.md)
 - [Experience specification](docs/EXPERIENCE_SPEC.md)
 - [Target audience](docs/TARGET_AUDIENCE.md)

@@ -2,11 +2,13 @@
 
 ## The 60-second version
 
-Education often separates what a learner studies from the outcome they are preparing for, then uses broad certificates as proxies for capability. My thesis is that education should preserve foundational learning, help learners explore and choose informed directions, and then connect those directions to knowledge, practice, experience, and the relevant hard gate. UPSC is a useful reference case because the exam is a real selection gate; product management is a contrasting case where demonstrated work may matter more than a degree.
+I keep coming back to a basic mismatch: education is treated as the destination, but school and college were always supposed to be a means to a better life and useful work. We spend sixteen years moving through subjects and certificates, and only much later ask whether a person can do the work they hoped to do.
+
+I am exploring a model that keeps common foundations, but makes direction visible earlier. A learner should be able to understand what kind of contribution they want to explore, what knowledge and practice it requires, what real experiences would test it, which hard gate applies, and which alternatives preserve the same purpose. UPSC is a good case because the exam is genuinely a hard gate. Product management is a useful contrast because demonstrated work can matter more than a degree alone.
 
 ## The product question
 
-How might an institution deploy a validated, source-grounded pathway that connects curriculum to aspiration, authentic experience, and the examination or work evidence required at the end?
+How might a learner and family move from an exam label or broad aspiration to a specific, revisable contribution hypothesis and a credible next pathway of learning, practice, experience, assessment, and alternatives?
 
 ## What is intentionally not yet claimed
 

@@ -1,14 +1,16 @@
-# Pathway learning: product strategy
+# Education, aspiration, and contribution: working thesis
+
+Read this with [`PRODUCT_JUDGMENT.md`](../PRODUCT_JUDGMENT.md). That document is the acceptance standard; this one develops the thesis and deployment logic.
 
 ## The problem
 
 Education often separates learning from the outcomes it is supposed to enable. Students spend years accumulating subject coverage and certificates, then encounter a high-stakes exam, regulated profession, or employer that evaluates a different combination of knowledge, judgment, and practical capability.
 
-The product thesis is not that foundational education is useless, or that every learner should lock into a profession at age 11. It is that education should make the connection between foundations, aspirations, practice, assessment, and real-world outcomes explicit much earlier and keep that pathway revisable.
+The thesis is not that foundational education is useless, or that every learner should lock into a profession at age 11. It is that education should make the connection between foundations, aspirations, practice, assessment, and real-world outcomes explicit much earlier and keep that pathway revisable.
 
 ## Product thesis
 
-Learning Tutor is becoming an aspiration-led pathway engine: a source-grounded system that helps institutions translate a learner's emerging goal into a multi-year sequence of knowledge, practice, exposure, assessment, and credible evidence.
+The possible product is an aspiration-led pathway system: a source-grounded way for a learner, family, mentor, and institution to translate an emerging goal into a sequence of knowledge, practice, exposure, assessment, and credible evidence.
 
 AI is the diffusion layer. It can adapt approved content, language, examples, exercises, and pacing to the learner and context. It does not decide a child's destiny, replace teachers, or manufacture evidence of competence.
 
@@ -35,9 +37,9 @@ Different destinations require different proof:
 
 Credentials are therefore neither universally obsolete nor universally sufficient. They are valuable when they certify a real gate. They are weak when they are used as a generic proxy for capability that can be directly demonstrated.
 
-## Reference pathway: public service
+## Reference case for discussion: public service
 
-The first demonstration pathway is public service, using UPSC as the example. It is intentionally not framed as “teach UPSC to children.” It demonstrates how a learner can move through:
+Public service, using UPSC as the example, is a useful case for discussion. It is intentionally not framed as “teach UPSC to children.” It shows how a learner might move through:
 
 1. aspiration discovery and family context;
 2. foundational reading, writing, numeracy, and civic understanding;
@@ -50,7 +52,7 @@ The first demonstration pathway is public service, using UPSC as the example. It
 
 The pathway must show both the opportunity and the risk: civil services are aspirational and socially meaningful, but highly selective. The product should help families make informed choices, monitor evidence of fit, and preserve alternatives.
 
-## Product primitives
+## Possible product primitives
 
 - **Aspiration profile:** learner and family goals, context, constraints, confidence, and openness to alternatives.
 - **Pathway map:** required knowledge, capabilities, experiences, assessments, gates, and adjacent destinations.

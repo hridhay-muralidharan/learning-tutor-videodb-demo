@@ -1,41 +1,63 @@
-# Pathway learning — experience specification
+# Experience specification
 
-## Experience goal
+## Current product decision
 
-A family, learner, teacher, or institution should understand how an aspiration becomes a pathway of learning, practice, experience, assessment, and outcome evidence.
+The prototype has not been selected yet. This is intentional. The earlier VideoDB chemistry application is archived prior work; it does not demonstrate the education proposition.
 
-## Primary relationship
+The first experience should be selected only when it can improve the human decision described in `PRODUCT_JUDGMENT.md` and produce evidence for the next iteration.
 
-### Learner and family
+## Candidate first experiences
 
-They describe an emerging aspiration, examine its assumptions, explore adjacent routes, and see why each learning activity matters.
+### A family decision workspace
 
-### Teacher or mentor
+The learner and parent describe a broad aspiration, the work behind it, the people or problems involved, and what they currently know. They see missing questions, possible experiences, relevant foundations, hard gates, and adjacent routes. They revise the hypothesis together.
 
-They review the pathway, connect it to approved curriculum and local context, provide human guidance, and decide where the system should slow down or escalate.
+### An aspiration-to-pathway map
 
-### Institution
+The learner starts with an exam or profession and follows it back to purpose, capabilities, projects, field exposure, assessment, and alternatives. The map makes clear which parts are evidence-backed, institution-defined, family assumptions, or open questions.
 
-It provides approved sources, defines hard gates and standards, protects learner data, evaluates outcomes, and turns validated implementation into a reusable playbook.
+### A public-service pathway
 
-## Pathway sequence
+Using UPSC as an example, the learner explores a specific kind of public service rather than only “becoming an IAS officer”. The experience connects study, writing, governance, service exposure, problem diagnosis, UPSC/PSC preparation, and adjacent routes.
 
-1. **See the possibility** — explore problems, professions, and forms of contribution.
-2. **Describe the aspiration** — articulate the people, problems, work, and values behind a goal.
-3. **Map the route** — connect foundations, capabilities, experiences, assessments, gates, and alternatives.
-4. **Learn with evidence** — use approved text, video, exercises, and sources.
-5. **Practise in the world** — complete projects, service work, camps, internships, or supervised experiences.
-6. **Check progression** — review mastery, reasoning, work quality, wellbeing, and confidence.
-7. **Prepare for the gate** — take the relevant examination, licensing assessment, employer evaluation, or apprenticeship test.
-8. **Reorient when needed** — choose an adjacent route without treating the first outcome as personal failure.
+## Selection test
 
-## Experience requirements
+Choose the candidate that has:
 
-- The learner can always see why the current activity matters to the chosen pathway.
-- The system distinguishes approved source evidence from generated adaptation.
-- The pathway shows both the primary destination and viable alternatives.
-- Family aspiration does not override learner voice.
-- Teacher and community review remain visible in high-stakes decisions.
-- The interface measures meaningful progression rather than only time, clicks, or completion.
-- The experience works with low bandwidth, multiple languages, and different device access in public deployments.
+- one identifiable first user;
+- one consequential decision;
+- a visible human review loop;
+- a credible source and evidence boundary;
+- a useful output without pretending to predict the future;
+- a route to a later deployment or research question.
 
+## Required experience sequence
+
+The exact interface is open, but the experience should make this sequence visible:
+
+1. **Start with the learner’s words.** What are they drawn toward, and why?
+2. **Make the aspiration specific.** What work, problem, people, and values sit behind the label?
+3. **Show the route.** Which foundations, capabilities, experiences, assessments, and hard gates matter?
+4. **Keep alternatives alive.** What other routes preserve the purpose?
+5. **Choose a next experiment.** What can the learner do, observe, or practise now?
+6. **Review with a human.** What should the learner, parent, or mentor revise?
+
+## AI’s role
+
+AI may help ask better questions, organise approved material, adapt examples, translate, identify missing information, and produce a draft map. It must show uncertainty and preserve the learner’s and mentor’s ability to correct it.
+
+AI must not assign a destiny, rank children by inferred potential, turn a family’s privilege into proof of causality, or hide the difference between generated material and an approved source.
+
+## Success condition
+
+A reviewer should be able to explain:
+
+- what the learner is exploring;
+- why the exploration matters;
+- what remains foundational;
+- what can be practised now;
+- what gate or assessment is real;
+- what alternatives remain open;
+- what the next human conversation or experiment is.
+
+If the reviewer only remembers that the interface generated a polished pathway, the prototype has failed.
