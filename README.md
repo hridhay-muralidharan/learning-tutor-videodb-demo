@@ -2,7 +2,7 @@
 
 Pathway learning is a research prototype for institutions to connect education with the outcomes a learner hopes to pursue. A learner and family explore an aspiration, the system maps it to foundations, knowledge, practice, experience, assessment, and the relevant hard gate, and institutions use approved content and reusable infrastructure to support the journey.
 
-The prototype began as a VideoDB-powered GATE Organic Chemistry study workbench. That work demonstrates how approved syllabus, textbook, lecture, and question-bank material can become a source-grounded learning loop. The larger product question is how those same building blocks can support a multi-year pathway toward public service, medicine, engineering, product work, skilled trades, or another meaningful contribution.
+The repository is currently a documentation and research home for this idea. A prototype should be chosen only after the central human decision and first deployment context are clear.
 
 ## Education as a pathway
 
@@ -54,23 +54,15 @@ An aspiration adjacency map keeps a selective examination from becoming a single
 
 The ethical north star is *loka kshema*: directing knowledge and work toward the welfare of people and the living world, rather than treating one exam, institution, title, or salary as the only definition of success.
 
-## Prototype: one source-grounded study loop
+## Prototype status
 
-The current prototype demonstrates one reusable building block:
+The next prototype has deliberately not been fixed. The strongest candidates are a self-discovery journey, an aspiration adjacency map, a family decision workspace, or a public-service pathway. Each would test a different part of the thesis. The choice should follow from the first user, the decision to be improved, and the evidence the prototype must produce.
 
-1. an institution provides approved syllabus, textbook, video, and question-bank sources;
-2. the system maps them to concept threads;
-3. VideoDB finds timestamped moments in long-form lectures;
-4. the learner studies the source-backed lesson;
-5. the learner practises and marks confidence;
-6. weak or uncertain concepts move into review;
-7. the institution can inspect the evidence and regenerate the app.
-
-The GATE Organic Chemistry course is a public demo pack. It is not the product boundary.
+The repository retains an earlier chemistry study application as archived prior work. It is not being presented as the product or as evidence that the pathway thesis has been validated. [Archived prior work](docs/ARCHIVED_VIDEO_DB_WORK.md)
 
 ## Role of GenAI
 
-GenAI can adapt an approved pathway to different learners, languages, contexts, and time constraints. It can reorganise approved content, find relevant video moments, generate grounded practice, vary examples and difficulty, connect learning to projects and assessments, surface leading indicators, and package validated implementation into a reusable playbook.
+GenAI can adapt an approved pathway to different learners, languages, contexts, and time constraints. It can help reorganise content, generate grounded practice, vary examples and difficulty, connect learning to projects and assessments, surface leading indicators, and package validated implementation into a reusable playbook.
 
 It does not choose a child's destiny, replace teachers, manufacture evidence, or turn an aspiration into a guaranteed outcome. Missing or disconnected evidence remains visible as incomplete.
 
@@ -105,22 +97,6 @@ This is an education and pathway research prototype. It does not guarantee exami
 - [Evidence ledger](docs/research/evidence_ledger.md)
 - [Pathway strategy](docs/product/pathway_strategy.md)
 - [Interview talk track](docs/product/interview_talk_track.md)
-- [Architecture](docs/architecture.md)
-- [VideoDB setup](docs/videodb_setup.md)
-
-## Run locally
-
-The bundled app uses prebuilt artifacts and does not spend VideoDB credits.
-
-```bash
-python3 -m learning_tutor doctor --course courses/gate_organic_chemistry
-python3 -m learning_tutor app serve --course courses/gate_organic_chemistry
-```
-
-To regenerate the app:
-
-```bash
-python3 -m learning_tutor app generate --course courses/gate_organic_chemistry
-```
+- [Archived VideoDB implementation](docs/ARCHIVED_VIDEO_DB_WORK.md)
 
 The repository contains no credentials, private signed URLs, licensed textbook files, private question banks, or institution-only source exports.

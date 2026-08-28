@@ -2,21 +2,15 @@
 
 ## The 60-second version
 
-I started with a VideoDB-powered chemistry study app, but the deeper problem is larger than better content discovery. Education often separates what a learner studies from the outcome they are preparing for, then uses broad certificates as proxies for capability. My reorientation is an aspiration-led pathway engine: preserve foundational learning, help learners explore and choose informed directions, map the direction to knowledge, practice, experience, and the relevant hard gate, and use AI to personalize and diffuse that pathway through institutions. UPSC is the first reference case because the exam is a real selection gate; product management is a contrasting case where demonstrated work may matter more than a degree.
+Education often separates what a learner studies from the outcome they are preparing for, then uses broad certificates as proxies for capability. My thesis is that education should preserve foundational learning, help learners explore and choose informed directions, and then connect those directions to knowledge, practice, experience, and the relevant hard gate. UPSC is a useful reference case because the exam is a real selection gate; product management is a contrasting case where demonstrated work may matter more than a degree.
 
 ## The product question
 
 How might an institution deploy a validated, source-grounded pathway that connects curriculum to aspiration, authentic experience, and the examination or work evidence required at the end?
 
-## What the prototype proves today
+## What is intentionally not yet claimed
 
-- approved syllabus, textbook, video, and question-bank ingestion;
-- VideoDB timestamped retrieval from long-form lessons;
-- concept-level evidence graph;
-- adaptive study sequencing;
-- practice, confidence, mastery, and review states;
-- explicit handling of missing or incomplete evidence;
-- institution-controlled sources and reusable generated apps.
+There is no chosen product prototype yet. The next prototype should test one human decision—such as clarifying an aspiration, comparing adjacent pathways, or deciding whether a family is ready to commit to a pathway—and produce evidence about that decision. The earlier chemistry application is archived prior work, not proof of this thesis.
 
 ## What would change next
 
@@ -73,4 +67,4 @@ The objective is not to maximize exam selection at any cost. It is to develop ca
 
 ## The honest limitation
 
-The prototype is not evidence that aspiration-led education improves outcomes yet. It is a working infrastructure base and a testable product hypothesis. The next step is a narrowly scoped pathway pilot with explicit safeguards, comparison measures, and teacher and learner feedback.
+The thesis is not evidence that aspiration-led education improves outcomes yet. The next step is to choose a narrowly scoped prototype with explicit safeguards, comparison measures, and learner, parent, and educator feedback.
