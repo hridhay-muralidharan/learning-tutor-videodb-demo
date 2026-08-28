@@ -182,6 +182,19 @@ function renderDashboard() {
   }
   views.dashboard.innerHTML = `
     <div class="dashboard-layout">
+      <section class="pathway-context" aria-labelledby="pathwayContextTitle">
+        <div>
+          <p class="kicker">From curriculum to capability</p>
+          <h2 id="pathwayContextTitle">A study app is one building block in a longer pathway.</h2>
+        </div>
+        <p>Keep the approved course as the anchor. Add aspiration, applied work, experience, and the outcome-specific gate that the learner is preparing for.</p>
+        <div class="pathway-steps" aria-label="Pathway model">
+          <span><b>01</b> foundations</span>
+          <span><b>02</b> pathway practice</span>
+          <span><b>03</b> credible evidence</span>
+          <span><b>04</b> outcome gate</span>
+        </div>
+      </section>
       <section class="start-panel" aria-labelledby="startTitle">
         <p class="kicker">Today's class</p>
         <h2 id="startTitle">${escapeHtml(lesson.title)}</h2>

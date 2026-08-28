@@ -205,6 +205,25 @@ input:focus-visible {
   align-items: start;
 }
 
+.pathway-context {
+  grid-column: 1 / -1;
+  display: grid;
+  grid-template-columns: minmax(260px, 1.1fr) minmax(240px, .9fr);
+  gap: 18px 42px;
+  padding: 22px 26px 20px;
+  background: var(--accent-strong);
+  color: #f4f5ee;
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+}
+
+.pathway-context .kicker { color: #b7d4c8; }
+.pathway-context h2 { max-width: 24ch; margin: 0; font-size: clamp(24px, 3vw, 38px); line-height: 1.05; letter-spacing: -.03em; }
+.pathway-context > p { max-width: 48ch; margin: 4px 0 0; color: #d9e4dc; }
+.pathway-steps { grid-column: 1 / -1; display: flex; flex-wrap: wrap; gap: 10px 22px; padding-top: 4px; border-top: 1px solid rgba(255,255,255,.22); color: #d9e4dc; font-size: 13px; font-weight: 750; }
+.pathway-steps span { display: inline-flex; gap: 8px; align-items: center; }
+.pathway-steps b { color: #efb392; font-variant-numeric: tabular-nums; }
+
 .start-panel,
 .study-panel,
 .today-panel,

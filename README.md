@@ -1,171 +1,126 @@
-# Learning Tutor
+# Pathway learning
 
-Learning Tutor is a source-grounded study-app generator for institutions and learners.
+Pathway learning is a research prototype for institutions to connect education with the outcomes a learner hopes to pursue. A learner and family explore an aspiration, the system maps it to foundations, knowledge, practice, experience, assessment, and the relevant hard gate, and institutions use approved content and reusable infrastructure to support the journey.
 
-Schools, colleges, coaching programs, and training teams can plug in approved syllabus files, textbooks, video lessons, and question banks, then generate a learner-facing app that supports personalized pacing, support level, practice order, review, and source visibility. The system is designed for environments where one teacher may support many students, and where licensed learning material must remain protected.
+The prototype began as a VideoDB-powered GATE Organic Chemistry study workbench. That work demonstrates how approved syllabus, textbook, lecture, and question-bank material can become a source-grounded learning loop. The larger product question is how those same building blocks can support a multi-year pathway toward public service, medicine, engineering, product work, skilled trades, or another meaningful contribution.
 
-The bundled **GATE Organic Chemistry** course is the public demo pack because public/demo-friendly resources are available. It is not the product boundary.
+## Education as a pathway
 
-## Use The Demo App
+Education is often treated as a sequence of classes, subjects, and certificates, followed much later by a high-stakes examination or a job search. The pathway model asks:
 
-This path uses the prebuilt static app. It does not regenerate lesson plans, ingest videos, or spend VideoDB credits.
+> What should this learner know, practise, experience, and be able to demonstrate if they want to make a particular contribution to society?
 
-```bash
-python3 -m learning_tutor doctor --course courses/gate_organic_chemistry
-python3 -m learning_tutor app serve --course courses/gate_organic_chemistry
+This is not a proposal to remove common foundations or lock a child into a profession at age 11. It is a proposal to make aspiration, relevance, practice, and outcome gates visible earlier, while keeping the path revisable.
+
+The model has three layers:
+
+- **Common foundations** — literacy, numeracy, communication, scientific reasoning, health literacy, civic understanding, digital fluency, self-awareness, and the ability to learn.
+- **Aspiration-linked development** — relevant subjects, examples, projects, mentors, camps, internships, and applied practice.
+- **Outcome-specific gates** — UPSC or NEET, professional licensing, apprenticeship assessment, employer evaluation, portfolio evidence, or a degree where it genuinely matters.
+
+Credentials are neither universally obsolete nor universally sufficient. They are valuable when they certify a real gate. They are weak when used as a generic proxy for capability that can be demonstrated directly.
+
+## A seed-to-forest deployment model
+
+The first deployment should not ask families with the least room for error to carry the risk of an unproven model. It should begin with urban families who are already willing to experiment, generate trustworthy evidence, and then build a public-interest deployment pathway.
+
+```text
+urban early adopters
+  → selected gram panchayats
+  → one district playbook
+  → neighboring districts
+  → one state playbook
+  → neighboring states
+  → national public infrastructure
 ```
 
-Open the local URL printed by the server. In the app, use the **Profile** panel to personalize:
+Each step tests a different context. The first cohort tests the learner and family experience. Gram panchayats test language, offline access, teachers, and local ownership. Districts test administration, staffing, funding, governance, and measurement. States test curriculum alignment, examination pathways, procurement, and public financing. National adoption tests interoperability and whether the building blocks can become a shared public good.
 
-- main goal
-- support level
-- session length
-- practice order
-- source detail
+The first cohort can also become a constituency for the mission through referrals, mentorship, employer connections, grants, donations, and philanthropy. The goal is not to use affluent families merely as proof points for poorer families. It is to help them experience meaningful outcomes and then make the public value, cost, safeguards, and route to wider adoption clear.
 
-Use the local server URL for review. Opening `site/index.html` directly as a `file://` page can prevent YouTube embeds from playing even when the timestamped source link is valid.
+This is aligned with Viksit Bharat @2047: a multi-decade national vision needs education that compounds capability across generations. It is also aligned with EkStep's seed-to-forest philosophy: do the first deployment carefully enough that the next generation inherits better evidence, infrastructure, and ways of working.
 
-## Build An Institutional Course
+## The public-service pathway
 
-Copy the demo course folder, replace the source manifests with institution-approved materials, validate, then run setup with explicit VideoDB confirmation:
+The first pathway example uses UPSC as a hard selection gate, without reducing public service to one examination. The learner explores the kind of public service they want to pursue, the people and problems they want to serve, and the capabilities required to contribute.
 
-```bash
-cp -R courses/gate_organic_chemistry courses/my_course
-python3 -m learning_tutor course validate --course courses/my_course
-python3 -m learning_tutor videos estimate --course courses/my_course --budget 10
-python3 -m learning_tutor videos dry-run --course courses/my_course --budget 10
-python3 -m learning_tutor setup-course --course courses/my_course --confirm-ingest --budget 10
+The pathway can include foundational reading and writing, governance, history, geography, economics, science, current affairs, public-problem diagnosis, community projects, field visits, service exposure, formative tests, answer writing, reasoning, interview practice, UPSC or PSC, and adjacent routes into state services, health administration, education, rural development, research, or civil-society work.
+
+## Self-discovery and alternatives
+
+The system should help a learner move beyond labels such as “engineer,” “doctor,” or “civil servant.” It should help them describe the problems they want to work on, the people they want to serve, the kind of work they enjoy, and the alternatives that express the same underlying purpose.
+
+An aspiration adjacency map keeps a selective examination from becoming a single point of failure. A learner interested in mechanical engineering can compare that branch across institutions instead of accepting an unrelated branch only for prestige. A public-service learner can consider state services, public health, education, rural development, research, or local governance if UPSC is not cleared.
+
+The ethical north star is *loka kshema*: directing knowledge and work toward the welfare of people and the living world, rather than treating one exam, institution, title, or salary as the only definition of success.
+
+## Prototype: one source-grounded study loop
+
+The current prototype demonstrates one reusable building block:
+
+1. an institution provides approved syllabus, textbook, video, and question-bank sources;
+2. the system maps them to concept threads;
+3. VideoDB finds timestamped moments in long-form lectures;
+4. the learner studies the source-backed lesson;
+5. the learner practises and marks confidence;
+6. weak or uncertain concepts move into review;
+7. the institution can inspect the evidence and regenerate the app.
+
+The GATE Organic Chemistry course is a public demo pack. It is not the product boundary.
+
+## Role of GenAI
+
+GenAI can adapt an approved pathway to different learners, languages, contexts, and time constraints. It can reorganise approved content, find relevant video moments, generate grounded practice, vary examples and difficulty, connect learning to projects and assessments, surface leading indicators, and package validated implementation into a reusable playbook.
+
+It does not choose a child's destiny, replace teachers, manufacture evidence, or turn an aspiration into a guaranteed outcome. Missing or disconnected evidence remains visible as incomplete.
+
+## Evaluation and the long horizon
+
+A class-6-to-career pathway may take 12–15 years to observe fully. The first deployment therefore needs both long-term outcomes and measurable leading indicators: mastery, reasoning, writing, applied problem solving, service orientation, wellbeing, and progression against the relevant gate.
+
+```text
+deployment → observe leading indicators → validate against later outcomes
+→ improve pathway → shorten the next deployment
 ```
 
-Course-specific material belongs in `courses/<course_name>/`. Generic code lives in `learning_tutor/`; app templates live in `templates/app/`.
+Doing it right comes before doing it fast. Speed becomes valuable when validated indicators, content mappings, governance checkpoints, and implementation knowledge allow the next institution to move faster without repeating the same mistakes.
 
-## VideoDB Organic Chemistry Path
+## Go-to-market plan
 
-VideoDB is used as the video intelligence layer, not as a decorative integration. The app uses VideoDB spoken-word search to turn approved long-form lecture videos into lesson-matched board moments. A video card is treated as source-backed only when it has a real VideoDB video ID, ready spoken-word indexing, a timestamped VideoDB search result, and a lesson-specific topical match. Caption or transcript fallback is not promoted to source-backed video evidence.
+The initial segment is a hypothesis: urban Indian parents working in technology or adjacent knowledge jobs, especially those who have experienced a mismatch between their own education and work and are actively exploring alternative schooling, homeschooling, or mastery-based learning.
 
-Lesson assembly now runs through a cross-source evidence graph. Each lesson defines concept threads, the graph indexes syllabus/textbook/video/question evidence against those threads, and the app selects the strongest shared thread across source types. This prevents a broad topic match, such as a stereochemistry video on Walden inversion, from being presented beside textbook/question evidence about enantiomers and specific rotation.
+The first phase should recruit a small cohort, begin with a bounded pathway module, capture baseline outcomes and family context, measure learning and wellbeing, document what transfers and what depends on privilege, use outcomes to build advocacy and capital, and move from families to gram panchayats, districts, states, and national platforms.
 
-The public GATE Organic Chemistry pack includes a completed real VideoDB video pass for all seven Organic Chemistry lessons:
+## Boundaries
 
-- `stereochemistry`
-- `reaction_mechanisms`
-- `organic_synthesis`
-- `pericyclic_photochemistry`
-- `heterocycles`
-- `biomolecules`
-- `experimental_techniques`
-
-The full-course path uses the seven lesson list below. No-spend checks:
-
-```bash
-python3 -m learning_tutor videos estimate --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-python3 -m learning_tutor videos dry-run --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-```
-
-Paid ingest path:
-
-```bash
-python3 -m learning_tutor videos ingest --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-```
-
-Refresh search validation for already uploaded videos without re-uploading:
-
-```bash
-python3 -m learning_tutor videos refresh-search --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-```
-
-`videos ingest` uploads only planned, not-yet-ingested sources after a fresh successful dry-run, snapshots VideoDB usage before ingest and after each video, indexes spoken words, caches transcript segments, stores timestamped search-validation results, and stops if actual/projected spend crosses the budget. `videos refresh-search` re-runs live VideoDB spoken-word searches against already uploaded videos and records before/after usage snapshots. Scene indexing is off for this course because `requires_scene_index: false`.
-
-## Source Protection Model
-
-Institution-controlled environments can keep raw source files private:
-
-- licensed textbook PDFs
-- question banks and solution keys
-- private lecture recordings
-- signed media URLs
-- VideoDB API keys
-
-The generated learner app should expose only approved excerpts, citations, timestamps, readiness states, and personalization controls.
-
-## CLI Reference
-
-```bash
-python3 -m learning_tutor doctor --course courses/gate_organic_chemistry
-python3 -m learning_tutor course validate --course courses/gate_organic_chemistry
-python3 -m learning_tutor syllabus index --course courses/gate_organic_chemistry
-python3 -m learning_tutor textbooks index --course courses/gate_organic_chemistry
-python3 -m learning_tutor questions index --course courses/gate_organic_chemistry
-python3 -m learning_tutor videos discover --course courses/gate_organic_chemistry
-python3 -m learning_tutor videos estimate --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-python3 -m learning_tutor videos dry-run --course courses/gate_organic_chemistry --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-python3 -m learning_tutor videos ingest --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-python3 -m learning_tutor videos refresh-search --course courses/gate_organic_chemistry --confirm --lessons stereochemistry,reaction_mechanisms,organic_synthesis,pericyclic_photochemistry,heterocycles,biomolecules,experimental_techniques --budget 10
-python3 -m learning_tutor graph build --course courses/gate_organic_chemistry
-python3 -m learning_tutor graph verify --course courses/gate_organic_chemistry
-python3 -m learning_tutor videos verify --course courses/gate_organic_chemistry
-python3 -m learning_tutor app generate --course courses/gate_organic_chemistry
-python3 -m learning_tutor app serve --course courses/gate_organic_chemistry
-```
-
-Credit-control rules:
-
-- `doctor`, `app serve`, `app generate`, and `videos discover` do not spend VideoDB credits.
-- `videos ingest` requires `--confirm`.
-- `videos refresh-search` requires `--confirm` because it calls live VideoDB search, but it does not re-upload videos.
-- `setup-course` requires `--confirm-ingest` before ingestion.
-- `app generate` fails if video verification fails.
+This is an education and pathway research prototype. It does not guarantee examination success, predict a child's future, replace qualified teachers, or prescribe a single life path. Early aspiration is revisable. Selective examinations remain uncertain. Public deployment must address child safety, privacy, language, disability access, teacher agency, socioeconomic bias, opportunity cost, and premature tracking.
 
 ## Documentation
 
-- [Product requirements](docs/product/prd.md)
-- [Team process](docs/product/team_process.md)
-- [Personas](docs/product/personas.md)
-- [Learning journeys](docs/product/learning_journeys.md)
-- [Epics and stories](docs/product/epics_and_stories.md)
-- [Acceptance criteria](docs/product/acceptance_criteria.md)
-- [Reference flows](docs/product/reference_flows.md)
-- [Wireframes](docs/design/wireframes.md)
-- [Screen specs](docs/design/screen_specs.md)
-- [UI direction](docs/design/ui_direction.md)
-- [QA acceptance matrix](docs/qa/acceptance_test_matrix.md)
-- [Implementation QA report](docs/qa/implementation_qa_report.md)
-- [Engineering implementation plan](docs/engineering/implementation_plan.md)
+- [Product truth](docs/PRODUCT_TRUTH.md)
+- [Experience specification](docs/EXPERIENCE_SPEC.md)
+- [Target audience](docs/TARGET_AUDIENCE.md)
+- [Evaluation plan](docs/EVALUATION_PLAN.md)
+- [Deployment playbook](docs/DEPLOYMENT_PLAYBOOK.md)
+- [Evidence ledger](docs/research/evidence_ledger.md)
+- [Pathway strategy](docs/product/pathway_strategy.md)
+- [Interview talk track](docs/product/interview_talk_track.md)
 - [Architecture](docs/architecture.md)
-- [Course config](docs/course_config.md)
-- [Institution deployment](docs/institution_deployment.md)
-- [Personalization journey](docs/personalization_journey.md)
-- [Evidence rules](docs/evidence_rules.md)
 - [VideoDB setup](docs/videodb_setup.md)
-- [Customizing app generation](docs/customizing_app_generation.md)
-- [EdTech UX model](docs/edtech_ux_model.md)
 
-## Requirements
+## Run locally
 
-- Python 3.10+
-- PyYAML
-- VideoDB SDK for live video ingestion/indexing
-- `yt-dlp` only when playlist discovery is needed
-
-Install dependencies:
+The bundled app uses prebuilt artifacts and does not spend VideoDB credits.
 
 ```bash
-pip install -r requirements.txt
+python3 -m learning_tutor doctor --course courses/gate_organic_chemistry
+python3 -m learning_tutor app serve --course courses/gate_organic_chemistry
 ```
 
-Set credentials only in local/private environments:
+To regenerate the app:
 
 ```bash
-cp .env.example .env
-# Add VIDEODB_API_KEY or VIDEO_DB_API_KEY
+python3 -m learning_tutor app generate --course courses/gate_organic_chemistry
 ```
 
-Do not commit credentials, private licensed sources, private signed URLs, or institution-only materials.
-
-## Evidence and Privacy
-
-- Real: generic course validation, no-spend VideoDB estimate/dry-run gates, live VideoDB adapter implementation, VideoDB search-refresh for already uploaded videos, evidence graph build/verify, completed real VideoDB spoken-word search evidence across all seven GATE Organic Chemistry lessons, OpenStax textbook section evidence, official GATE Chemistry question-paper evidence, regenerated classroom-style static app, source-state guardrails, and browser/unit QA.
-- Real textbook source: OpenStax Organic Chemistry, John McMurry, 10th edition, with curated section evidence and source URLs under CC BY-NC-SA 4.0.
-- Real question-bank source: official GATE Chemistry 2025 and 2024 question papers and answer keys from the IIT/GATE download pages.
-- Active real ready video IDs: `m-z-019f9f53-86c6-79f3-8304-d9dabec3e2b5`, `m-z-019f9deb-0e6e-7533-b064-09fa80d54428`, `m-z-019f9df7-8edd-79a1-869d-a5ceb34bcea6`, `m-z-019f9e12-1767-77b0-83b1-76e80dae1106`, `m-z-019f9f35-9950-79a0-9630-6046f9c7f2e0`, `m-z-019f9e34-c978-7652-8e88-6a9acb307a35`, `m-z-019f9e38-872e-7cc2-ac64-b6f1c50fd991`, `m-z-019f9e39-aa4f-7ad1-b6fc-2c4713d68eed`, `m-z-019f9e3a-dd9e-7d00-a8c4-37ad5b417ce3`.
-- Protected source material is not included: `.env`, VideoDB credentials, private licensed PDFs, private question banks, private lecture media, signed URLs, and institution-only source exports.
+The repository contains no credentials, private signed URLs, licensed textbook files, private question banks, or institution-only source exports.
