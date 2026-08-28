@@ -22,13 +22,15 @@ The problem is not necessarily that the theory is wrong. The problem is that its
 
 ## The +1 system
 
-+1 systems built using Gen AI can be useful in reorienting the same syllabus towards focused real world outcomes and helping children and parents understand much earlier in the journey on the child’s inclinations and then supplement the child only with the subjects that are relevant, instead of forcing a variety of subjects in the name of general knowledge.
+The modern education system is not wrong. Its just that we are sharing a more low level abstraction to the student.
 
-The general knowledge that is actually needed only pertains to important life outcomes. For example, the importance of the heart and what happens if certain activities or food items are consumed and how to maintain important heart health etc etc. How the legal system actually works. How to know and defend your rights as a citizen. The actual relevant practical knowledge for living an informed life as a citizen/human in this country.
+The theory should be organized by various subjects like physics, chemistry mathematics because that is the foundational knowledge. But when it is taught to students, we introduce an abstraction layer. The right abstraction layer is a multidisciplinary field organized based on focused real world outcome like say development of medicines to cure deadly diseases, or uncovering hidden insights about the universe or atom, building the next breakthrough physical technology for sustainable construction, developing new digital technologies that can reduce cost of living.
 
-A person oriented towards public service shouldn’t be expected to memorize the diagram of how a heart looks and works and to label the functionality of each part, only the real world outcome matters.
+The other abstraction becomes the general knowledge that people not specialising in a specific field must know like the heart health example. The general knowledge that is actually needed only pertains to important life outcomes: the importance of the heart, what happens if certain activities or food items are consumed, how to maintain important heart health, how the legal system actually works, and how to know and defend your rights as a citizen.
 
-So, abstraction becomes a key element in defining what is relevant where Gen AI can prove useful. The teachers can prepare a standardised lecture and textbooks that cover the entire theory in depth so the relevant audience can consume the needed theory while for other audiences it is abstracted effectively.
+A person oriented towards public service shouldn’t be expected to memorize the diagram of how a heart looks and works and to label the functionality of each part, only the real world outcome matters. That does not make the underlying biology irrelevant. It means the student encounters it through a different abstraction layer when that depth is not needed for their chosen focus.
+
+So, abstraction becomes a key element in defining what is relevant where Gen AI can prove useful. The teachers can prepare standardised lectures and textbooks that cover the entire theory in depth. The relevant audience can consume the needed theory directly, while other audiences can encounter the same theory through an abstraction organised around their focused real-world outcome or the practical knowledge needed for living an informed life.
 
 ## Evolution of the target segment
 

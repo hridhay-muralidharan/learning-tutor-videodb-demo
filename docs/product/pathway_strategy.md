@@ -24,17 +24,21 @@ The possible product is an aspiration-led pathway system: a source-grounded way 
 
 AI is the diffusion layer. It can adapt approved content, language, examples, exercises, and pacing to the learner and context. It does not decide a child's destiny, replace teachers, or manufacture evidence of competence.
 
-## Three layers of learning
+## Two levels of abstraction
 
-### 1. Common foundations
+### 1. Foundational theory
 
-Literacy, numeracy, communication, scientific reasoning, health literacy, civic understanding, digital fluency, self-awareness, and the ability to learn. These are capabilities for living and for changing direction later.
+The modern education system is not wrong. Physics, chemistry, mathematics, biology, literacy, numeracy, communication, scientific reasoning, and the ability to learn remain foundational knowledge. Teachers and institutions should continue to organise the underlying theory by subject.
 
-### 2. Aspiration-linked development
+### 2. Outcome-oriented abstraction
 
-From the middle stage onward, learners can explore professions and build relevant knowledge, projects, mentors, field exposure, and practice. The pathway must remain reversible because information, interests, and constraints change.
+When theory is taught to a student, it can be reorganised through a multidisciplinary field tied to a focused real-world outcome: developing medicines to cure deadly diseases, uncovering hidden insights about the universe or atom, building breakthrough physical technology for sustainable construction, or developing digital technologies that reduce the cost of living.
 
-### 3. Outcome-specific gates
+There is also a general-knowledge abstraction for people not specialising in a specific field: heart health, how the legal system works, and how to know and defend one's rights as a citizen. A public-service-oriented learner need not memorise and label every part of the heart to understand the health outcomes they should value. The underlying biology remains available; the abstraction makes its relevance visible.
+
+From the middle stage onward, learners can explore these outcome-oriented fields and build relevant knowledge, projects, mentors, field exposure, and practice. The pathway must remain reversible because information, interests, and constraints change.
+
+## Outcome-specific gates
 
 Different destinations require different proof:
 

@@ -16,10 +16,10 @@ Education is often treated as a sequence of classes, subjects, and certificates,
 
 This is not a proposal to remove common foundations or lock a child into a profession at age 11. It is a proposal to make aspiration, relevance, practice, and outcome gates visible earlier, while keeping the path revisable.
 
-The model has three layers:
+The model has two levels of abstraction, followed by the relevant hard gate:
 
-- **Common foundations** — literacy, numeracy, communication, scientific reasoning, health literacy, civic understanding, digital fluency, self-awareness, and the ability to learn.
-- **Aspiration-linked development** — relevant subjects, examples, projects, mentors, camps, internships, and applied practice.
+- **Foundational theory** — physics, chemistry, mathematics, biology, literacy, numeracy, communication, scientific reasoning, and the ability to learn, still organised by subject.
+- **Outcome-oriented abstraction** — multidisciplinary fields organised around a focused real-world outcome, or practical general knowledge needed to live as an informed citizen.
 - **Outcome-specific gates** — UPSC or NEET, professional licensing, apprenticeship assessment, employer evaluation, portfolio evidence, or a degree where it genuinely matters.
 
 Credentials are neither universally obsolete nor universally sufficient. They are valuable when they certify a real gate. They are weak when used as a generic proxy for capability that can be demonstrated directly.

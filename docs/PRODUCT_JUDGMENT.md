@@ -54,9 +54,13 @@ The prototype does not need to simulate the entire sixteen-year education system
 
 ## Non-negotiable distinctions
 
-### Foundations and direction
+### Foundational theory and abstraction
 
-Common foundations remain necessary. Direction becomes more explicit after the foundations are strong enough and the learner’s interests are observable. Orientation is revisable; it is not early tracking.
+The modern education system is not wrong. The theory should remain organised by foundational subjects such as physics, chemistry, mathematics, and biology. The change is the abstraction layer through which that theory is taught.
+
+One abstraction is a multidisciplinary field organised around a focused real-world outcome: developing medicines, uncovering insights about the universe, building sustainable physical technology, or developing digital technologies that reduce the cost of living. Another abstraction is practical general knowledge for people who are not specialising in a specific field: heart health, legal systems, and knowing and defending one's rights.
+
+The same foundational theory can therefore be taught at different levels without making the foundation disappear. Direction becomes more explicit as the learner explores possibilities and their interests become more observable. Orientation is revisable; it is not early tracking.
 
 ### Purpose and gate
 
